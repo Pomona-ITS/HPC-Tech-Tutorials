@@ -1,0 +1,30 @@
+Meeting with William regarding the first steps and priorities in building out HPC infrastructure at Pomona (December 19)
+
+- Communication plan of Slack-GitHub-MindMeister/LucidChart-LiquidPlanner sounds good. 
+  Send William the invites, will read in free time, but largely leaving the architecture decisions to us.
+   
+- Reach out to DJ Merrill (Asya: done, on Dec 20) at Bowdoin to discuss how they built out the first HPC environment. 
+  They have ~2000 cores. What we are looking at building would  probably have double the amount of cores.
+  State of the art (Skylake/28 core) can get expensive. Maybe go with the generation before that first and add Skylake in 
+  6 months when the environment is established. Maybe use SuperMicro aka White Box instead of Cisco UCS.
+  Partner with Stanford (Asya: already reached out to John in Dec), Dartmouth (Mitch, ex-CIO at Bowdoin, maybe do a joint
+  presentation when he comes to visit Pomona), Reed.
+  
+- Focus on building the infrastructure at Pomona. Talking to CUC and other entities (like the Data Science discussion led
+  by Debra Mashek) is good, and continue engaging in the dialog, but they are not paying for the infrastructure. 
+  In the future we could work out some form of sharing the environment, collaborations, contributions etc
+  
+- Research Computing Advisory Committee has regular meetings. Should attend. Rolondo can assist with the scheduling.
+  (Asya: asked Rolondo to add, Dec 20)
+  
+- Focus on applications, specifically R/RStudio. Math department needs a stable environment to teach. (Asya: working with Todd
+  on taking over the Footprints tickets and syncing dev and prod instances)
+
+- Asya to plan on presenting at Educause with a tentative title of "Building Out an HPC Infrastructure at a Liberal Arts College". 
+  Keep talking to Faculty throughout the year to include specific projects that use HPC.
+  
+- VMWare's support is not great. vSAN had not been stable. Looked into Micorosft/HyperV. Worth looking into a new solution 
+  like HCI (HyperConverged) Nutanix, especially if that also can use other than their own hypervisor and improves the VDI/Application
+  delivery experience (specifically, SAS, SPSS, Mathematica, Stata). NVIDIA Grid and DGX can be used as a part of the Nutanix
+  solution. (Asya: had an intro call with Nutanix and Todd, slides/notes are [here]. Will schedule a more in-depth demo and
+  discussion in January with the rest of ITS and PMO.)
