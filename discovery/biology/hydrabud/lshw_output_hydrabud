@@ -1,0 +1,576 @@
+hydrabud.pomona.edu
+    description: Rack Mount Chassis
+    product: ProLiant DL180 G6
+    vendor: HP
+    serial: MXQ152014J
+    width: 64 bits
+    capabilities: smbios-2.7 dmi-2.7 vsyscall64 vsyscall32
+    configuration: boot=normal chassis=rackmount uuid=CF0F5F81-FE8E-11D5-80FA-E83935BF8BEF
+  *-core
+       description: Motherboard
+       physical id: 0
+     *-firmware
+          description: BIOS
+          vendor: HP
+          physical id: 0
+          version: O20
+          date: 09/01/2011
+          size: 64KiB
+          capacity: 1984KiB
+          capabilities: isa pci pnp upgrade shadowing escd cdboot bootselect edd int5printscreen int14serial int10video acpi usb biosbootspecification
+     *-cpu:0
+          description: CPU
+          product: Xeon
+          vendor: Intel Corp.
+          vendor_id: GenuineIntel
+          physical id: 4
+          bus info: cpu@0
+          version: Intel(R) Xeon(R) CPU           E5620  @ 2.40GHz
+          slot: Proc 1
+          size: 2401MHz
+          capacity: 2401MHz
+          width: 64 bits
+          clock: 532MHz
+          capabilities: x86-64 fpu fpu_exception wp vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx pdpe1gb rdtscp constant_tsc arch_perfmon pebs bts rep_good xtopology nonstop_tsc aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 cx16 xtpr pdcm pcid dca sse4_1 sse4_2 popcnt aes lahf_lm ida arat epb dtherm tpr_shadow vnmi flexpriority ept vpid cpufreq
+          configuration: cores=4 enabledcores=4 threads=8
+        *-cache:0
+             description: L1 cache
+             physical id: 5
+             slot: L1-Cache
+             size: 256KiB
+             capacity: 256KiB
+             capabilities: internal write-through instruction
+        *-cache:1
+             description: L2 cache
+             physical id: 6
+             slot: L2-Cache
+             size: 1MiB
+             capacity: 1MiB
+             capabilities: internal write-through unified
+        *-cache:2
+             description: L3 cache
+             physical id: 7
+             slot: L3-Cache
+             size: 12MiB
+             capacity: 12MiB
+             capabilities: internal write-back unified
+     *-cpu:1 DISABLED
+          description: CPU [empty]
+          physical id: 8
+          slot: Proc 2
+     *-memory
+          description: System Memory
+          physical id: 22
+          slot: System board or motherboard
+          size: 16GiB
+        *-bank:0
+             description: DIMM DDR3 Synchronous 1333 MHz (0.8 ns)
+             product: HMT42GR7MFR4A-H9
+             vendor: Hyundai
+             physical id: 0
+             serial: D5225048
+             slot: PROC 1 DIMM 2A
+             size: 16GiB
+             width: 64 bits
+             clock: 1333MHz (0.8ns)
+        *-bank:1
+             description: DIMM DDR3 Synchronous [empty]
+             product: ModulePartNumber01
+             vendor: Manufacturer01
+             physical id: 1
+             serial: SerNum01
+             slot: PROC 1 DIMM 1D
+             width: 64 bits
+        *-bank:2
+             description: DIMM DDR3 Synchronous [empty]
+             product: ModulePartNumber02
+             vendor: Manufacturer02
+             physical id: 2
+             serial: SerNum02
+             slot: PROC 1 DIMM 4B
+             width: 64 bits
+        *-bank:3
+             description: DIMM DDR3 Synchronous [empty]
+             product: ModulePartNumber03
+             vendor: Manufacturer03
+             physical id: 3
+             serial: SerNum03
+             slot: PROC 1 DIMM 3E
+             width: 64 bits
+        *-bank:4
+             description: DIMM DDR3 Synchronous [empty]
+             product: ModulePartNumber04
+             vendor: Manufacturer04
+             physical id: 4
+             serial: SerNum04
+             slot: PROC 1 DIMM 6C
+             width: 64 bits
+        *-bank:5
+             description: DIMM DDR3 Synchronous [empty]
+             product: ModulePartNumber05
+             vendor: Manufacturer05
+             physical id: 5
+             serial: SerNum05
+             slot: PROC 1 DIMM 5F
+             width: 64 bits
+        *-bank:6
+             description: DIMM DDR3 Synchronous [empty]
+             product: ModulePartNumber06
+             vendor: Manufacturer06
+             physical id: 6
+             serial: SerNum06
+             slot: PROC 2 DIMM 2A
+             width: 64 bits
+        *-bank:7
+             description: DIMM DDR3 Synchronous [empty]
+             product: ModulePartNumber07
+             vendor: Manufacturer07
+             physical id: 7
+             serial: SerNum07
+             slot: PROC 2 DIMM 1D
+             width: 64 bits
+        *-bank:8
+             description: DIMM DDR3 Synchronous [empty]
+             product: ModulePartNumber08
+             vendor: Manufacturer08
+             physical id: 8
+             serial: SerNum08
+             slot: PROC 2 DIMM 4B
+             width: 64 bits
+        *-bank:9
+             description: DIMM DDR3 Synchronous [empty]
+             product: ModulePartNumber09
+             vendor: Manufacturer09
+             physical id: 9
+             serial: SerNum09
+             slot: PROC 2 DIMM 3E
+             width: 64 bits
+        *-bank:10
+             description: DIMM DDR3 Synchronous [empty]
+             product: ModulePartNumber10
+             vendor: Manufacturer10
+             physical id: a
+             serial: SerNum10
+             slot: PROC 2 DIMM 6C
+             width: 64 bits
+        *-bank:11
+             description: DIMM DDR3 Synchronous [empty]
+             product: ModulePartNumber11
+             vendor: Manufacturer11
+             physical id: b
+             serial: SerNum11
+             slot: PROC 2 DIMM 5F
+             width: 64 bits
+     *-pci
+          description: Host bridge
+          product: 5520 I/O Hub to ESI Port
+          vendor: Intel Corporation
+          physical id: 100
+          bus info: pci@0000:00:00.0
+          version: 13
+          width: 32 bits
+          clock: 33MHz
+        *-pci:0
+             description: PCI bridge
+             product: 5520/5500/X58 I/O Hub PCI Express Root Port 1
+             vendor: Intel Corporation
+             physical id: 1
+             bus info: pci@0000:00:01.0
+             version: 13
+             width: 32 bits
+             clock: 33MHz
+             capabilities: pci msi pciexpress pm normal_decode bus_master cap_list
+             resources: ioport:e000(size=4096) memory:fbe00000-fbefffff
+           *-network:0
+                description: Ethernet interface
+                product: 82576 Gigabit Network Connection
+                vendor: Intel Corporation
+                physical id: 0
+                bus info: pci@0000:07:00.0
+                logical name: eth0
+                version: 01
+                serial: e8:39:35:b1:b3:fe
+                size: 1Gbit/s
+                capacity: 1Gbit/s
+                width: 32 bits
+                clock: 33MHz
+                capabilities: pm msi msix pciexpress bus_master cap_list rom ethernet physical tp 10bt 10bt-fd 100bt 100bt-fd 1000bt-fd autonegotiation
+                configuration: autonegotiation=on broadcast=yes driver=igb driverversion=5.3.0-k duplex=full firmware=1.8.2 ip=134.173.69.171 latency=0 link=yes multicast=yes port=twisted pair speed=1Gbit/s
+                resources: irq:28 memory:fbe60000-fbe7ffff memory:fbe40000-fbe5ffff ioport:e880(size=32) memory:fbeb8000-fbebbfff memory:fbe20000-fbe3ffff(prefetchable) memory:fbe00000-fbe1ffff
+           *-network:1
+                description: Ethernet interface
+                product: 82576 Gigabit Network Connection
+                vendor: Intel Corporation
+                physical id: 0.1
+                bus info: pci@0000:07:00.1
+                logical name: eth1
+                version: 01
+                serial: e8:39:35:b1:b3:ff
+                capacity: 1Gbit/s
+                width: 32 bits
+                clock: 33MHz
+                capabilities: pm msi msix pciexpress bus_master cap_list rom ethernet physical tp 10bt 10bt-fd 100bt 100bt-fd 1000bt-fd autonegotiation
+                configuration: autonegotiation=on broadcast=yes driver=igb driverversion=5.3.0-k firmware=1.8.2 latency=0 link=no multicast=yes port=twisted pair
+                resources: irq:40 memory:fbee0000-fbefffff memory:fbec0000-fbedffff ioport:ec00(size=32) memory:fbebc000-fbebffff memory:fbe80000-fbe9ffff(prefetchable)
+        *-pci:1
+             description: PCI bridge
+             product: 5520/5500/X58 I/O Hub PCI Express Root Port 3
+             vendor: Intel Corporation
+             physical id: 3
+             bus info: pci@0000:00:03.0
+             version: 13
+             width: 32 bits
+             clock: 33MHz
+             capabilities: pci msi pciexpress pm normal_decode bus_master cap_list
+             resources: ioport:d000(size=4096) memory:fbb00000-fbdfffff
+           *-storage
+                description: RAID bus controller
+                product: Smart Array G6 controllers
+                vendor: Hewlett-Packard Company
+                physical id: 0
+                bus info: pci@0000:06:00.0
+                logical name: scsi6
+                version: 01
+                width: 64 bits
+                clock: 33MHz
+                capabilities: storage pm msi pciexpress msix bus_master cap_list rom
+                configuration: driver=hpsa latency=0
+                resources: irq:24 memory:fbc00000-fbdfffff memory:fbbff000-fbbfffff ioport:d800(size=256) memory:fbb00000-fbb7ffff(prefetchable)
+              *-generic UNCLAIMED
+                   description: SCSI
+                   product: P212
+                   vendor: HP
+                   physical id: 3.0.0
+                   bus info: scsi@6:3.0.0
+                   version: 6.40
+                   serial: PACCPID11460F59
+                   configuration: ansiversion=5
+              *-disk:0
+                   description: SCSI Disk
+                   product: LOGICAL VOLUME
+                   vendor: HP
+                   physical id: 0.0.0
+                   bus info: scsi@6:0.0.0
+                   logical name: /dev/sda
+                   version: 6.40
+                   serial: PACCPID11460F59
+                   size: 36TiB (40TB)
+                   capabilities: 15000rpm gpt-1.00 partitioned partitioned:gpt
+                   configuration: ansiversion=5 guid=94f71ed4-1540-4b16-b2e0-256d19ea7918 logicalsectorsize=512 sectorsize=4096
+                 *-volume:0
+                      description: EXT4 volume
+                      vendor: Linux
+                      physical id: 1
+                      bus info: scsi@6:0.0.0,1
+                      logical name: /dev/sda1
+                      logical name: /boot
+                      version: 1.0
+                      serial: 7a75f402-0360-4871-b21c-e44eb5045b27
+                      size: 500MiB
+                      capabilities: boot journaled extended_attributes huge_files dir_nlink recover extents ext4 ext2 initialized
+                      configuration: created=2015-01-28 04:53:12 filesystem=ext4 lastmountpoint=/boot modified=2017-11-22 22:05:00 mount.fstype=ext4 mount.options=rw,seclabel,relatime,barrier=1,data=ordered mounted=2017-11-22 12:16:23 state=mounted
+                 *-volume:1
+                      description: LVM Physical Volume
+                      vendor: Linux
+                      physical id: 2
+                      bus info: scsi@6:0.0.0,2
+                      logical name: /dev/sda2
+                      serial: gRUrfD-dTyn-ArIO-uqSM-hDJz-86fe-ib31ok
+                      size: 36TiB
+                      capabilities: multi lvm2
+              *-disk:1
+                   description: SCSI Disk
+                   product: LOGICAL VOLUME
+                   vendor: HP
+                   physical id: 0.0.1
+                   bus info: scsi@6:0.0.1
+                   logical name: /dev/sdb
+                   version: 6.40
+                   serial: PACCPID11460F59
+                   size: 27TiB (30TB)
+                   capabilities: 15000rpm gpt-1.00 partitioned partitioned:gpt
+                   configuration: ansiversion=5 guid=cd880a15-234a-465a-8f3b-140dacce900d logicalsectorsize=512 sectorsize=4096
+                 *-volume
+                      description: data partition
+                      vendor: Windows
+                      physical id: 1
+                      bus info: scsi@6:0.0.1,1
+                      logical name: /dev/sdb1
+                      serial: usGI4n-GVgV-cQm5-DsR1-LZZ3-J2YZ-8MDcDh
+                      size: 27TiB
+                      capabilities: lvm2
+                      configuration: name=primary
+        *-pci:2
+             description: PCI bridge
+             product: 5520/5500/X58 I/O Hub PCI Express Root Port 7
+             vendor: Intel Corporation
+             physical id: 7
+             bus info: pci@0000:00:07.0
+             version: 13
+             width: 32 bits
+             clock: 33MHz
+             capabilities: pci msi pciexpress pm normal_decode bus_master cap_list
+        *-pci:3
+             description: PCI bridge
+             product: 7500/5520/5500/X58 I/O Hub PCI Express Root Port 9
+             vendor: Intel Corporation
+             physical id: 9
+             bus info: pci@0000:00:09.0
+             version: 13
+             width: 32 bits
+             clock: 33MHz
+             capabilities: pci msi pciexpress pm normal_decode bus_master cap_list
+        *-generic:0 UNCLAIMED
+             description: PIC
+             product: 7500/5520/5500/X58 I/O Hub System Management Registers
+             vendor: Intel Corporation
+             physical id: 14
+             bus info: pci@0000:00:14.0
+             version: 13
+             width: 32 bits
+             clock: 33MHz
+             capabilities: pciexpress 8259 cap_list
+             configuration: latency=0
+        *-generic:1 UNCLAIMED
+             description: PIC
+             product: 7500/5520/5500/X58 I/O Hub GPIO and Scratch Pad Registers
+             vendor: Intel Corporation
+             physical id: 14.1
+             bus info: pci@0000:00:14.1
+             version: 13
+             width: 32 bits
+             clock: 33MHz
+             capabilities: pciexpress 8259 cap_list
+             configuration: latency=0
+        *-generic:2 UNCLAIMED
+             description: PIC
+             product: 7500/5520/5500/X58 I/O Hub Control Status and RAS Registers
+             vendor: Intel Corporation
+             physical id: 14.2
+             bus info: pci@0000:00:14.2
+             version: 13
+             width: 32 bits
+             clock: 33MHz
+             capabilities: pciexpress 8259 cap_list
+             configuration: latency=0
+        *-usb:0
+             description: USB controller
+             product: 82801JI (ICH10 Family) USB UHCI Controller #4
+             vendor: Intel Corporation
+             physical id: 1a
+             bus info: pci@0000:00:1a.0
+             version: 00
+             width: 32 bits
+             clock: 33MHz
+             capabilities: uhci bus_master cap_list
+             configuration: driver=uhci_hcd latency=0
+             resources: irq:16 ioport:b800(size=32)
+           *-usbhost
+                product: UHCI Host Controller
+                vendor: Linux 2.6.32-642.4.2.el6.x86_64 uhci_hcd
+                physical id: 1
+                bus info: usb@3
+                logical name: usb3
+                version: 2.06
+                capabilities: usb-1.10
+                configuration: driver=hub slots=2 speed=12Mbit/s
+        *-usb:1
+             description: USB controller
+             product: 82801JI (ICH10 Family) USB2 EHCI Controller #2
+             vendor: Intel Corporation
+             physical id: 1a.7
+             bus info: pci@0000:00:1a.7
+             version: 00
+             width: 32 bits
+             clock: 33MHz
+             capabilities: pm debug ehci bus_master cap_list
+             configuration: driver=ehci_hcd latency=0
+             resources: irq:18 memory:faff8000-faff83ff
+           *-usbhost
+                product: EHCI Host Controller
+                vendor: Linux 2.6.32-642.4.2.el6.x86_64 ehci_hcd
+                physical id: 1
+                bus info: usb@1
+                logical name: usb1
+                version: 2.06
+                capabilities: usb-2.00
+                configuration: driver=hub slots=2 speed=480Mbit/s
+        *-pci:4
+             description: PCI bridge
+             product: 82801JI (ICH10 Family) PCI Express Root Port 1
+             vendor: Intel Corporation
+             physical id: 1c
+             bus info: pci@0000:00:1c.0
+             version: 00
+             width: 32 bits
+             clock: 33MHz
+             capabilities: pci pciexpress msi pm normal_decode bus_master cap_list
+             configuration: driver=pcieport
+             resources: irq:48 ioport:1000(size=4096) memory:c0000000-c03fffff ioport:f9f00000(size=1048576)
+        *-pci:5
+             description: PCI bridge
+             product: 82801JI (ICH10 Family) PCI Express Root Port 5
+             vendor: Intel Corporation
+             physical id: 1c.4
+             bus info: pci@0000:00:1c.4
+             version: 00
+             width: 32 bits
+             clock: 33MHz
+             capabilities: pci pciexpress msi pm normal_decode bus_master cap_list
+             configuration: driver=pcieport
+             resources: irq:49 ioport:2000(size=4096) memory:fb000000-fbafffff ioport:f8000000(size=16777216)
+           *-display UNCLAIMED
+                description: VGA compatible controller
+                product: MGA G200e [Pilot] ServerEngines (SEP1)
+                vendor: Matrox Electronics Systems Ltd.
+                physical id: 0
+                bus info: pci@0000:02:00.0
+                version: 02
+                width: 32 bits
+                clock: 33MHz
+                capabilities: pm pciexpress msi vga_controller bus_master cap_list
+                configuration: latency=0
+                resources: memory:f8000000-f8ffffff(prefetchable) memory:fbafc000-fbafffff memory:fb000000-fb7fffff memory:fbae0000-fbaeffff(prefetchable)
+        *-usb:2
+             description: USB controller
+             product: 82801JI (ICH10 Family) USB UHCI Controller #1
+             vendor: Intel Corporation
+             physical id: 1d
+             bus info: pci@0000:00:1d.0
+             version: 00
+             width: 32 bits
+             clock: 33MHz
+             capabilities: uhci bus_master cap_list
+             configuration: driver=uhci_hcd latency=0
+             resources: irq:23 ioport:b880(size=32)
+           *-usbhost
+                product: UHCI Host Controller
+                vendor: Linux 2.6.32-642.4.2.el6.x86_64 uhci_hcd
+                physical id: 1
+                bus info: usb@4
+                logical name: usb4
+                version: 2.06
+                capabilities: usb-1.10
+                configuration: driver=hub slots=2 speed=12Mbit/s
+        *-usb:3
+             description: USB controller
+             product: 82801JI (ICH10 Family) USB UHCI Controller #2
+             vendor: Intel Corporation
+             physical id: 1d.1
+             bus info: pci@0000:00:1d.1
+             version: 00
+             width: 32 bits
+             clock: 33MHz
+             capabilities: uhci bus_master cap_list
+             configuration: driver=uhci_hcd latency=0
+             resources: irq:19 ioport:bc00(size=32)
+           *-usbhost
+                product: UHCI Host Controller
+                vendor: Linux 2.6.32-642.4.2.el6.x86_64 uhci_hcd
+                physical id: 1
+                bus info: usb@5
+                logical name: usb5
+                version: 2.06
+                capabilities: usb-1.10
+                configuration: driver=hub slots=2 speed=12Mbit/s
+              *-usb
+                   description: Keyboard
+                   product: ATEN-COMPOSITE
+                   vendor: Kb
+                   physical id: 1
+                   bus info: usb@5:1
+                   version: 1.00
+                   capabilities: usb-1.10
+                   configuration: driver=usbhid maxpower=100mA speed=2Mbit/s
+        *-usb:4
+             description: USB controller
+             product: 82801JI (ICH10 Family) USB UHCI Controller #3
+             vendor: Intel Corporation
+             physical id: 1d.2
+             bus info: pci@0000:00:1d.2
+             version: 00
+             width: 32 bits
+             clock: 33MHz
+             capabilities: uhci bus_master cap_list
+             configuration: driver=uhci_hcd latency=0
+             resources: irq:18 ioport:c000(size=32)
+           *-usbhost
+                product: UHCI Host Controller
+                vendor: Linux 2.6.32-642.4.2.el6.x86_64 uhci_hcd
+                physical id: 1
+                bus info: usb@6
+                logical name: usb6
+                version: 2.06
+                capabilities: usb-1.10
+                configuration: driver=hub slots=2 speed=12Mbit/s
+        *-usb:5
+             description: USB controller
+             product: 82801JI (ICH10 Family) USB2 EHCI Controller #1
+             vendor: Intel Corporation
+             physical id: 1d.7
+             bus info: pci@0000:00:1d.7
+             version: 00
+             width: 32 bits
+             clock: 33MHz
+             capabilities: pm debug ehci bus_master cap_list
+             configuration: driver=ehci_hcd latency=0
+             resources: irq:23 memory:faffa000-faffa3ff
+           *-usbhost
+                product: EHCI Host Controller
+                vendor: Linux 2.6.32-642.4.2.el6.x86_64 ehci_hcd
+                physical id: 1
+                bus info: usb@2
+                logical name: usb2
+                version: 2.06
+                capabilities: usb-2.00
+                configuration: driver=hub slots=6 speed=480Mbit/s
+        *-pci:6
+             description: PCI bridge
+             product: 82801 PCI Bridge
+             vendor: Intel Corporation
+             physical id: 1e
+             bus info: pci@0000:00:1e.0
+             version: 90
+             width: 32 bits
+             clock: 33MHz
+             capabilities: pci subtractive_decode bus_master cap_list
+        *-isa
+             description: ISA bridge
+             product: 82801JIR (ICH10R) LPC Interface Controller
+             vendor: Intel Corporation
+             physical id: 1f
+             bus info: pci@0000:00:1f.0
+             version: 00
+             width: 32 bits
+             clock: 33MHz
+             capabilities: isa bus_master cap_list
+             configuration: driver=lpc_ich latency=0
+             resources: irq:0
+        *-storage
+             description: SATA controller
+             product: 82801JI (ICH10 Family) SATA AHCI Controller
+             vendor: Intel Corporation
+             physical id: 1f.2
+             bus info: pci@0000:00:1f.2
+             version: 00
+             width: 32 bits
+             clock: 66MHz
+             capabilities: storage msi pm ahci_1.0 bus_master cap_list
+             configuration: driver=ahci latency=0
+             resources: irq:50 ioport:c880(size=8) ioport:c800(size=4) ioport:c480(size=8) ioport:c400(size=4) ioport:c080(size=32) memory:faffc000-faffc7ff
+  *-power:0 UNCLAIMED
+       description: Power Supply 1
+       product: 486613-001
+       vendor: HP
+       physical id: 1
+       version: 00h
+       serial: 5AGDL0ELLWU477
+       capacity: 750mWh
+  *-power:1 UNCLAIMED
+       description: Power Supply 2
+       product: 486613-001
+       vendor: HP
+       physical id: 2
+       version: 00h
+       serial: 5AGDL0ELLXO2R3
+       capacity: 750mWh
