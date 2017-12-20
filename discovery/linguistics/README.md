@@ -1,4 +1,4 @@
-#This is a place to document and organize the information related to the Linguistics department infrastructure.
+# This is a place to document and organize the information related to the Linguistics department infrastructure.
 
 ## Hardware:
 
