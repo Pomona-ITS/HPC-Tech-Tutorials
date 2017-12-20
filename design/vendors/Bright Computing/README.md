@@ -1,3 +1,7 @@
+Bright Computing Contact:
+
+![Barbara MacLeod](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Bright%20Computing/Screenshots/Barbara%20MacLeod%20Business%20Card.png)
+
 Bright Cluster Manager for HPC lets you deploy complete clusters over bare metal and manage them effectively. 
 It provides single-pane-of-glass management for the hardware, the operating system, HPC software, and users.
 
