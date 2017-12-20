@@ -1,6 +1,6 @@
-Potential HPC Collaborations:
+# Potential HPC Collaborations:
 
-# non CUC
+## non CUC
 
 [Bowdoin College Brunswick, Maine](https://www.bowdoin.edu/it/services/linux-hpc.shtml)
 
@@ -24,7 +24,7 @@ Potential HPC Collaborations:
   Contact: ?
   \* AWS Only
   
- # CUC, Claremont
+ ## CUC, Claremont
  
  [Harvey Mudd](https://www.hmc.edu/cis/hpc-at-hmc/)
  
