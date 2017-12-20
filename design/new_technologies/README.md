@@ -5,7 +5,9 @@
 ### Reading Materials
 
 Virtual reality, real rewards in higher ed
+
 Using augmented and virtual reality to attract students and engage donors
+
 https://www.universitybusiness.com/article/virtual-reality-real-rewards-higher-ed
 
 More Than Just Cool?
