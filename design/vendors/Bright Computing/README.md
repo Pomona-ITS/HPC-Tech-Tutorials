@@ -23,4 +23,4 @@ http://www.brightcomputing.com/product-offerings/cluster-manager-editions
 
 ![Bright Standard vs Advanced Edition](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Bright%20Computing/Screenshots/Bright%20Std%20vs%20Adv%201.png)
 
-![Bright Standard vs Advanced Edition](https://github.com/also-systems/pomona/blob/master/design/vendors/Bright%20Computing/Screen%20Shot%202017-12-18%20at%201.17.17%20PM.png)
+![Bright Standard vs Advanced Edition](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Bright%20Computing/Screenshots/Bright%20Std%20vs%20Adv%202.png)
