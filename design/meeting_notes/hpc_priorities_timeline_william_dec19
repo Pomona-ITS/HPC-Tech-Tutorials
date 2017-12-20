@@ -29,3 +29,10 @@ Meeting with William regarding the first steps and priorities in building out HP
   delivery experience (specifically, SAS, SPSS, Mathematica, Stata). NVIDIA Grid and DGX can be used as a part of the Nutanix
   solution. (Asya: had an intro call with Nutanix and Todd, slides/notes are [here]. Will schedule a more in-depth demo and
   discussion in January with the rest of ITS and PMO.)
+
+- VR/AR at Pomona
+  OK with exploring, Asya shared some reading material (same as [here](https://github.com/Pomona-ITS/hpc/tree/master/design/new_technologies))
+  Need to solve the VDI/Application presentation issue and clear out the media room, could get a couple of systems to educate
+  the students and staff.
+  Asya will bring her personal system to demo some of the things listed in the reading materials, [Unity](https://store.unity.com/education) as the development platform, 
+  and possibly get [Google Cardboard](https://vr.google.com/cardboard/) for ITS.
