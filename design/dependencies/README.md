@@ -1,5 +1,20 @@
 # This page is an attempt to capture the external HPC dependencies that make the infrastructure run smoother.
 
+## AD-connected Linux authentication
+
+Currently all the Linux users are created on local workstation without a centralized repository or synchronized UIDs.
+This means the same user may not be able to log in to another system and introduced file permissions management overhead.
+Ideally, all of the Linux systems should be provisioned with access to AD authnetication. Potentially using a third-party SSO.
+
+## NFS (Linux) and CIFS (Windows) POSIX-compliant user-facing centralized network-attached storage for home directories
+
+Currently the physical Linux workstations host home directories on local disk. This introduces challenges with 
+moving data between different systems, risk of losing the data, permissions issues and scalability issues to name a few.
+NetApp or Isilon is typically used in Linux/Windows environments and the home directories are NFS mounted. AutoFS is not
+recommended (stale mounts etc). The same home directories can be mounted everywhere to prevent data copying and duplication.
+CIFS license is needed for mounting on Windows.
+
+
 ## Software License Management
 
 https://www.openlm.com/ is used for engineering software license management, especially [floating](https://en.wikipedia.org/wiki/Floating_licensing) licenses.
