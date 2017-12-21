@@ -31,3 +31,6 @@
   Contact: [Jeho Park](https://www.linkedin.com/in/jehopark/)
   \* Primarily standalone systems, GPUs, XSEDE (free version, with long wait times)
   
+Jeho Park's Harvey Mudd Poster from Educause 2014:
+
+![Jeho Park's Harvey Mudd Poster from Educause 2014](https://github.com/Pomona-ITS/hpc/blob/master/design/collaborations/Screen%20Shot%202017-12-20%20at%201.09.47%20PM.png)
