@@ -4,7 +4,7 @@ This is the place for all the discovery-related documentation.
 - [Economics](https://github.com/also-systems/pomona/tree/master/discovery/economics)
 - [Computer Science](https://github.com/also-systems/pomona/tree/master/discovery/computerscience)
 - [Linguistics](https://github.com/also-systems/pomona/tree/master/discovery/linguistics)
-- Chemistry
+- [Chemistry](https://github.com/Pomona-ITS/hpc/blob/master/discovery/chemistry)
 - Astronomy
 - Geology
 - Environmental Sciences
