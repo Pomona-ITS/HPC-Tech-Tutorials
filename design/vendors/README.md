@@ -9,6 +9,7 @@ The following vendors are of interest when designing the Pomona HPC Infrastructu
 * [IBM/DDN] (Spectrum Scale aka GPFS) - Infiniband-based hardware + Parallel File System
 * [Silicon Mechanics] - SuperMicro HPC compute nodes
 * [Cambridge Computing] - SuperMicro HPC compute nodes
+* [Presidio](https://github.com/Pomona-ITS/hpc/tree/master/design/vendors/Presidio) - existing hardware vendor at Pomona College (Cisco UCS/EMC)
 
 # Software:
 
