@@ -25,4 +25,4 @@ among liberal arts colleges; pointer to Mercury; mention Federation; shared FS; 
 
 - Pull out the CMU (Bright recommendation) and point to the reasoning
 
-/* There will be be 2 more versions - one for William and his respective audiences and one for the public/conferences
+\* There will be be 2 more versions - one for William and his respective audiences and one for the public/conferences
