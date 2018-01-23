@@ -16,3 +16,5 @@ The recommended blade models for [HPC](https://blogs.cisco.com/datacenter/cisco-
 2) full width 4 socket [B480 M5]()
 
 Both require the [5108]() chassis.
+
+The slide deck describing the options available for HPC is [here](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Presidio/UCS-Customer%20Update%20.pdf).
