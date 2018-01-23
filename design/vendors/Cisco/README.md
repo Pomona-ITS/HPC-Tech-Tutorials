@@ -41,7 +41,7 @@ Currently M5 does not support Volta GPUs (waiting for confirmation. We could wai
 or go with a Silicon Mechanics system where V100 is supported.
 
 Currently Cisco does not support AMD CPUs and Epyc (32 core) would have to be procured from another vendor if we wanted
-the highest possible core count in a system. It may make sense to wait till the next iteration of Epyc (6 months?)
+the highest possible core count in a system. It may make sense to wait till the [next iteration of Epyc](https://www.forbes.com/sites/davealtavilla/2017/10/31/amds-next-gen-big-iron-epyc-server-cpu-rumored-to-pack-64-cores-and-boatloads-of-cache/#dced82c5cc60) (6 months?)
 which will be 64 cores per socket (and use hyperthreading) so potentially up to 128 virtual cores per socket and
 256 virtual cores in a 2 socket system.
 
