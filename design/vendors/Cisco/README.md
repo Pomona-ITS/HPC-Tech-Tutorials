@@ -11,9 +11,9 @@ Cisco engineers had suggested we use 6248 (next gen / 40 GB) instead of the curr
 
 The recommended blade models for [HPC](https://blogs.cisco.com/datacenter/cisco-ucs-delivers-industry-leading-gpu-density) are:
 
-1) half-width 2 socket [B200 M5]()
+1) half-width 2 socket [B200 M5](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Cisco/technical_documentation/datasheet-c78-739296.pdf)
 
-2) full width 4 socket [B480 M5]()
+2) full width 4 socket [B480 M5](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Cisco/technical_documentation/datasheet-c78-739280.pdf)
 
 Both require the [5108](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Cisco/technical_documentation/spec_sheet_c17-644224.pdf) chassis.
 
