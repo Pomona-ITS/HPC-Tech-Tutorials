@@ -18,3 +18,32 @@ The recommended blade models for [HPC](https://blogs.cisco.com/datacenter/cisco-
 Both require the [5108](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Cisco/technical_documentation/spec_sheet_c17-644224.pdf) chassis.
 
 The slide deck describing the options available for HPC is [here](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Presidio/UCS-Customer%20Update%20.pdf).
+
+The 6U chassis can accommodate any combination of two blades:
+
+4 full-width 
+or 2 full-width and 4 half-width 
+or 8 half-width
+or 1 full-width and 6 half-width
+
+There are 12 channels per socket so the 2 socket blade can have max 3 TB of RAM (128 GB modules)
+and the 4 socket blade can have 6 TB (128 GB modules).
+The most economical RAM modules are 32 GB.
+
+During the discussions with the users majority did not ask for more than 768 GB (2 socket with 24 x 32 GB).
+One user said they could use 1.5 TB (2 socket with 24 x 64 GB modules or 4 socket with 48 x 32 GB modules).
+
+The latest generation of Intel CPU (Skylake, 28 core) is the M5 series.
+
+The previous generation of Intel CPU (Broadwell) is M4 series.
+
+Currently M5 does not support Volta GPUs (waiting for confirmation. We could wait till they are supported and them later
+or go with a Silicon Mechanics system where V100 is supported.
+
+Currently Cisco does not support AMD CPUs and Epyc (32 core) would have to be procured from another vendor if we wanted
+the highest possible core count in a system. It may make sense to wait till the next iteration of Epyc (6 months?)
+which will be 64 cores per socket (and use hyperthreading) so potentially up to 128 virtual cores per socket and
+256 virtual cores in a 2 socket system.
+
+
+
