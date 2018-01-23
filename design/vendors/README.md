@@ -10,6 +10,7 @@ The following vendors are of interest when designing the Pomona HPC Infrastructu
 * [Silicon Mechanics](https://github.com/Pomona-ITS/hpc/tree/master/design/vendors/Silicon%20Mechanics) - SuperMicro HPC compute nodes
 * [Cambridge Computing] - SuperMicro HPC compute nodes
 * [Presidio](https://github.com/Pomona-ITS/hpc/tree/master/design/vendors/Presidio) - existing hardware vendor at Pomona College (Cisco UCS/EMC)
+* [Pure Storage](https://github.com/Pomona-ITS/hpc/tree/master/design/vendors/Pure%20Storage) - a Flash-based/NVRAM/FPGA/ARM system, innovative and targeting HPC IO workloads
 
 # Software:
 
