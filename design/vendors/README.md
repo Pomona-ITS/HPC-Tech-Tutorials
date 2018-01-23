@@ -3,7 +3,7 @@ The following vendors are of interest when designing the Pomona HPC Infrastructu
 # Hardware:
 
 * [Nutanix](https://github.com/also-systems/pomona/tree/master/design/vendors/Nutanix) - HCI or [HyperConverged] Infrastructure
-* [Cisco UCS] - HPC compute nodes
+* [Cisco UCS](https://github.com/Pomona-ITS/hpc/tree/master/design/vendors/Cisco) - HPC compute nodes and a ZFS Storage NAS system for Unix/HPC Home Directories
 * [NVIDIA] - [GPUs], [VDI], [Remote Visualization]
 * [Intel] - CPUs like [Haswell] and [Skylake], coprocessors like [Phi], [Optane] drives
 * [IBM/DDN] (Spectrum Scale aka GPFS) - Infiniband-based hardware + Parallel File System
