@@ -1,6 +1,21 @@
-Silicon Mechanics is a well-known HPC vendor out there, familiar with the unique HPC challenges, great pre-sales and post-sales support.
+Silicon Mechanics is a well-known HPC vendor out there, familiar with the unique HPC challenges, great pre-sales and post-sales support. Based in Washington state.
 
 They have the latest NVIDIA GPUs (Volta or V100), unlike Cisco/Presidio.
+
+Greg Jones
+       Education/Research/Gov't Inside Sales Account Manager
+           866-352-1173, ext 140 (toll free)
+           425-420-1315 (direct)
+           800-748-8153 (fax)
+           greg.jones@siliconmechanics.com
+
+Silicon Mechanics, Inc.
+www.siliconmechanics.com
+
+
+Product and Warranty Technical Support
+support@siliconmechanics.com  
+Toll Free (888)746-3241   or  +1(425)420-1245
 
 Quotes:
 
