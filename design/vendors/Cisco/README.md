@@ -32,6 +32,7 @@ The most economical RAM modules are 32 GB.
 
 During the discussions with the users majority did not ask for more than 768 GB (2 socket with 24 x 32 GB).
 One user said they could use 1.5 TB (2 socket with 24 x 64 GB modules or 4 socket with 48 x 32 GB modules).
+One user saw potentially using as much as 3 or 6 TBs of RAM but can work with 1.5 TB for now.
 
 The latest generation of Intel CPU (Skylake, 28 core) is the M5 series.
 
