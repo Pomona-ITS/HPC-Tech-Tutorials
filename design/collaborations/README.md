@@ -34,3 +34,15 @@
 Jeho Park's Harvey Mudd Poster from Educause 2014:
 
 ![Jeho Park's Harvey Mudd Poster from Educause 2014](https://github.com/Pomona-ITS/hpc/blob/master/design/collaborations/Screen%20Shot%202017-12-20%20at%201.09.47%20PM.png)
+
+[Pitzer]()
+
+[Scripps]()
+
+[Keck]()
+
+[McKenna]()
+
+[Claremont Graduate]()
+
+[TCCS]()
