@@ -9,7 +9,7 @@ Meeting with William regarding the first steps and priorities in building out HP
   6 months when the environment is established. Maybe use SuperMicro aka White Box instead of Cisco UCS.
   Partner with Stanford (Asya: already reached out to John in Dec), Dartmouth (Mitch, ex-CIO at Bowdoin, maybe do a joint
   presentation when he comes to visit Pomona), Reed.
-  (Asya: started a [page] with the list of potential collaborations and what they use for HPC, Dec 20).
+  (Asya: started a [page](https://github.com/Pomona-ITS/hpc/blob/master/design/collaborations/README.md) with the list of potential collaborations and what they use for HPC, Dec 20).
   
 - Focus on building the infrastructure at Pomona. Talking to CUC and other entities (like the Data Science discussion led
   by Debra Mashek) is good, and continue engaging in the dialog, but they are not paying for the infrastructure. 
@@ -24,10 +24,10 @@ Meeting with William regarding the first steps and priorities in building out HP
 - Asya to plan on presenting at Educause with a tentative title of "Building Out an HPC Infrastructure at a Liberal Arts College". 
   Keep talking to Faculty throughout the year to include specific projects that use HPC.
   
-- VMWare's support is not great. vSAN had not been stable. Looked into Micorosft/HyperV. Worth looking into a new solution 
+- VMWare's support is not great. vSAN had not been stable. Looked into Micorosoft/HyperV. Worth looking into a new solution 
   like HCI (HyperConverged) Nutanix, especially if that also can use other than their own hypervisor and improves the VDI/Application
   delivery experience (specifically, SAS, SPSS, Mathematica, Stata). NVIDIA Grid and DGX can be used as a part of the Nutanix
-  solution. (Asya: had an intro call with Nutanix and Todd, slides/notes are [here]. Will schedule a more in-depth demo and
+  solution. (Asya: had an intro call with Nutanix and Todd, slides/notes are [here](https://github.com/Pomona-ITS/hpc/tree/master/design/vendors/Nutanix). Will schedule a more in-depth demo and
   discussion in January with the rest of ITS and PMO.)
 
 - VR/AR at Pomona
