@@ -8,7 +8,7 @@
 
 [Stanford University Stanford, California](https://hpcc.stanford.edu/about-the-hpc-center/)
 
-  Contact: [John Hanks}(https://www.linkedin.com/in/john-hanks-5822161/)
+  Contact: [John Hanks](https://www.linkedin.com/in/john-hanks-5822161/)
   
 [Dartmouth College Hanover, New Hampshire](http://rc.dartmouth.edu/index.php/discoveryhpc/)
 
