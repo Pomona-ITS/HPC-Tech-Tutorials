@@ -23,3 +23,7 @@ Quotes:
     Based on https://www.siliconmechanics.com/i79114/2u-ultra-server.php
 
 2) [Switch options](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Silicon%20Mechanics/Silicon_Mechanics_Quote_343597.pdf)
+
+3) [8 x Pascal/Quadro GPUs](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Silicon%20Mechanics/Silicon_Mechanics_Quote_343600.pdf)
+
+4) []()
