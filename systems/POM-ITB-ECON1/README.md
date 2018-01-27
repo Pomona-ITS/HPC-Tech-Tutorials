@@ -9,10 +9,15 @@ Centos version 7.X
 Network - 311
 
 /etc/sysconfig/network-scripts/ifcfg-ens192
-/etc/sysctl.conf
+
+/etc/sysctl.conf (Disable IPv6)
+
 /etc/hostname
-/etc/selinux/config
+
+/etc/selinux/config (Disable Selinux)
 
 AD config
+
+pam-oddjob for home dir
 
 sudo
