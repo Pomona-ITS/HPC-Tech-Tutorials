@@ -14,3 +14,5 @@ Network - 311
 /etc/selinux/config
 
 AD config
+
+sudo
