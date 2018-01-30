@@ -7,4 +7,4 @@ This is the place for all the discovery-related documentation.
 - [Chemistry](https://github.com/Pomona-ITS/hpc/blob/master/discovery/chemistry)
 - Astronomy
 - Geology
-- Environmental Sciences
+- [Environmental Sciences](https://github.com/Pomona-ITS/hpc/tree/master/discovery/envsciences)
