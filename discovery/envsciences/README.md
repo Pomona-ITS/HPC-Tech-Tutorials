@@ -32,4 +32,4 @@ Claremont CA 91711-7003
 
 Met on January 29 2018.
 
-Notes are [here]().
+Notes are [here](https://github.com/Pomona-ITS/hpc/blob/master/discovery/envsciences/meeting_notes_jan29.md).
