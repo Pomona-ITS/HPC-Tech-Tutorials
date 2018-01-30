@@ -1,14 +1,14 @@
-#This is the page for Environmental Analysis discovery.
+# This is the page for Environmental Analysis discovery.
 
 
-Marc Los Huertos
+## Marc Los Huertos
 
 Associate Professor, Environmental Analysis
 
 🌏
  
  
-Office:
+## Office:
 
 Seeley G. Mudd, Room 106B
 
@@ -18,7 +18,7 @@ Pomona College
 
 
 
-Mail: 
+## Mail: 
 
 Environmental Analysis Program 
 
@@ -30,6 +30,6 @@ Claremont CA 91711-7003
 
 
 
-Met on January 29 2018.
+## Met on January 29 2018.
 
 Notes are [here](https://github.com/Pomona-ITS/hpc/blob/master/discovery/envsciences/meeting_notes_jan29.md).
