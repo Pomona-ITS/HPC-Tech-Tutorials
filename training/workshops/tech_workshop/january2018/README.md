@@ -9,7 +9,7 @@ Food: Tacos!
 Invited people list is [here](https://github.com/Pomona-ITS/hpc/blob/master/training/workshops/tech_workshop/january2018/invited.md).
 
 
-Attended is [here]().
+Attended is [here](https://github.com/Pomona-ITS/hpc/blob/master/training/workshops/tech_workshop/january2018/attended.md).
 
 * Will schedule a follow up meeting with the people that could not attend. Some are traveling, some are sick, some do not come in on Fridays.
 
