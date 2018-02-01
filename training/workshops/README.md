@@ -15,14 +15,20 @@ This is initially meant for ITS staff but we can invite Faculty and eventually e
 
 ### Technology Workshop #1: Topics
 
-#### HPC (Cluster Management Tools like Bright Computing, Schedulers and Job Managers like Grid Engine and Slurm, 
+#### HPC 
+
+Cluster Management Tools like Bright Computing, Schedulers and Job Managers like Grid Engine and Slurm, 
 Paralell File Systems, Data Transfer Nodes and tools like Globus and Aspera, Science DMZ, Cloud Bursting, scratch storage, 
-coprocessors, GPUs, Intel Phi, socket vs CPU vs physcial core vs virtual core, Optane and more)
+coprocessors, GPUs, Intel Phi, socket vs CPU vs physcial core vs virtual core, Optane and more
 
-#### DevOps (Configuration Management, Infrastructure as Code, Puppet, Ansible, Salt, Chef, Containers, Docker, Singularity, 
-GitHub, git and more)
+#### DevOps 
 
-#### Cloud (AWS, GCE, Azure, EC2, S3, EBS, CloudTrail)
+Configuration Management, Infrastructure as Code, Puppet, Ansible, Salt, Chef, Containers, Docker, Singularity, 
+GitHub, git and more
+
+#### Cloud 
+
+AWS, GCE, Azure, EC2, S3, EBS, CloudTrail etc
 
 ### Topics for future workshops
 
