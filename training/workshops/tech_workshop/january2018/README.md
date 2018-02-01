@@ -6,7 +6,8 @@ Time: 11:30 am - 1:30 pm
 
 Food: Tacos!
 
-Invited people list is [here]().
+Invited people list is [here](https://github.com/Pomona-ITS/hpc/blob/master/training/workshops/tech_workshop/january2018/invited.md).
+
 
 Attended is [here]().
 
