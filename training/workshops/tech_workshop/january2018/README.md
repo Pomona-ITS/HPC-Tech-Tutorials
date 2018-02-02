@@ -8,6 +8,7 @@ Food: Tacos!
 
 Invited people list is [here](https://github.com/Pomona-ITS/hpc/blob/master/training/workshops/tech_workshop/january2018/invited.md).
 
+Invitation text is [here]().
 
 Attended is [here](https://github.com/Pomona-ITS/hpc/blob/master/training/workshops/tech_workshop/january2018/attended.md).
 
