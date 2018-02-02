@@ -20,3 +20,7 @@ The work in priogress of Topics and Dates lives [here](https://github.com/Pomona
 ### Bootcamp
 
 ### Online course (certificates, credentials)
+
+## Training
+
+...
