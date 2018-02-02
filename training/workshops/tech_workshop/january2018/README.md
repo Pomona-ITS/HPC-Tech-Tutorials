@@ -15,4 +15,4 @@ Attended is [here](https://github.com/Pomona-ITS/hpc/blob/master/training/worksh
 
 Slides are [here]().
 
-Questions are [here]().
+Questions are [here](https://github.com/Pomona-ITS/hpc/blob/master/training/workshops/tech_workshop/january2018/questions.md).
