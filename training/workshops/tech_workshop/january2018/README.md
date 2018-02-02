@@ -13,6 +13,6 @@ Attended is [here](https://github.com/Pomona-ITS/hpc/blob/master/training/worksh
 
 * Will schedule a follow up meeting with the people that could not attend. Some are traveling, some are sick, some do not come in on Fridays.
 
-Slides are [here]().
+Slides are [here](https://prezi.com/view/L0CvQKgujc7budh0PaRM/).
 
 Questions are [here](https://github.com/Pomona-ITS/hpc/blob/master/training/workshops/tech_workshop/january2018/questions.md).
