@@ -8,4 +8,5 @@ This is the place for all the discovery-related documentation.
 - Physics
 - Astronomy
 - Geology
+- Mathematics
 - [Environmental Sciences](https://github.com/Pomona-ITS/hpc/tree/master/discovery/envsciences)
