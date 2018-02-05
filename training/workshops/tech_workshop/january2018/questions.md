@@ -5,3 +5,10 @@
 2) What technology is MongoDB? What is NOSQL?
 
 3) Biology software and physical/virtual cores. Hyper-threading - good or bad? How many cores to use? 
+
+4) Are the VMs "fixed"? Can you grow them on demand?
+
+5) Thin provisioning in storage
+
+6) Will we use Fiber Channel?
+
