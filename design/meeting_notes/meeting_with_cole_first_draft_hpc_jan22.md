@@ -20,7 +20,7 @@ similarly, shorten all the bullet points and separate slide from verbal descript
 
 - Mention BeeGFS as the parallel file system to clarify the term (link to the comparison with GlusterFS)
 
-- Pull out the NVIDIA GOU Cloud mention; differentiate between cloud bursting and grid-like resource sharing 
+- Pull out the NVIDIA GPU Cloud mention; differentiate between cloud bursting and grid-like resource sharing 
 among liberal arts colleges; pointer to Mercury; mention Federation; shared FS; DTN; Internet2
 
 - Pull out the CMU (Bright recommendation) and point to the reasoning
