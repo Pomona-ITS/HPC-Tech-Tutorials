@@ -4,4 +4,4 @@
 
 2) What technology is MongoDB? What is NOSQL?
 
-3) 
+3) Biology software and physical/virtual cores. Hyper-threading - good or bad? How many cores to use? 
