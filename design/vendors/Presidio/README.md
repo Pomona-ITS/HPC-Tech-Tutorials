@@ -32,7 +32,7 @@ Tung Nguyen (tunnguye) tunnguye@cisco.com
 
 
 
-The slides from the techincal call are [here]().
+The slides from the techincal call are [here](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Presidio/UCS-Customer%20Update%20.pdf).
 
 The equipment we requested to be quoted is here []().
 
