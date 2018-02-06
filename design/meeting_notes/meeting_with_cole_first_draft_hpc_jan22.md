@@ -3,16 +3,16 @@ The first version of slides is [here](https://github.com/Pomona-ITS/hpc/blob/mas
 
 The following were Cole's suggestions to incorporate in other versions of this slide deck*:
 
-- Change Interviewed to "6 out of 10" and list the departments verbally (include n slide notes); 
-similarly, shorten all the bullet points and separate slide from verbal description
+- Change Interviewed to "6 out of 10" and list the departments verbally (include in slide notes); 
+similarly, shorten all the bullet points and separate slide from verbal description  - DONE
 
 - Nick Weber has the slides template for Pomona
 
-- Group VMWare environment mentions
+- Group VMWare environment mentions - DONE
 
-- Considerations: add the explicit mention of not designing HPC environment using the existing Enterprise environment
+- Considerations: add the explicit mention of not designing HPC environment using the existing Enterprise environment - DONE
 
-- Data Lake - move to Recommendations
+- Data Lake - move to Recommendations - DONE
 
 - Add a mention of Dell/GPU Workstations; Pros and Cons' external GPUs as an option
 
