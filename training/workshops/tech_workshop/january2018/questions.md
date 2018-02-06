@@ -16,3 +16,4 @@
 
 8) XSEDE and moving large datasets - what is the process?
 
+9) Object storage - examples and use cases
