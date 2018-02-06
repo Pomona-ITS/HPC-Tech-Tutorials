@@ -17,3 +17,5 @@
 8) XSEDE and moving large datasets - what is the process?
 
 9) Object storage - examples and use cases
+
+10) Does the storage have to be geo-distributed? Multiple data centers?
