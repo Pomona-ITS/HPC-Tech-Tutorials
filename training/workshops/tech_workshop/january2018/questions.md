@@ -12,3 +12,7 @@
 
 6) Will we use Fiber Channel?
 
+7) Can faculty compete in a student competition?
+
+8) XSEDE and moving large datasets - what is the process?
+
