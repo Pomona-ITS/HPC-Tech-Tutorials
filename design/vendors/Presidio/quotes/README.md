@@ -4,4 +4,4 @@
 
 [Rack server and its Interconnect](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Presidio/quotes/Pomona%20College%20Cisco%20UCS%20HPC%20-%20C240%20Rack%20Mount%20Servers%20Quote%202003218800607-02%2002-05-18.pdf)
 
-Pure Storage 3 Blade options: 15x17 (264 TB), 15x8 (132 TB), 7x17 (123 TB)
+Pure Storage 3 Blade options: [15x17 (264 TB)](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Presidio/quotes/Pomona%20College%20Pure%20Storage%20FlashBlade%20264TB%20-%2015x17TB%20Quote%202003218800626-03%2001-30-18.pdf), [15x8 (132 TB)](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Presidio/quotes/Pomona%20College%20Pure%20Storage%20FlashBlade%20132TB%20-%2015x8TB%20Quote%202003218800626-01%2001-30-18.pdf), [7x17 (123 TB)](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Presidio/quotes/Pomona%20College%20Pure%20Storage%20FlashBlade%20123TB%20-%207x17TB%20Quote%202003218800626-02%2001-30-18.pdf)
