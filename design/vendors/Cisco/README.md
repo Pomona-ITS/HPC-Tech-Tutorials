@@ -58,5 +58,5 @@ we are considering HyperFlex as the potential platform for HPC, mainly because:
 5) Interconnect is included
 6) [HyperFlex is essentially the SpringPath acquisition](http://geekfluent.com/2016/03/01/cisco-enters-hyperconverged-market-with-hyperflex/)
 
-
+* Other notable HyperConverged options are Nutanix, Datrium, HP/Simplivity.
 
