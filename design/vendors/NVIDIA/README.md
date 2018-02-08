@@ -3,3 +3,18 @@
 
 [DGX Family Overview is here](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/NVIDIA/dgx-family-e-book-20170817-r13.pdf). Basically there are 2, a workstation and a rack-mountable server with different quantities of GPU cores and storage. Sold by vendors approved by NVIDIA (including Microway which we were considering for SuperMicro hardware
 because Bowdoin used them.
+
+DGX Workstation specs are here.
+
+DGX-1 rack-mountable system specs are here.
+
+The latest GPU architecture is called Volta.
+
+The architectures before that were Pascal, Maxwell, Kepler. Since Volta just came out they are expensive.
+Pascal-based cards may be more economical.
+
+The brand name for the server cards is Tesla.
+
+The actual models we are considering for our environment are V100 (Volta) and P100 (Pascal).
+
+There are also blade versions of both and vGPU/Remote Desktop/App/Visualization versions of both.
