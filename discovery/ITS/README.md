@@ -18,6 +18,15 @@ as it pertains to HPC environment design, build and support.
 
 2. Logging and Monitoring
 
+check_mk is currently used for up/down/service monitoring on the systems level
+https://openmon.pomona.edu/
+
+Managed by the Infrastructure team, to get access submit a ticket in FootPrints (Pat)
+
+InterMapper is used for Network Monitoring (Pat)
+
+VMWare vCenter is used for Virtual Infrastructure Management and Monitoring (Pat)
+
 3. DR
 
 4. Security
