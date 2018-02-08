@@ -51,10 +51,12 @@ which will be 64 cores per socket (and use hyperthreading) so potentially up to 
 After the Tech Day at the Cisco office in Irvine on February 7. *Add the slides here
 we are considering HyperFlex as the potential platform for HPC, mainly because:
 
-1) It is the next generation of hardware, comparable or better to the regular compute blades; M4 and M5 can be mixed, can add compute blades as well
+1) It is the next generation of hardware (now 1 year old with [ambitious plans]()), comparable or better to the regular compute blades; M4 and M5 can be mixed, can add compute blades as well
 2) It is truly converged because the compute and storage are in the same server, all-flash blades are available and the file system is [log structured](https://en.wikipedia.org/wiki/Log-structured_file_system) instead of VNX/Block
 3) Integration with InterSight is better (if we end up managing multiple hypervisors and clouds it is a plus)
 4) Tools like Tetration are really cool - packet level visibility into East-West (Host) traffic with a lightweigh C-based agent, machine learning and automatic policy suggestions that can be fed to SourceFire or StealthWatch, integration with Talos and more.
+5) Interconnect is included
+6) HypreFlex is essentially the SpringPath acquisition
 
 
 
