@@ -81,3 +81,5 @@ Non-HyperFlex nodes can be connected to the HyperFlex cluster’s storage by use
 ** Gotchas - annual subscription similar to VMWare, not a one-time outright purchase (???)
 
 *** A lot more info about SpringPath: http://techfieldday.com/companies/springpath/
+
+\**** There was promise of supporting OpenSTack (check)
