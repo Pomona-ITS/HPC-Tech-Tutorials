@@ -2,11 +2,11 @@
 
 
 
-[Machine Learning for Dummies by Wiley](https://github.com/Pomona-ITS/hpc/blob/master/training/materials/Wiley%20Machine%20Learning%20for%20Dummies.pdf)
+## [Machine Learning for Dummies by Wiley](https://github.com/Pomona-ITS/hpc/blob/master/training/materials/Wiley%20Machine%20Learning%20for%20Dummies.pdf)
 
 
 
-Big Data and ML (Machine Learning) Workshop led by PSC (Pittsburgh Supercomputing Center) at Harvey Mudd:
+## Big Data and ML (Machine Learning) Workshop led by PSC (Pittsburgh Supercomputing Center) at Harvey Mudd:
 
 
   [Big Data Welcome](https://www.psc.edu/images/xsedetraining/BigDataFebruary2018/Big_Data_Welcome.pdf)
