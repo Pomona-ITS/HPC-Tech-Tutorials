@@ -13,6 +13,10 @@ The work in priogress of Topics and Dates lives [here](https://github.com/Pomona
 
 ### Free
 
+CyberInfrastructure Tutor at NCSA: https://www.citutor.org/login.php
+
+Cornell Virtual Workshop: https://cvw.cac.cornell.edu/topics
+
 ### Inexpensive
 
 ### Site Subscriptions
