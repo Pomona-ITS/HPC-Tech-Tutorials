@@ -1,4 +1,4 @@
-This is the summary page for Cisco.
+# This is the summary page for Cisco.
 
 The discussions are facilitated by Presidio so this page is for the technical details and Cisco-specific information.
 The quotes are in Presidio folder.
@@ -45,6 +45,16 @@ Currently Cisco does not support AMD CPUs and Epyc (32 core) would have to be pr
 the highest possible core count in a system. It may make sense to wait till the [next iteration of Epyc](https://www.forbes.com/sites/davealtavilla/2017/10/31/amds-next-gen-big-iron-epyc-server-cpu-rumored-to-pack-64-cores-and-boatloads-of-cache/#dced82c5cc60) (6 months?)
 which will be 64 cores per socket (and use hyperthreading) so potentially up to 128 virtual cores per socket and
 256 virtual cores in a 2 socket system.
+
+
+
+After the Tech Day at the Cisco office in Irvine on February 7. *Add the slides here
+we are considering HyperFlex as the potential platform for HPC, mainly because:
+
+1) It is the next generation of hardware, comparable or better to the regular compute blades; M4 and M5 can be mixed, can add compute blades as well
+2) It is truly converged because the compute and storage are in the same server, all-flash blades are available and the file system is log structured instead of VNX/Block
+3) Integration with InterSight is better (if we end up managing multiple hypervisors and clouds it is a plus)
+4) Tools like Tetration are really cool - packet level visibility into East-West (Host) traffic with a lightweigh C-based agent, machine learning and automatic policy suggestions that can be fed to SourceFire or StealthWatch, integration with Talos and more.
 
 
 
