@@ -70,6 +70,14 @@ we are considering HyperFlex as the potential platform for HPC, mainly because:
 
 6) [HyperFlex is essentially the SpringPath acquisition](http://geekfluent.com/2016/03/01/cisco-enters-hyperconverged-market-with-hyperflex/)
 
+7) Integration with existing UCS:
+
+Non-HyperFlex nodes can be connected to the HyperFlex cluster’s storage by use of a piece of add-on software called IOVisor. Those hosts can then be added to the vSphere cluster via vCenter, and they can start serving VMs stored on the HyperFlex cluster.
+
+
 
 * Other notable HyperConverged options are Nutanix, Datrium, HP/Simplivity.
 
+** Gotchas - annual subscription similar to VMWare, not a one-time outright purchase (???)
+
+*** A lot more info about SpringPath: http://techfieldday.com/companies/springpath/
