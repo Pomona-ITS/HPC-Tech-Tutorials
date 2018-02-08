@@ -56,7 +56,7 @@ we are considering HyperFlex as the potential platform for HPC, mainly because:
 3) Integration with InterSight is better (if we end up managing multiple hypervisors and clouds it is a plus)
 4) Tools like Tetration are really cool - packet level visibility into East-West (Host) traffic with a lightweigh C-based agent, machine learning and automatic policy suggestions that can be fed to SourceFire or StealthWatch, integration with Talos and more.
 5) Interconnect is included
-6) HypreFlex is essentially the SpringPath acquisition
+6) [HyperFlex is essentially the SpringPath acquisition](http://geekfluent.com/2016/03/01/cisco-enters-hyperconverged-market-with-hyperflex/)
 
 
 
