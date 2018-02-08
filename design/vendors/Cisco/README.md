@@ -76,7 +76,7 @@ Non-HyperFlex nodes can be connected to the HyperFlex cluster’s storage by use
 
 
 
-* Other notable HyperConverged options are Nutanix, Datrium, HP/Simplivity.
+* Other notable HyperConverged options are Nutanix, [Datrium](https://www.datrium.com/datrium-dvx-system/), HP/Simplivity.
 
 ** Gotchas - annual subscription similar to VMWare, not a one-time outright purchase (???)
 
