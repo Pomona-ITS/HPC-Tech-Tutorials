@@ -2,7 +2,7 @@
 
 ## Cisco Tech Day in Irvine
 
-1) Tetration
+1) [Tetration](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Cisco/slides/LA%20Tech%20Day%202618%20Tetration.pptx)
 
 An East-West (before getting to router/firewall) packet header scanning C-based (fast, lightweight) installable agent, 
 including physical hosts, VMs and containers, using process IDs, and machine learning to create example policies in JSON 
