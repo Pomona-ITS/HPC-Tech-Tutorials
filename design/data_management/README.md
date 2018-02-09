@@ -56,13 +56,22 @@ Largest con: not cheap, closed source, small-ish company (associated with Cambri
 ![iRODS Functionality Diagram](https://github.com/Pomona-ITS/hpc/blob/master/design/data_management/Screen%20Shot%202018-02-09%20at%2012.09.04%20PM.png)
 
 
+
 [IBM AFM](https://www.ibm.com/support/knowledgecenter/en/STXKQY_4.1.1/com.ibm.spectrum.scale.v4r11.adv.doc/bl1adv_afm.htm)
 (for SpectraLogic aka GFPS integration with other file systems like the acquired object storage CleverSafe)
 
 Active file management (AFM) is a scalable, high-performance, file system caching layer integrated with the GPFS™ cluster file system. AFM allows you to create associations from a local GPFS cluster to a remote cluster or storage, and to define the location and flow of file data to automate the management of the data.
 
 
-Some file systems have their own tools, like Isilon, Panasas.
+
+Some file systems have their own tools, like Isilon - [Smartpools](https://www.emc.com/collateral/hardware/white-papers/h8321-wp-smartpools-storage-tiering.pdf), [Panasas](https://www.panasas.com/industries/media-entertainment/video-post-production/).
 
 
-Traditional HSM
+
+[Avere](http://www.averesystems.com/) (acqired by Microsoft) is the solution with fast disk that could hide legacy storage behind it while appearting as NFS or CIFS single path, accelerating active workloads and seamlessly integrating with the cloud (AWS).
+
+
+
+[Traditional HSM (Hierrarchical Storage Management)](https://en.wikipedia.org/wiki/Hierarchical_storage_management) - Tivoli etc
+
+Not really considering this as it is traditionally very expensive, came out of legacy tape, and is way overkill for us.
