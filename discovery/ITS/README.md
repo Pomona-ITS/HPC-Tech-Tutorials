@@ -25,8 +25,21 @@ Managed by the Infrastructure team, to get access submit a ticket in FootPrints 
 
 InterMapper is used for Network Monitoring (Pat)
 
+http://intermapper.pomona.edu/ (no AC)
+
 VMWare vCenter is used for Virtual Infrastructure Management and Monitoring (Pat)
+
+http://vcenter6.pomona.edu/
 
 3. DR
 
+Currently some VMs reside in ITB (Cowart) and some in Gibson which serves as one of the DR locations.
+There is also a remote VM snapshot backup facility in Washington and a Glacier archive in AWS.
+
 4. Security
+
+Cisco FirePower
+
+Splunk
+
+Adding SIEM
