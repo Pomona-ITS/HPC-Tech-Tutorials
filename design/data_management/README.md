@@ -66,10 +66,16 @@ Largest con: not cheap, closed source, small-ish company (associated with Cambri
 
 
 
-iRODS
+[iRODS](https://irods.org/)
+
+
 
 
 IBM AFM
+(for SpectraLogic aka GFPS integration with other file systems like the acquired object storage CleverSafe)
+
+
+Some file systems have their own tools, like Isilon, Panasas.
 
 
 Traditional HSM
