@@ -39,26 +39,11 @@ Commercial support could be obtained. We can do a POC on a file system of intere
 Metadata & Rules Framework For Large-Scale File Management
 
 
-File Movement:
+File Movement: Archive, Backup, Migrate
 
+Reporting: Duplicate Deletion, Aging, Utilization / Ownership
 
-Archive
-Backup
-Migrate
-
-Reporting:
-
-
-Duplicate Deletion
-Aging
-Utilization / Ownership
-
-File Processing:
-
-
-Hash Calculation
-Metadata Extraction
-Run Your Own Code
+File Processing: Hash Calculation, Metadata Extraction, Run Your Own Code
 
 Largest pro: designed from scratch to support any and all environment or file system, vendor-agnostic
 
@@ -71,8 +56,10 @@ Largest con: not cheap, closed source, small-ish company (associated with Cambri
 
 
 
-IBM AFM
+[IBM AFM](https://www.ibm.com/support/knowledgecenter/en/STXKQY_4.1.1/com.ibm.spectrum.scale.v4r11.adv.doc/bl1adv_afm.htm)
 (for SpectraLogic aka GFPS integration with other file systems like the acquired object storage CleverSafe)
+
+Active file management (AFM) is a scalable, high-performance, file system caching layer integrated with the GPFS™ cluster file system. AFM allows you to create associations from a local GPFS cluster to a remote cluster or storage, and to define the location and flow of file data to automate the management of the data.
 
 
 Some file systems have their own tools, like Isilon, Panasas.
