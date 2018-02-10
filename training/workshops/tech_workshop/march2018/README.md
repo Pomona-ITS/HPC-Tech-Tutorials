@@ -4,9 +4,9 @@ Topic: Progress on Ordering Hardware and Software and Deep Dive into git, GitHub
 
 Location: Cowart Classroom (capacity 25)
 
-Time: 11:30 am - 1:30 pm
+Time: 11:30 am - 1:00 pm
 
-Food: TBD
+Food: Pomona Catering - A Taste of America (ordered)
 
 To invite...
 
