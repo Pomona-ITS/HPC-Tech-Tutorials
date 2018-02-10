@@ -1,4 +1,4 @@
-# March 2018 Research Computing Office Hours
+# March 2018 Research Computing Office Hours - tentative date March 21
 
 Topic: Progress on Ordering Hardware and Software and Deep Dive into git, GitHub, GitHub Classroom and DevOps
 
