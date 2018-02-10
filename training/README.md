@@ -7,7 +7,7 @@ how we are doing it, and when we are doing it. There will be other methods of co
 This is meant for the general audience that is not necessarily directly involved but curious, and an interface to Faculty
 and Students eventually.
 
-The work in priogress of Topics and Dates lives [here](https://github.com/Pomona-ITS/hpc/tree/master/training/workshops).
+The work in progress of Topics and Dates lives [here](https://github.com/Pomona-ITS/hpc/tree/master/training/workshops).
 
 ## Online materials
 
