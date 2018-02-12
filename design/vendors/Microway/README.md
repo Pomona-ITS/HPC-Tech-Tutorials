@@ -11,7 +11,7 @@ The specifications for the DGX-1 are here.
 DGX-1 is a rack-mountable solution. There is also a DGX - a workstation that could be used when the compute needs to be close 
 to the researcher or an instrument.
 
-Microway quote for DGX-1 is here.
+Microway quote for DGX-1 is [here](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Microway/MWYQ23280.pdf).
 
 ## The email from Samantha Wheeler, the technical sales contact:
 
