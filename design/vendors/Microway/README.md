@@ -34,10 +34,19 @@ If I don't hear back from you, I hope you have a wonderful weekend!
 Best Regards,
 
 -- 
+
 Samantha Wheeler
+
 Technical Sales Engineer
+
 Microway, Inc. 
+
 12 Richards Rd.
+
 Plymouth, MA 02360
+
 Phone: (508) 732-5526
+
 Fax: (508) 746-4678
+
+swheeler@microway.com
