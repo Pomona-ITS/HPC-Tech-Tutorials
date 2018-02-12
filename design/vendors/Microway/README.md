@@ -5,7 +5,7 @@ The list price for a DGX-1 is $128,000
 https://www.microway.com/preconfiguredsystems/nvidia-dgx-1-deep-learning-system/
 
 
-The specifications for the DGX-1 are here.
+The specifications for the DGX-1 are [here](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/NVIDIA/NVIDIA-DGX-1-Volta-AI-Supercomputer-Datasheet%20(1).pdf).
 
 
 DGX-1 is a rack-mountable solution. There is also a DGX - a workstation that could be used when the compute needs to be close 
