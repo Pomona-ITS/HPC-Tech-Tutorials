@@ -82,8 +82,10 @@ Non-HyperFlex nodes can be connected to the HyperFlex cluster’s storage by use
 
 *** A lot more info about SpringPath: http://techfieldday.com/companies/springpath/
 
-\**** There was promise of supporting OpenSTack (check)
+\**** There was promise of supporting OpenSTack (checked, not yet, even though it was originally supported by SpringPath)
 
 \***** More about Datrium: https://www.datrium.com/the-beauty-of-a-log-structured-filesystem/\
 
 Also, ScaleIO...
+
+And Scale Computing...
