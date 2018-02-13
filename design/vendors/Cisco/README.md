@@ -48,9 +48,7 @@ which will be 64 cores per socket (and use hyperthreading) so potentially up to 
 
 
 
-After the Tech Day at the Cisco office in Irvine on February 7. *Add the slides here
-
-we are considering HyperFlex as the potential platform for HPC, mainly because:
+After the [Tech Day at the Cisco office in Irvine on February 7](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Cisco/slides/Hyperflex-Tech%20Day_2.18%20.pptx) we are considering HyperFlex as one of the potential platforms for HPC, mainly because:
 
 
 1) It is the next generation of hardware (now 1 year old with [ambitious plans](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Cisco/Image%20uploaded%20from%20iOS.jpg)), comparable or better to the regular compute blades; M4 and M5 can be mixed, can add compute blades as well
