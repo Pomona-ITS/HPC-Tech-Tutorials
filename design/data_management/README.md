@@ -7,7 +7,7 @@ Data Management in HPC/Research Computing is a very important topic for the foll
 
 1) Many diverse data sources and destinations
 
-2) The data moves 3+ times: source - (local node disk or scratch/parallel file system) - NFS - object storage - cloud
+2) The data moves multiple times: source - local node disk or scratch/parallel file system - NFS/Home Directories - collaborator's infrastructure - object storage - cloud
 
 3) There are hundreds or thousands of users
 
