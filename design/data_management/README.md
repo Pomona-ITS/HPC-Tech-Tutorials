@@ -75,3 +75,6 @@ Some file systems have their own tools, like Isilon - [Smartpools](https://www.e
 [Traditional HSM (Hierrarchical Storage Management)](https://en.wikipedia.org/wiki/Hierarchical_storage_management) - Tivoli etc
 
 Not really considering this as it is traditionally very expensive, came out of legacy tape, and is way overkill for us.
+
+There is also the concept of a Data Transfer Node (DTN) that was originated at NERSC/ES.NET to transfer REALLY LARGE datasets.
+More about that [here](https://fasterdata.es.net/science-dmz/DTN/).
