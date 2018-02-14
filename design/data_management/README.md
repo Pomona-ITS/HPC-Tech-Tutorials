@@ -78,3 +78,21 @@ Not really considering this as it is traditionally very expensive, came out of l
 
 There is also the concept of a Data Transfer Node (DTN) that was originated at NERSC/ES.NET to transfer REALLY LARGE datasets.
 More about that [here](https://fasterdata.es.net/science-dmz/DTN/).
+
+These are typically attributes of a Data Transfer Node:
+
+- Typically a physical server because the IO is pretty intensive especially with checksumming/encryption/decryption (could be a VM for relatively small datasets/infrequent transfers or piloting the concept)
+
+- Typically has multiple network connections (Internet, Internet2, private networks, enterprise, HPC, AWS VPN etc)
+
+- Typically uses 10GB or larger network interface to speed up the transfers; with special patches like [HPN-SSH](https://www.psc.edu/hpn-ssh) which parallelizes/speeds up scp-based copies
+
+- Typically has a lot of local storage (RAID6) to accommodate the data in-flight, preferably SSD/Flash-based or 10K/15K rpm or a combination
+
+- Typically has some sort of management/scheduling software that is used for notifications, visualization/monitoring, reporting/querying on metadata. 
+
+[Aspera](http://asperasoft.com/) (recently acquired by IBM) is one of the most popular ones, they developed a proprietary fast UDP-based transfer protocol that can use all of the available bandwidth. Quite expensive, upwards of $3K per user/seat.
+
+[GridFTP](http://toolkit.globus.org/toolkit/docs/latest-stable/gridftp/), a part of Globus ToolKit, used extensively in grids, research/collaborations between institutions, especially on Internet2
+
+[Rundeck](http://rundeck.org/), free, with an option of commercial support or [Ansible Tower](https://www.ansible.com/products/tower), Red Hat, $10K+, can be used for the visualization/scheduling/workflows with Ansible, shell scripts, python scripts or even [PowerShell](http://docs.ansible.com/ansible/latest/intro_windows.html).
