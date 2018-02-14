@@ -93,6 +93,6 @@ These are typically attributes of a Data Transfer Node:
 
 [Aspera](http://asperasoft.com/) (recently acquired by IBM) is one of the most popular ones, they developed a proprietary fast UDP-based transfer protocol that can use all of the available bandwidth. Quite expensive, upwards of $3K per user/seat.
 
-[GridFTP](http://toolkit.globus.org/toolkit/docs/latest-stable/gridftp/), a part of Globus ToolKit, used extensively in grids, research/collaborations between institutions, especially on Internet2
+[GridFTP](http://toolkit.globus.org/toolkit/docs/latest-stable/gridftp/), a part of Globus ToolKit, used extensively in grids, research/collaborations between institutions, especially on Internet2. Some features are free, others are subscription-based/negotiable.
 
 [Rundeck](http://rundeck.org/), free, with an option of commercial support or [Ansible Tower](https://www.ansible.com/products/tower), Red Hat, $10K+, can be used for the visualization/scheduling/workflows with Ansible, shell scripts, python scripts or even [PowerShell](http://docs.ansible.com/ansible/latest/intro_windows.html).
