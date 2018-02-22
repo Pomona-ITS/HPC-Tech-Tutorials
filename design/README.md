@@ -16,5 +16,5 @@
 
 [First Draft of Pomona HPC Design](https://github.com/Pomona-ITS/hpc/blob/master/design/Pomona%20HPC%20Infrastructure%20Design.pdf)
 
-[Third and Final Version of the Research Computing (HPC) Infrastructure Design](hpc/design/Research Computing Infrastructure v3.key) - as presented at ITSAC meeting on February 22 2018.
+[Third and Final Version of the Research Computing \(HPC\) Infrastructure Design](hpc/design/Research Computing Infrastructure v3.key) - as presented at ITSAC meeting on February 22 2018.
 
