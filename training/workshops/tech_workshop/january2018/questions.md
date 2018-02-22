@@ -1,6 +1,7 @@
 # Questions and Follow Up
 
-1) What is the difference between a CPU and a node? What is a core?
+1) ##  Q: What is the difference between a CPU and a node? What is a core?
+   ### A: A node is a physical server (or in some cases a VM (Virtual Machine), which will have an OS and will be used for virtualization/OpenSTack, compute/batch jobs or interactive access.
 
 2) What technology is MongoDB? What is NOSQL? How is it different from Object Storage?
 
