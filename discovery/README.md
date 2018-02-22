@@ -12,3 +12,4 @@ This is the place for all the discovery-related documentation.
 - Institutional Research
 - [Environmental Sciences](https://github.com/Pomona-ITS/hpc/tree/master/discovery/envsciences)
 - [ITS]()
+- [President/NeuroSciences]()
