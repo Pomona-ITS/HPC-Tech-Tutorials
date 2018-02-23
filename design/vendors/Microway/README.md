@@ -1,17 +1,21 @@
-# Microway is used by Bowdoin college and is one of the preferred NVIDIA DGX-1 vendors
+# Microway is used by Bowdoin college and is one of the preferred NVIDIA DGX and DGX-1 vendors
 
 The list price for a DGX-1 is $128,000
+The list price for a DGX is $70,000
 
 https://www.microway.com/preconfiguredsystems/nvidia-dgx-1-deep-learning-system/
-
+https://www.microway.com/preconfiguredsystems/nvidia-dgx-station-deep-learning-workstation/
 
 The specifications for the DGX-1 are [here](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/NVIDIA/NVIDIA-DGX-1-Volta-AI-Supercomputer-Datasheet%20(1).pdf).
 
+The specifications for the DGX are [here](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/NVIDIA/dgx-station-data-science-supercomputer-datasheet-10232017.pdf).
 
-DGX-1 is a rack-mountable solution. There is also a DGX - a workstation that could be used when the compute needs to be close 
-to the researcher or an instrument.
+DGX-1 is a rack-mountable solution. DGX is a workstation that could be used when the compute needs to be close 
+to the researcher or an instrument. DGX-1 has 8 Volta (V100) cards, DGX has 4.
 
 Microway quote for DGX-1 is [here](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Microway/MWYQ23280.pdf).
+
+Microway quote for DGX is [here](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Microway/MWYQ23350.pdf).
 
 ## The email from Samantha Wheeler, the technical sales contact:
 
