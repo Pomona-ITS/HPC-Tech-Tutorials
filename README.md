@@ -2,12 +2,12 @@
 
 ## The Current Structure:
 
-### Applications - for documenting all the software used in HPC or interacting with HPC
+### [Applications](https://github.com/Pomona-ITS/hpc/tree/master/applications) - for documenting all the software used in HPC or interacting with HPC
 
-### Design - for the documentation of the HPC Design
+### [Design](https://github.com/Pomona-ITS/hpc/tree/master/design) - for the documentation of the HPC Design
 
-### Discovery - for meeting notes and various assorted documentation used to inform the HPC Design
+### [Discovery](https://github.com/Pomona-ITS/hpc/tree/master/discovery) - for meeting notes and various assorted documentation used to inform the HPC Design
 
-### Systems - for docmeunting all the systems in or outside HPC that are considered Research Computing adjacent
+### [Systems](https://github.com/Pomona-ITS/hpc/tree/master/systems) - for documenting all the systems in or outside HPC that are considered Research Computing adjacent
 
-### Training - for the options available if you want to learn more about HPC and related technologies
+### [Training](https://github.com/Pomona-ITS/hpc/tree/master/training) - for the options available if you want to learn more about HPC and related technologies
