@@ -6,7 +6,7 @@ The manual is [here](https://github.com/Pomona-ITS/hpc/blob/master/applications/
 
 The web site is https://bizon-tech.com/
 
-The cost in February 2018 was about $1,600, $600 for enclosure and external power supply, the rest is [GeForce 1080](https://www.nvidia.com/en-us/geforce/products/10series/geforce-gtx-1080/).
+The cost in February 2018 was about $1,600, $600 for enclosure and external power supply, the rest is [GeForce 1080](https://www.nvidia.com/en-us/geforce/products/10series/geforce-gtx-1080/). It is is considered a consumer GPU.
 
 ```
 GPU Engine Specs:
