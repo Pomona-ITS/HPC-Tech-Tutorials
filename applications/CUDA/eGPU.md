@@ -19,6 +19,15 @@ Using a Bizon eGPU Enclosure with a MacBook Pro:
 ```
 
 ```
+macOS High Sierra 10.13.3
+MacBook Pro (15-inch, 2017)
+Processor 3.1 GHz Intel Core i7
+Memory 16 GB 2133 MHz LPDDR3
+Radeon Pro 560 4 GB
+Intel HD Graphics 630 1536 MB
+```
+
+```
 AKiTiO Thunder3 PCIe Box with NVIDIA GeForce 1080 (Asya's Personal eGPU)
 
   Vendor Name:	inXtron
