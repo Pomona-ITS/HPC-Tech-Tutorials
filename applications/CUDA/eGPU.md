@@ -53,3 +53,18 @@ AKiTiO Thunder3 PCIe Box with NVIDIA GeForce 1080 (Asya's Personal eGPU)
 
 ```
 
+```
+CUDA Toolkit 9.1:
+
+cuda_9.1.128_mac.dmg
+
+```
+
+```
+Bizon Box and NVIDIA associated drivers:
+
+WebDriver-387.10.10.10.25.158.pkg
+cudadriver_387.128_macos.dmg
+NVDAEGPUSupport-v6.pkg
+
+```
