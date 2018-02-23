@@ -1,6 +1,6 @@
 # This page is for documenting Bizon eGPU
 
-External GPUs with laptops are now possible because of Thunderbolt/USB-C 40 GG connection.
+External GPUs with laptops are now possible because of Thunderbolt/USB-C 40 GB connection.
 
 The manual is [here](https://github.com/Pomona-ITS/hpc/blob/master/applications/CUDA/Bizon/bizonbox3_guide.pdf).
 
