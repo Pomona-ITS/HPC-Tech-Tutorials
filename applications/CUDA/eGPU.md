@@ -77,4 +77,8 @@ Thread model: posix
 InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
 ```
 
+```
+AsyaShklyer-mac68:~ asaj2017$ kextstat | grep -i cuda
+  182    0 0xffffff7f80f32000 0x2000     0x2000     com.nvidia.CUDA (1.1.0) 4329B052-6C8A-3900-8E83-744487AEDEF1 <4 1>
+```
 
