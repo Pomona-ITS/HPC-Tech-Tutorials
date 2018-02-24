@@ -68,3 +68,13 @@ cudadriver_387.128_macos.dmg
 NVDAEGPUSupport-v6.pkg
 
 ```
+
+```
+AsyaShklyer-mac68:~ asaj2017$ /usr/bin/cc --version
+Apple LLVM version 9.0.0 (clang-900.0.39.2)
+Target: x86_64-apple-darwin17.4.0
+Thread model: posix
+InstalledDir: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin
+```
+
+
