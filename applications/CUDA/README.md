@@ -10,3 +10,4 @@ The CUDA Toolkit from NVIDIA provides everything you need to develop GPU-acceler
 
 It should be mentioned that CUDA is a proprietary and non-open-source technology from NVIDIA and there is an alternative - OpenCL. Originally developed by Apple and now supported by Kronos Group. It is an open standard with implementations from multiple vendors. NVIDIA supports both CUDA andf OpenCL. AMD GPUs support only OpenCL. Some applications support both. More information is [here](https://create.pro/blog/opencl-vs-cuda/).
 
+CUDA Docs are [here](https://docs.nvidia.com/cuda/).
