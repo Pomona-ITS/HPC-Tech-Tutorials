@@ -69,6 +69,8 @@ NVDAEGPUSupport-v6.pkg
 
 ```
 
+CUDA Mac Installatyion Guide is [here](https://docs.nvidia.com/cuda/cuda-installation-guide-mac-os-x/index.html).
+
 ```
 AsyaShklyer-mac68:~ asaj2017$ /usr/bin/cc --version
 Apple LLVM version 9.0.0 (clang-900.0.39.2)
@@ -94,5 +96,20 @@ nvcc: NVIDIA (R) Cuda compiler driver
 Copyright (c) 2005-2017 NVIDIA Corporation
 Built on Tue_Dec_19_21:36:29_CST_2017
 Cuda compilation tools, release 9.1, V9.1.128
+```
+
+```
+AsyaShklyer-mac68:samples asaj2017$ sudo make -C 0_Simple/vectorAdd
+Password:
+/Developer/NVIDIA/CUDA-9.1/bin/nvcc -ccbin clang++ -I../../common/inc  -m64  -Xcompiler -arch -Xcompiler x86_64  -gencode arch=compute_30,code=sm_30 -gencode arch=compute_35,code=sm_35 -gencode arch=compute_37,code=sm_37 -gencode arch=compute_50,code=sm_50 -gencode arch=compute_52,code=sm_52 -gencode arch=compute_60,code=sm_60 -gencode arch=compute_61,code=sm_61 -gencode arch=compute_70,code=sm_70 -gencode arch=compute_70,code=compute_70 -o vectorAdd.o -c vectorAdd.cu
+/Developer/NVIDIA/CUDA-9.1/bin/nvcc -ccbin clang++   -m64  -Xcompiler -arch -Xcompiler x86_64  -Xlinker -rpath -Xlinker /Developer/NVIDIA/CUDA-9.1/lib  -gencode arch=compute_30,code=sm_30 -gencode arch=compute_35,code=sm_35 -gencode arch=compute_37,code=sm_37 -gencode arch=compute_50,code=sm_50 -gencode arch=compute_52,code=sm_52 -gencode arch=compute_60,code=sm_60 -gencode arch=compute_61,code=sm_61 -gencode arch=compute_70,code=sm_70 -gencode arch=compute_70,code=compute_70 -o vectorAdd vectorAdd.o
+mkdir -p ../../bin/x86_64/darwin/release
+cp vectorAdd ../../bin/x86_64/darwin/release
+```
+
+```
+make -C 0_Simple/vectorAddDrv
+make -C 1_Utilities/deviceQuery
+make -C 1_Utilities/bandwidthTest
 ```
 
