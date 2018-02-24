@@ -113,3 +113,17 @@ make -C 1_Utilities/deviceQuery
 make -C 1_Utilities/bandwidthTest
 ```
 
+```
+sudo make
+```
+
+```
+syaShklyer-mac68:release asaj2017$ ./deviceQuery
+./deviceQuery Starting...
+
+ CUDA Device Query (Runtime API) version (CUDART static linking)
+
+cudaGetDeviceCount returned 35
+-> CUDA driver version is insufficient for CUDA runtime version
+Result = FAIL
+```
