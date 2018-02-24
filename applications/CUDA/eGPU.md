@@ -82,3 +82,17 @@ AsyaShklyer-mac68:~ asaj2017$ kextstat | grep -i cuda
   182    0 0xffffff7f80f32000 0x2000     0x2000     com.nvidia.CUDA (1.1.0) 4329B052-6C8A-3900-8E83-744487AEDEF1 <4 1>
 ```
 
+```
+export PATH=/Developer/NVIDIA/CUDA-9.1/bin${PATH:+:${PATH}}
+export DYLD_LIBRARY_PATH=/Developer/NVIDIA/CUDA-9.1/lib\
+                         ${DYLD_LIBRARY_PATH:+:${DYLD_LIBRARY_PATH}}
+```
+
+```
+AsyaShklyer-mac68:NVIDIA asaj2017$ nvcc -V
+nvcc: NVIDIA (R) Cuda compiler driver
+Copyright (c) 2005-2017 NVIDIA Corporation
+Built on Tue_Dec_19_21:36:29_CST_2017
+Cuda compilation tools, release 9.1, V9.1.128
+```
+
