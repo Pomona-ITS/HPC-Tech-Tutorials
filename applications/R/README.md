@@ -3,11 +3,12 @@
 
 Currently there is an RStudio prod and dev instance.
 
-* The dev instance seems to have been powered off? Need to check with Pat.
+~~* The dev instance seems to have been powered off? Need to check with Pat.~~
+The server was brought back up, need to troubleshoot AD authentication.
 
 The prod server is https://rstudio.campus.pomona.edu
 
-The dev server is https://rstudio-dev.campus.pomona.edu (?)
+The dev server is https://rstudio2dev.campus.pomona.edu
 
 Current R version on prod: 3.4.1
 
