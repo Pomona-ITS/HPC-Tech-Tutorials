@@ -126,6 +126,23 @@ Benchmarking CPU vs built-in 1050 vs eGPU (1080 Ti):
 > system.time(C %*% D) 
    user  system elapsed 
    2.50    0.00    2.51 
-   ```
+```
    
    
+```
+> setContext(3L)
+> E <- vclMatrix(rnorm(10000), 100, 100)
+> F <- vclMatrix(rnorm(10000), 100, 100)
+> system.time(E %*% F) 
+   user  system elapsed 
+   0.56    0.05    1.05 
+```
+   
+```
+> setContext(4L)
+> G <- vclMatrix(rnorm(10000), 100, 100)
+> H <- vclMatrix(rnorm(10000), 100, 100)
+> system.time(G %*% H) 
+   user  system elapsed 
+   0.01    0.00    0.01 
+```
