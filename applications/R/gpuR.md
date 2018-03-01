@@ -105,3 +105,15 @@ listContexts()
 4                          GeForce GTX 1050            0         gpu
 
 ```
+
+Benchmarking CPU vs built-in 1050 vs eGPU (1080 Ti):
+
+```
+> setContext(1L)
+> A <- vclMatrix(rnorm(10000), 100, 100)
+> B <- vclMatrix(rnorm(10000), 100, 100)
+> system.time(A %*% B) 
+   user  system elapsed 
+   1.53    0.09    1.62 
+```
+
