@@ -1,4 +1,3 @@
-
 # gpuR is the official R package for working with GPUs and CUDA
 
 [This](https://cran.r-project.org/web/packages/gpuR/gpuR.pdf) is the official page for gpuR.
@@ -23,3 +22,86 @@ y/n:
 ```
 
 Installed as personal library, might have to change that if we do standard software builds for people.
+
+
+```
+Number of platforms: 2
+- platform: Intel(R) Corporation: OpenCL 2.1 
+  - context device index: 0
+    - Intel(R) HD Graphics 630
+  - context device index: 1
+    - Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+- platform: NVIDIA Corporation: OpenCL 1.2 CUDA 9.1.83
+  - context device index: 0
+    - GeForce GTX 1080 Ti
+  - context device index: 1
+    - GeForce GTX 1050
+checked all devices
+completed initialization
+*** arch - x64
+Number of platforms: 2
+- platform: Intel(R) Corporation: OpenCL 2.1 
+  - context device index: 0
+    - Intel(R) HD Graphics 630
+  - context device index: 1
+    - Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+- platform: NVIDIA Corporation: OpenCL 1.2 CUDA 9.1.83
+  - context device index: 0
+    - GeForce GTX 1080 Ti
+  - context device index: 1
+    - GeForce GTX 1050
+checked all devices
+completed initialization
+* DONE (gpuR)
+In R CMD INSTALL
+
+The downloaded source packages are in
+        ‘C:\Users\asya_\AppData\Local\Temp\RtmpKgPnBK\downloaded_packages’
+
+```
+
+Load the gpuR library:
+
+```
+> library("gpuR")
+Number of platforms: 2
+- platform: Intel(R) Corporation: OpenCL 2.1 
+  - context device index: 0
+    - Intel(R) HD Graphics 630
+  - context device index: 1
+    - Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+- platform: NVIDIA Corporation: OpenCL 1.2 CUDA 9.1.83
+  - context device index: 0
+    - GeForce GTX 1080 Ti
+  - context device index: 1
+    - GeForce GTX 1050
+checked all devices
+completed initialization
+gpuR 2.0.0
+
+Attaching package: ‘gpuR’
+
+The following objects are masked from ‘package:base’:
+
+    colnames, pmax, pmin, svd
+```
+
+List Contexts (OpenCL or CUDA with respective GPUs):
+
+```
+listContexts()
+```
+
+```
+  context                                   platform platform_index
+1       1          Intel(R) Corporation: OpenCL 2.1               0
+2       2          Intel(R) Corporation: OpenCL 2.1               0
+3       3 NVIDIA Corporation: OpenCL 1.2 CUDA 9.1.83              1
+4       4 NVIDIA Corporation: OpenCL 1.2 CUDA 9.1.83              1
+                                     device device_index device_type
+1                  Intel(R) HD Graphics 630            0         gpu
+2 Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz            0         cpu
+3                       GeForce GTX 1080 Ti            0         gpu
+4                          GeForce GTX 1050            0         gpu
+
+```
