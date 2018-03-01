@@ -63,9 +63,9 @@ cuda_9.1.128_mac.dmg
 ```
 Bizon Box and NVIDIA associated drivers:
 
-WebDriver-387.10.10.10.25.158.pkg
+WebDriver-387.10.10.10.25.158.pkg (the driver specified in the installation manual was too old and did not work with the latest update of High Sierra - 156)
 cudadriver_387.128_macos.dmg
-NVDAEGPUSupport-v6.pkg
+NVDAEGPUSupport-v6.pkg (again, there was a NVDAEGPUSupport-v7.pkg available)
 
 ```
 
@@ -127,3 +127,7 @@ cudaGetDeviceCount returned 35
 -> CUDA driver version is insufficient for CUDA runtime version
 Result = FAIL
 ```
+
+Ended up bricking the Mac because of incompatibilities and High Sierra issues and switched to Windows for now.
+
+Side note: there is no nvidia-smi for Mac. There is another tools that is a good vizalaization tool called [XRG](http://www.gauchosoft.com/Products/XRG/). Had to be compiled so XCode and command line tools required.
