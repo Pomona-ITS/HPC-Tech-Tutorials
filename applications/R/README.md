@@ -1,4 +1,4 @@
-H1!This is a place for describing the R infrastructure and setup in HPC.
+# This is a place for describing the R infrastructure and setup in HPC.
 
 
 Currently there is an RStudio prod and dev instance.
