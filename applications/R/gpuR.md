@@ -58,9 +58,11 @@ In R CMD INSTALL
 The downloaded source packages are in
         ‘C:\Users\asya_\AppData\Local\Temp\RtmpKgPnBK\downloaded_packages’
 
+
 ```
 
 Load the gpuR library:
+
 
 ```
 > library("gpuR")
@@ -117,3 +119,13 @@ Benchmarking CPU vs built-in 1050 vs eGPU (1080 Ti):
    1.53    0.09    1.62 
 ```
 
+```
+> setContext(2L)
+> C <- vclMatrix(rnorm(10000), 100, 100)
+> D <- vclMatrix(rnorm(10000), 100, 100)
+> system.time(C %*% D) 
+   user  system elapsed 
+   2.50    0.00    2.51 
+   ```
+   
+   
