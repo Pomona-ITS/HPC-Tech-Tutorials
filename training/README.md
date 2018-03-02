@@ -30,3 +30,8 @@ Getting started with HPC at Pittsburgh SuperComputing Center: https://www.psc.ed
 ## Training
 
 ...
+
+## Miscelaneous Materials from Workshops and Presentations at Pomona and Claremont Colleges
+
+Managing Digital Reputation by Marcus Messner, a Social Media Professor at Claremont:
+http://www.marcusmessner.com/claremont/
