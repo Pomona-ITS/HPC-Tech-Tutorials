@@ -25,3 +25,5 @@ stan_temple@dell.com
 
 
 Requested a quote on 2-21-2018
+
+Received the [quote](https://github.com/Pomona-ITS/hpc/blob/master/systems/cs/eye-tracking-research/Quote_US_PC_SC_3000022841478.1_2018-03-05.pdf) and forwarded to the user on 3-5-2018
