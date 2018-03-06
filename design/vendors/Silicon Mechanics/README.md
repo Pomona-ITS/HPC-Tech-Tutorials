@@ -31,3 +31,4 @@ Quotes:
 5) [Epyc option](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Silicon%20Mechanics/Silicon_Mechanics_Quote_343606.pdf)
 
 6) [8 x Voltas](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Silicon%20Mechanics/Silicon_Mechanics_Quote_345436.pdf) (DGX-1 equivalent)
+Options are [here](https://www.siliconmechanics.com/i77428/nvlink-4u-gpu-server.php).
