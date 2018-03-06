@@ -4,4 +4,4 @@ The marketing slides from Presidio are [here](https://pomona.box.com/s/3iubf3iuq
 
 The data/spec sheet is [here](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Pure%20Storage/ps_ds8p_data-platform_01.pdf).
 
-Quotes are here.
+Quotes are [here](https://github.com/Pomona-ITS/hpc/tree/master/design/vendors/Presidio/quotes).
