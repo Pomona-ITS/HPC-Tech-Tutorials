@@ -15,3 +15,8 @@ Introduction is [here](https://github.com/Pomona-ITS/hpc/blob/master/design/vend
 
 
 [Whitepapers and Documentation](https://www.beegfs.io/content/documentation/#documentation)
+
+
+Latest news:
+
+[New BeeGFS 7.0 Delivers All-Flash Performance at Spinning Disk Price](https://insidehpc.com/2017/11/new-beegfs-7-0-delivers-flash-performance-spinning-disk-price/)
