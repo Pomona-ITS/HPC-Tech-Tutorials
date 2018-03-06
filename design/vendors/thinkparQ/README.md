@@ -9,3 +9,8 @@ It is now supported by  company called http://thinkparq.com/.
 
 Partners and resellers are listed [here](http://www.beegfs.io/content/partners/).
 
+Flyer is [here](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/thinkparQ/BeeGFS_Flyer.pdf).
+
+Introduction is [here](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/thinkparQ/Introduction_to_BeeGFS_by_ThinkParQ.pdf).
+
+
