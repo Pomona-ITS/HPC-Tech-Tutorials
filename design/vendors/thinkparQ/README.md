@@ -20,3 +20,5 @@ Introduction is [here](https://github.com/Pomona-ITS/hpc/blob/master/design/vend
 Latest news:
 
 [New BeeGFS 7.0 Delivers All-Flash Performance at Spinning Disk Price](https://insidehpc.com/2017/11/new-beegfs-7-0-delivers-flash-performance-spinning-disk-price/)
+
+[ThinkParQ Announces Global BeeGFS File System Expansion Plans and New Features for 2018](https://www.hpcwire.com/off-the-wire/thinkparq-announces-global-beegfs-file-system-expansion-plans-new-features-2018/)
