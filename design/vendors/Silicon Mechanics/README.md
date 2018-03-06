@@ -29,3 +29,5 @@ Quotes:
 4) [4 x Pascals and 4 x Voltas](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Silicon%20Mechanics/Silicon_Mechanics_Quote_343603.pdf)
 
 5) [Epyc option](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Silicon%20Mechanics/Silicon_Mechanics_Quote_343606.pdf)
+
+6) [8 x Voltas](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Silicon%20Mechanics/Silicon_Mechanics_Quote_345436.pdf) (DGX-1 equivalent)
