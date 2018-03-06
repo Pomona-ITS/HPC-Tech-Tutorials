@@ -4,6 +4,8 @@
 
 ## [Radeon Instinct](https://en.wikipedia.org/wiki/Radeon_Instinct) os AMD's answer to NVIDIA's Volta.
 
+More information and tech specs are [here](https://www.amd.com/en/products/servers-hpc-accelarators).
+
 
 Latest news:
 
