@@ -58,4 +58,4 @@ There also numerous video channels with step by step walkthroughs:
 
 [Basic Data Analysis in RStudio](https://www.youtube.com/watch?v=0pwRxhxG0tg)
 
-Pomona college also supports the use of other data analysis and visualization tools like Tableau which is not free and may be overkill for some but may be worth considering when your job involves telling stories with data!
+Pomona college also supports the use of other data analysis and visualization tools like [Tableau](https://github.com/Pomona-ITS/hpc/blob/master/applications/tableau/README.md) which is not free and may be overkill for some but may be worth considering when your job involves telling stories with data!
