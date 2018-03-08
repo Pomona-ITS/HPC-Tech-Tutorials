@@ -52,3 +52,10 @@ There also numerous video channels with step by step walkthroughs:
 
  [Intro to R and RStudio](https://www.youtube.com/watch?v=lVKMsaWju8w) from ["How to R"](https://www.youtube.com/channel/UCAeWj0GhZ94wuvOIYu1XVrg)
 
+[Machine Learning with R and TensorFlow](https://www.youtube.com/watch?v=atiYXm7JZv0)
+
+[RStudio Tips and Tricks](https://www.youtube.com/watch?v=kuSQgswZdr8)
+
+[Basic Data Analysis in RStudio](https://www.youtube.com/watch?v=0pwRxhxG0tg)
+
+Pomona college also supports the use of other data analysis and visualization tools like Tableau which is not free and may be overkill for some but may be worth considering when your job involves telling stories with data!
