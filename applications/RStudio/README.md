@@ -39,6 +39,7 @@ To keep up with the latest trends and learn more about the use cases one can fol
 https://www.r-project.org/conferences.html
 
 [RStudio Conference](https://www.rstudio.com/conference/)
+2018 was live-streamed and the recordings are available on YouTube.
 
 [EARL](https://earlconf.com/)
 
