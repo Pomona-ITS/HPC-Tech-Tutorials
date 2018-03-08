@@ -36,4 +36,6 @@ To keep up with the latest trends and learn more about the use cases one can fol
 
 The Enterprise Applications of the R Language Conference (EARL) is a cross-sector conference focusing on the commercial use of the R programming language. The conference is dedicated to the real-world usage of R with some of the world’s leading practitioners. Plus, networking opportunities provide an opportunity to network with speakers and fellow delegates.
 
+[R in Insurance](https://rininsurance17.sciencesconf.org)
+
 Majority of the conferences share the presentations in the form of slides or even videos for free.
