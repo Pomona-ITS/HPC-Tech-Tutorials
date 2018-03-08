@@ -23,8 +23,6 @@ jashley@nvidia.com
 
 An Actuarial Programming Language
 for Life Insurance and Pensions
-David R. Christiansen1, Klaus Grue2, Henning Niss2,
-Peter Sestoft1, and Kristjan S. Sigtryggsson2
-1IT University of Copenhagen, Denmark
-2Edlund A/S, Denmark
+IT University of Copenhagen, Denmark
+
 October 3, 2013
