@@ -29,6 +29,11 @@ Getting started with HPC at Pittsburgh SuperComputing Center: https://www.psc.ed
 
 ## Training
 
+## Conferences
+
+These conferences are of interest to me personally and could be of interest to others at Pomona as an effective tool
+to learn more about a particular topic or technology or meet people solving similar problems.
+
 ...
 
 ## Miscelaneous Materials from Workshops and Presentations at Pomona and Claremont Colleges
