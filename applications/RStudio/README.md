@@ -17,7 +17,7 @@ On campus: https://rstudio.campus.pomona.edu
 Off campus: https://rstudio.pomona.edu
 
 There is also Shiny which is a web interface that allows you to create mini websites with R markup language that can be
-published to tell your data story or for actual papers/publications/books.
+published to tell your data story or for actual papers/publications/books. It also allows to create a user-facing interactive environment where you control what variable can be changed and the graphs are updated in real-time.
 
 We are using the free version of both Desktop and Server. If we ever needed the Enterprise features or commercial support we 
 could consider investing in paid versions described below:
@@ -26,10 +26,17 @@ https://www.rstudio.com/products/rstudio/download/
 
 The documentation and training for R and RStudio is extensive, here are just some of the resources available:
 
+https://www.r-project.org/help.html
+https://cran.r-project.org/manuals.html
+https://journal.r-project.org/
+https://www.r-project.org/doc/bib/R-books.html
+https://www.r-project.org/other-projects.html
 https://www.r-bloggers.com/
 https://rviews.rstudio.co
 
 To keep up with the latest trends and learn more about the use cases one can follow the conferences like
+
+https://www.r-project.org/conferences.html
 
 [RStudio Conference](https://www.rstudio.com/conference/)
 
