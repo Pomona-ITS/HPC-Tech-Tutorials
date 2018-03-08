@@ -47,3 +47,8 @@ The Enterprise Applications of the R Language Conference (EARL) is a cross-secto
 [R in Insurance](https://rininsurance17.sciencesconf.org)
 
 Majority of the conferences share the presentations in the form of slides or even videos for free.
+
+There also numerous video channels with step by step walkthroughs:
+
+https://www.youtube.com/watch?v=lVKMsaWju8w - Intro to R and RStudio from ["How to R"}(https://www.youtube.com/channel/UCAeWj0GhZ94wuvOIYu1XVrg)
+
