@@ -26,4 +26,14 @@ https://www.rstudio.com/products/rstudio/download/
 
 The documentation and training for R and RStudio is extensive, here are just some of the resources available:
 
+https://www.r-bloggers.com/
+
 To keep up with the latest trends and learn more about the use cases one can follow the conferences like
+
+[RStudio Conference](https://www.rstudio.com/conference/)
+
+[EARL](https://earlconf.com/)
+
+The Enterprise Applications of the R Language Conference (EARL) is a cross-sector conference focusing on the commercial use of the R programming language. The conference is dedicated to the real-world usage of R with some of the world’s leading practitioners. Plus, networking opportunities provide an opportunity to network with speakers and fellow delegates.
+
+Majority of the conferences share the presentations in the form of slides or even videos for free.
