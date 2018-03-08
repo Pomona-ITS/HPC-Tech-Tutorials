@@ -50,5 +50,5 @@ Majority of the conferences share the presentations in the form of slides or eve
 
 There also numerous video channels with step by step walkthroughs:
 
-https://www.youtube.com/watch?v=lVKMsaWju8w - Intro to R and RStudio from ["How to R"}(https://www.youtube.com/channel/UCAeWj0GhZ94wuvOIYu1XVrg)
+ [Intro to R and RStudio](https://www.youtube.com/watch?v=lVKMsaWju8w) from ["How to R"](https://www.youtube.com/channel/UCAeWj0GhZ94wuvOIYu1XVrg)
 
