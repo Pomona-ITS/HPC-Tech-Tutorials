@@ -3,15 +3,17 @@ This is the place for all the software that will be running in the HPC environme
 RStudio
 
 
-  R
+[R](https://github.com/Pomona-ITS/hpc/tree/master/applications/R)
   
-  Shiny
+Shiny
 
 Tableau
 
 Jupyter
 
-  Hub
+JupyterLab
+
+JupyterHub
   
 Bright Computing
 
