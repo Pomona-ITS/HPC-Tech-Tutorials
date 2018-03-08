@@ -26,3 +26,8 @@ for Life Insurance and Pensions
 IT University of Copenhagen, Denmark
 
 October 3, 2013
+
+Met: March 8 2018
+Forward the materials with the details of usign R, help install RStudio, and possibly R
+Web Interface (Shiny) - Andrew's group
+Invite to March 21 meeting
