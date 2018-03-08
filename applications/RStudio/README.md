@@ -27,6 +27,7 @@ https://www.rstudio.com/products/rstudio/download/
 The documentation and training for R and RStudio is extensive, here are just some of the resources available:
 
 https://www.r-bloggers.com/
+https://rviews.rstudio.co
 
 To keep up with the latest trends and learn more about the use cases one can follow the conferences like
 
