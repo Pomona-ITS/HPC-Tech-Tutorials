@@ -32,16 +32,18 @@ As a participant in this invitation-only Beta program, you are a trusted advisor
 
 You may:
 
- Speak with other participants of the Beta Program about this program
- Post on the protected, private discussion forums
- Speak with your server vendor about this program, so long as you disclose that you are under an NDA and so long as they are also under an NDA with VMware
+- Speak with other participants of the Beta Program about this program
+- Post on the protected, private discussion forums
+- Speak with your server vendor about this program, so long as you disclose that you are under an NDA and so long as they are also under an NDA with VMware
 
 You may NOT:
 
- Discuss this program publicly
- Discuss this program privately with any other people not listed above.
+- Discuss this program publicly
+- Discuss this program privately with any other people not listed above.
 
 If you have any problems accessing either the Beta website or private discussion forum, please email: vSphere_Beta_Team@vmware.com
+
 Thank you very much for participating in the Beta Program. We look forward to your active participation and to receiving your feedback.
+
 The vSphere Beta Team
 vSphere_Beta_Team@vmware.com
