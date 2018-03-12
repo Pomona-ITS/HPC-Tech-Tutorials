@@ -26,4 +26,5 @@
 | Sci                     | Scientific Python   | July 9-15 2018      |                       |                     | Austin, TX              |
 | JupyterCon              | Jupyter             | Aug 21-24 2018      | https://goo.gl/i8mzXp |                     | NY, NY                   |
 | LISA                    | Linux SysAdmins     | Oct 28 - Nov 2 2018 |                       |                     | Nashville       |
+| AWS Re:Invent           | AWS                 | Nov 26-30 2018      |                       |                     |                         |
 
