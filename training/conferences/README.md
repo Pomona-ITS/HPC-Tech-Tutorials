@@ -20,6 +20,7 @@
 | ----------------------- | ------------------  | ------------------  | ----------------      | ------------------- | ---------------------   |  
 | RStudio                 | RStudio             | Jan 31 - Feb 3 2018 | https://goo.gl/BjNEau |                     | San Diego, Ca       |
 | SRECon                  | System Reliability  | April 27-29 2018    | https://goo.gl/2e2ubs |                     | Santa Clara, Ca       |
+| RH Summit               | Red Hat             | May 8-10 2018       |                       |                     | San Francisco, Ca       |
 | JupyterCon              | Jupyter             | Aug 21-24 2018      | https://goo.gl/i8mzXp |                     | NY, NY                   |
 
 
