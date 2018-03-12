@@ -1,5 +1,7 @@
 # This page is for summarizing conference information like description, dates, prices, materials available post-conference and general impressions where applicable.
 
+## Planned:
+
 | Conference              | Description         | Dates               | Agenda                | Materials           | Location                 |
 | ----------------------- | ------------------  | ------------------  | ----------------      | ------------------- | ---------------------       |  
 | KubeKon                 | Kubernetes and CNCF | Dec 4-8 2017        | https://goo.gl/BnwukT |                     | Austin, TX                  |
@@ -11,3 +13,10 @@
 | Internet2 2018          | Educational WAN     | May 5-6 2018        | https://goo.gl/DiwMHs |                     | San Diego, Ca           |
 | UseR! 2018              | R User Group        | July 10-14 2018     | https://goo.gl/8LqDRn |                     | Brisbane, Australia |
 | Educause 2018           | Higher Ed           | Oct 31 - Nov 2 2018 | https://goo.gl/bd73P4 |                     | Denver, Co                  |
+
+## Of interest (Watch streams/STudy available materials):
+
+| Conference              | Description         | Dates               | Agenda                | Materials           | Location                 |
+| ----------------------- | ------------------  | ------------------  | ----------------      | ------------------- | ---------------------       |  
+| RStudio                 | RStudio             | Jan 31 - Feb 3 2017 | https://goo.gl/BjNEau |                     | Austin, TX                  |
+
