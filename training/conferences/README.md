@@ -17,6 +17,9 @@
 ## Of interest (Watch streams/STudy available materials):
 
 | Conference              | Description         | Dates               | Agenda                | Materials           | Location                 |
-| ----------------------- | ------------------  | ------------------  | ----------------      | ------------------- | ---------------------       |  
-| RStudio                 | RStudio             | Jan 31 - Feb 3 2018 | https://goo.gl/BjNEau |                     | San Diego, Ca                  |
-| JupyterCon              | Jupyter             | Aug 21-24 2018      | https://goo.gl/i8mzXp |                     | NY, NY                  |
+| ----------------------- | ------------------  | ------------------  | ----------------      | ------------------- | ---------------------   |  
+| RStudio                 | RStudio             | Jan 31 - Feb 3 2018 | https://goo.gl/BjNEau |                     | San Diego, Ca       |
+| SRECon                  | System Reliability  | April 27-29 2018    | https://goo.gl/2e2ubs |                     | Santa Clara, Ca       |
+| JupyterCon              | Jupyter             | Aug 21-24 2018      | https://goo.gl/i8mzXp |                     | NY, NY                   |
+
+
