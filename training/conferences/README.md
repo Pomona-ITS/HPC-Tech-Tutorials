@@ -14,7 +14,7 @@
 | UseR! 2018              | R User Group        | July 10-14 2018     | https://goo.gl/8LqDRn |                     | Brisbane, Australia |
 | Educause 2018           | Higher Ed           | Oct 31 - Nov 2 2018 | https://goo.gl/bd73P4 |                     | Denver, Co                  |
 
-## Of interest (Watch streams/STudy available materials):
+## Of interest (Watch streams/Study available materials):
 
 | Conference              | Description         | Dates               | Agenda                | Materials           | Location                 |
 | ----------------------- | ------------------  | ------------------  | ----------------      | ------------------- | ---------------------   |  
