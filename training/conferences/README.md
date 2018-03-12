@@ -23,7 +23,7 @@
 | RH Summit               | Red Hat             | May 8-10 2018       |                       |                     | San Francisco, Ca   |
 | Openstack               | Openstack           | May 21-24 2018      |                       |                     | Vancouver       |
 | AWE                     | Augmented Reality   | May 30 - June 1 2018|                       |                     | Santa Clara, Ca       |
-| Sci                     | Scientific Python   | July 9-15 2018                              |                     | Austin, TX              |
+| Sci                     | Scientific Python   | July 9-15 2018      |                       |                     | Austin, TX              |
 | JupyterCon              | Jupyter             | Aug 21-24 2018      | https://goo.gl/i8mzXp |                     | NY, NY                   |
 
 
