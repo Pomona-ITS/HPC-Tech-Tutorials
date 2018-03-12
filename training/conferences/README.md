@@ -6,3 +6,4 @@
 | PyCarribbean     | Python              | Feb 17-18 2018     | http://pycaribbean.com/schedule.html              |                     |
 | SCaLE            | Linux Southern Ca   | March 8-11 2018    | https://www.socallinuxexpo.org/scale/16x/schedule |                     |
 | GTC 2018         | NVIDIA              | March 26-29 2018   | https://goo.gl/rtwztu                             |                     |
+| UseR! 2018       | R User Group        | July 10-14 2018    |                                                   |                     |
