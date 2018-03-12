@@ -8,5 +8,5 @@
 | GTC 2018                | NVIDIA              | March 26-29 2018    | https://goo.gl/rtwztu                             |                     | San Jose, Ca          |
 | ScaleConf Colombia 2018 | Scaling and Cloud   | April 27-28 2018    | https://scaleconfco.com/                          |                     | Medellin, Colombia    |
 | ODSC East 2018          | Open Data Science   | May 1-4 2018        | https://scaleconfco.com/                          |                     | Boston, Mass          |
-| UseR! 2018              | R User Group        | July 10-14 2018     |                                                   |                     | Brisabne, Australia   |
-| Educause 2018           | Higher Ed           | Oct 31 - Nov 2 2018 |                                                   |                     | Denver, Co            |
+| UseR! 2018              | R User Group        | July 10-14 2018     | https://user2018.r-project.org/tutorials          |                     | Brisbane, Australia   |
+| Educause 2018           | Higher Ed           | Oct 31 - Nov 2 2018 | https://events.educause.edu/annual-conference     |                     | Denver, Co            |
