@@ -18,5 +18,5 @@
 
 | Conference              | Description         | Dates               | Agenda                | Materials           | Location                 |
 | ----------------------- | ------------------  | ------------------  | ----------------      | ------------------- | ---------------------       |  
-| RStudio                 | RStudio             | Jan 31 - Feb 3 2018 | https://goo.gl/BjNEau |                     | Austin, TX                  |
-| JupyterCon        | Jupyter                   | Aug 21-24 2018      | https://goo.gl/i8mzXp |                     | Austin, TX                  |
+| RStudio                 | RStudio             | Jan 31 - Feb 3 2018 | https://goo.gl/BjNEau |                     | San Diego, Ca                  |
+| JupyterCon              | Jupyter             | Aug 21-24 2018      | https://goo.gl/i8mzXp |                     | NY, NY                  |
