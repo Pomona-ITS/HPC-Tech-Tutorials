@@ -19,3 +19,5 @@
 [Third and Final Version of the Research Computing \(HPC\) Infrastructure Design](https://github.com/Pomona-ITS/hpc/blob/master/design/Research%20Computing%20Infrastructure%20v3.pdf) - as presented at ITSAC meeting on February 22 2018.
 
 Research Computing Charter - [Draft](https://github.com/Pomona-ITS/hpc/blob/master/design/charter_-_rcag_advisory_committee_-_draft.docx)
+
+[Bill of Materials with Microway as the primary vendor and 4 scenarios](https://github.com/Pomona-ITS/hpc/blob/master/design/Bill%20of%20Materials%20Pomona%20HPC.xlsx)
