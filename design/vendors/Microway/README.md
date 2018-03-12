@@ -1,5 +1,18 @@
 # Microway is used by Bowdoin college and is one of the preferred NVIDIA DGX and DGX-1 vendors
 
+Update (March 12): the latest quotes from Microway
+
+[Broadwwll High Clock](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Microway/Broadwell_High_Clock_MWYQ23428.pdf)
+
+[Broadwell High Core](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Microway/Broadwell_High_Core_MWYQ23427.pdf)
+
+[Skylake](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Microway/Skylake_MWYQ23433.pdf)
+
+[DGX](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Microway/DGX_Station_MWYQ23350-01.pdf)
+
+[DGX-1](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Microway/DGX-1_MWYQ23280-01.pdf)
+
+***********************************************************************************************************************
 The list price for a DGX-1 is $128,000
 The list price for a DGX is $70,000
 
