@@ -2,7 +2,7 @@
 
 Update (March 12): the latest quotes from Microway
 
-[Broadwwll High Clock](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Microway/Broadwell_High_Clock_MWYQ23428.pdf)
+[Broadwell High Clock](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Microway/Broadwell_High_Clock_MWYQ23428.pdf)
 
 [Broadwell High Core](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Microway/Broadwell_High_Core_MWYQ23427.pdf)
 
