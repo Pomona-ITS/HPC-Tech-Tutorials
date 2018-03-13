@@ -22,10 +22,10 @@
 | RStudio                 | RStudio             | Jan 31 - Feb 3 2018 | https://goo.gl/BjNEau |                     | San Diego, Ca       |
 | SRECon                  | System Reliability  | April 27-29 2018    | https://goo.gl/2e2ubs |                     | Santa Clara, Ca       |
 | RH Summit               | Red Hat             | May 8-10 2018       | https://goo.gl/rR6GiP |                     | San Francisco, Ca   |
-| Openstack               | Openstack           | May 21-24 2018      |                       |                     | Vancouver       |
-| AWE                     | Augmented Reality   | May 30 - June 1 2018|                       |                     | Santa Clara, Ca       |
-| SciPy                     | Scientific Python   | July 9-15 2018      |                       |                     | Austin, TX              |
+| Openstack               | Openstack           | May 21-24 2018      | https://goo.gl/EDBXkH |                     | Vancouver       |
+| AWE                     | Augmented Reality   | May 30 - June 1 2018| https://goo.gl/FDbjPy |                     | Santa Clara, Ca       |
+| SciPy                   | Scientific Python   | July 9-15 2018      | https://goo.gl/H3Lt9F |                     | Austin, TX              |
 | JupyterCon              | Jupyter             | Aug 21-24 2018      | https://goo.gl/i8mzXp |                     | NY, NY                   |
-| LISA                    | Linux SysAdmins     | Oct 28 - Nov 2 2018 |                       |                     | Nashville       |
+| LISA                    | Linux SysAdmins     | Oct 28 - Nov 2 2018 | https://goo.gl/qpKdYt |                     | Nashville       |
 | AWS Re:Invent           | AWS                 | Nov 26-30 2018      |                       |                     |                         |
 
