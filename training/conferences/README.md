@@ -13,7 +13,7 @@
 | Internet2 2018          | Educational WAN     | May 5-6 2018        | https://goo.gl/DiwMHs |                     | San Diego, Ca           |
 | UseR! 2018              | R User Group        | July 10-14 2018     | https://goo.gl/8LqDRn |                     | Brisbane, Australia |
 | Educause 2018           | Higher Ed           | Oct 31 - Nov 2 2018 | https://goo.gl/bd73P4 |                     | Denver, Co                  |
-| Educause 2018 .         | Higher Ed           | Oct 31 - Nov 2 2018 | https://goo.gl/bd73P4 |                     | Denver, Co                  |
+              |
 | SCaLE 2019              | Linux Southern Ca   | March 7-10 2019 | https://goo.gl/bd73P4 |                     | Denver, Co                  |
 
 ## Of interest (Watch streams/Study available materials):
@@ -25,7 +25,7 @@
 | RH Summit               | Red Hat             | May 8-10 2018       |                       |                     | San Francisco, Ca   |
 | Openstack               | Openstack           | May 21-24 2018      |                       |                     | Vancouver       |
 | AWE                     | Augmented Reality   | May 30 - June 1 2018|                       |                     | Santa Clara, Ca       |
-| Sci                     | Scientific Python   | July 9-15 2018      |                       |                     | Austin, TX              |
+| SciPy                     | Scientific Python   | July 9-15 2018      |                       |                     | Austin, TX              |
 | JupyterCon              | Jupyter             | Aug 21-24 2018      | https://goo.gl/i8mzXp |                     | NY, NY                   |
 | LISA                    | Linux SysAdmins     | Oct 28 - Nov 2 2018 |                       |                     | Nashville       |
 | AWS Re:Invent           | AWS                 | Nov 26-30 2018      |                       |                     |                         |
