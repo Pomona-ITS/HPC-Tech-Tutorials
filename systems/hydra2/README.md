@@ -116,3 +116,11 @@ Dependency Updated:
 
 Complete!
 ```
+
+```
+samba-common-3.6.23-46el6_9.x86_64
+samba-client-3.6.23-46el6_9.x86_64
+samba-winbind-3.6.23-46el6_9.x86_64
+samba-winbind-clients-3.6.23-46el6_9.x86_64
+samba4-libs-4.2.10-12.el6_9.x86_64
+```
