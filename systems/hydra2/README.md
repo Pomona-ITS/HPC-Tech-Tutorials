@@ -124,3 +124,5 @@ samba-winbind-3.6.23-46el6_9.x86_64
 samba-winbind-clients-3.6.23-46el6_9.x86_64
 samba4-libs-4.2.10-12.el6_9.x86_64
 ```
+
+The server is not running any Samba services and does not have any external mounts.
