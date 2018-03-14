@@ -20,6 +20,7 @@
 | Conference              | Description         | Dates               | Agenda                | Materials           | Location                 |
 | ----------------------- | ------------------  | ------------------  | ----------------      | ------------------- | ---------------------   |  
 | RStudio                 | RStudio             | Jan 31 - Feb 3 2018 | https://goo.gl/BjNEau |                     | San Diego, Ca       |
+| Strata                  | Big Data            | Mar 5-8 2018        | https://goo.gl/9ZdbA3 |                     | San Jose, Ca        |
 | SRECon                  | System Reliability  | April 27-29 2018    | https://goo.gl/2e2ubs |                     | Santa Clara, Ca       |
 | RH Summit               | Red Hat             | May 8-10 2018       | https://goo.gl/rR6GiP |                     | San Francisco, Ca   |
 | Openstack               | Openstack           | May 21-24 2018      | https://goo.gl/EDBXkH |                     | Vancouver       |
