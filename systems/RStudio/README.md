@@ -9,5 +9,6 @@ http://rstudio2.campus.pomona.edu/ for access on Pomona college network
 
 or http://rstudio2.pomona.edu/ for access anywhere else - other campuses or home/Internet
 
-dev server is currently down because of VMWare capacity issues, there is a ticket in FootPrints to bring it back.
+~~dev server is currently down because of VMWare capacity issues, there is a ticket in FootPrints to bring it back.~~
+The server was rebooted and is now accessible but AD Auth may not wor, need to test.
 
