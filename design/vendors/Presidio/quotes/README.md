@@ -19,7 +19,7 @@ M10/M20:
 
 [M20 Controller Upgrade](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Presidio/quotes/Pomona%20College%20Pure%20Storage%20m20%20Controller%20Upgrade%20Quote%202003218801635-03%2003-12-18.pdf)
 
-[Datapack (storage upgrade, any controller)](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Presidio/quotes/Pomona%20College%20Pure%20Storage%20FlashArray%20Chassis%20Datapack%2010TB%20Quote%202003218801635-04%2003-12-18.pdf)
+[10 TB Datapack (storage upgrade, any controller)](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Presidio/quotes/Pomona%20College%20Pure%20Storage%20FlashArray%20Chassis%20Datapack%2010TB%20Quote%202003218801635-04%2003-12-18.pdf)
 
 ## HyperFlex (HX) - HyperConverged solution from Cisco:
 
