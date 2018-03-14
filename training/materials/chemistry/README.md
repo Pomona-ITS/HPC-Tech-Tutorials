@@ -35,7 +35,12 @@ Phone
 919-530-6297
 URL
 http://www.ggc.edu
-The National Computational Science Institute is offering a five-day summer workshop entitled Computational Chemistry for Chemistry Educators. The workshop will begin 10 AM Monday, June 18 and will finish by noon on Friday, June 22. This workshop emphasizes hands-on molecular modeling and other web-based and commercial software important for incorporating computational chemistry into the undergraduate curriculum.  No previous experience with molecular modeling is required. A list of topics includes:
+The National Computational Science Institute is offering a five-day summer workshop entitled 
+Computational Chemistry for Chemistry Educators. The workshop will begin 10 AM Monday, June 18 
+and will finish by noon on Friday, June 22. This workshop emphasizes hands-on molecular modeling 
+and other web-based and commercial software important for incorporating computational chemistry 
+into the undergraduate curriculum.  No previous experience with molecular modeling is required. 
+A list of topics includes:
 
 *Introduction to Computational Chemistry 
 *Choice of Theoretical Method 
