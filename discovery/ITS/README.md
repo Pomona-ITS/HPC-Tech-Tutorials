@@ -47,3 +47,7 @@ Splunk (going away, too expensive)
 Adding LogRhythm, with possible Kibana viz
 
 Nessus Pro/Tenable for patching https://nessus.campus.pomona.edu:8834/
+
+## 5. Data Viz (Tableau)
+
+
