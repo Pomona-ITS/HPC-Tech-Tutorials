@@ -2,10 +2,11 @@
  
  ## March 19 2018
  
-| Project               | Description                       | Urgency  | GitHub Page       | Status                         |
-| --------------------  | ------------------                | -------- | ----------------  | -----------                    |
-| Samba Patching        | Linux, Nessus Pro Scan            | Medium   |                   | Started, need RFC approval     | 
-| Add VMs to check_mk   | or What's Up Gold when available  | Low      |                   | Started                        | | DNS for POM-ITB-BIOL1 |                                   | Low      |                   | Assigned to Chims              | 
+| Project               | Description                      | Urgency | GitHub Page          | Status                      |
+| --------------------  | ------------------               | ------- | ----------------     | -----------                 |
+| Samba Patching        | Linux, Nessus Pro Scan           | Medium  | https://goo.gl/yvRcSh | Started, need RFC approval  |  
+| Add VMs to check_mk   | or What's Up Gold when available | Low      |                   | Started                        | 
+| DNS for POM-ITB-BIOL1 |                                   | Low      |                   | Assigned to Chims              | 
 | POM-ITB-ECON1         |                                   | Low      |                   | Handed off to Kyle             |
 | POM-ITB-HPC1          |                                   | Low      |                   | Waiting for SW purchase        |
 | POM-ITB-LING1         |                                   | Low      |                   | Investigating AWS setup        |
