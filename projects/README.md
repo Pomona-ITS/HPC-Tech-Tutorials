@@ -1,3 +1,17 @@
  # Active Projects in HPC/Research Computing
  
+ ## March 19 2018
  
+| Project               | Description                       | Urgency  | GitHub Page       | Status                         |
+| --------------------  | ------------------                | -------- | ----------------  | -----------                    |
+| Samba Patching        | Linux, Nessus Pro Scan            | Medium   |                   | Started, need RFC approval     | 
+| Add VMs to check_mk   | or What's Up Gold when available  | Low      |                   | Started                        | | DNS for POM-ITB-BIOL1 |                                   | Low      |                   | Assigned to Chims              | 
+| POM-ITB-ECON1         |                                   | Low      |                   | Handed off to Kyle             |
+| POM-ITB-HPC1          |                                   | Low      |                   | Waiting for SW purchase        |
+| POM-ITB-LING1         |                                   | Low      |                   | Investigating AWS setup        |
+| Microway Quotes       |                                   | High     |                   | Waiting for the vendor         |
+| Eye-Tracking Workstation for CS |                         | Low      |                   | Waiting for the user           |
+| Dan Martinez Docker   |                                   | Low      |                   | Waiting for the user           |
+| Office Hours (21) prep |                                  | High     |                   | In progress                    |
+| AWS Recertification Mar 31 |                              | High     |                   | In progress                    |
+| HPC Slides for Dean's Office |                            | Medium   |                   | Waiting for Nick               |
