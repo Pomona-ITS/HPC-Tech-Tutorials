@@ -14,3 +14,4 @@ Pure/Presidio offered a POC of a M10 (iSCSI).
 
 Here is the paperwork - the [POC agreement](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Pure%20Storage/Pomona%20College%20Master%20Eval%20Agmt%20Mar%2016%202018-14255.pdf) and the [blank Site Survey document](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Pure%20Storage/Pomona%20College%20FlashArray%20M%20POC%20-%20Pre-Install%20Checklist%20and%20Site%20Survey.docx). Will attach the filled out Site Survey shortly.
 
+A [recent article in The Next Platform](https://www.nextplatform.com/2018/03/12/why-cisco-should-and-should-not-acquire-pure-storage/) - a reputable HPC Blog.
