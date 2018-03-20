@@ -1,7 +1,7 @@
-This is a place for ITS-related documentation, procedures, links to other resources 
+# This is a place for ITS-related documentation, procedures, links to other resources 
 as it pertains to HPC environment design, build and support.
 
-1. AD, integration, user-creation
+## 1. AD, integration, user-creation
 
    Pat is in charge of AD. AD is Pomona only, no trusted relationships with any other ADs (HM has their own).
    When external users need an account on a Pomona Linux system they fill out a form (and are added to Pomona AD?).
@@ -16,12 +16,14 @@ as it pertains to HPC environment design, build and support.
    b) Windows Unix Services?
    
 
-2. Logging and Monitoring
+## 2. Logging and Monitoring
 
 check_mk is currently used for up/down/service monitoring on the systems level
 https://openmon.pomona.edu/
 
 Managed by the Infrastructure team, to get access submit a ticket in FootPrints (Pat)
+
+Will be replaced by What's Up Gold (a month?)
 
 InterMapper is used for Network Monitoring (Pat)
 
@@ -31,15 +33,17 @@ VMWare vCenter is used for Virtual Infrastructure Management and Monitoring (Pat
 
 http://vcenter6.pomona.edu/
 
-3. DR
+## 3. DR
 
 Currently some VMs reside in ITB (Cowart) and some in Gibson which serves as one of the DR locations.
 There is also a remote VM snapshot backup facility in Washington and a Glacier archive in AWS.
 
-4. Security
+## 4. Security
 
 Cisco FirePower
 
-Splunk
+Splunk (going away, too expensive)
 
-Adding SIEM
+Adding LogRhythm, with possible Kibana viz
+
+Nessus Pro/Tenable for patching https://nessus.campus.pomona.edu:8834/
