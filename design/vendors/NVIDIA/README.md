@@ -19,4 +19,6 @@ The brand name for the server cards is Tesla.
 
 The actual models we are considering for our environment are V100 (Volta) and P100 (Pascal).
 
-There are also blade versions of both and vGPU/Remote Desktop/App/Visualization versions of both.
+There are also blade versions of both and vGPU/Remote Desktop/App/Visualization versions of both
+
+Jon Saposhnik sent a [Forrester report](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/NVIDIA/DGX-1-%20The%20Total%20Economic%20Impact%20of%20NVIDIA.pdf) on why DGX may be better tham building in-house.
