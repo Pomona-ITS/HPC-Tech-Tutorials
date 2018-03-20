@@ -33,6 +33,10 @@ VMWare vCenter is used for Virtual Infrastructure Management and Monitoring (Pat
 
 http://vcenter6.pomona.edu/
 
+The responsible/accountabe list: https://tableau.campus.pomona.edu/views/PomonaRASCI/PomonaRASCI?:embed=y&:loadOrderID=1&:display_spinner=no&:showShareOptions=true&:display_count=no&:showVizHome=no#1
+
+ETL Reporting: https://etl.pomona.edu/reporting/
+
 ## 3. DR
 
 Currently some VMs reside in ITB (Cowart) and some in Gibson which serves as one of the DR locations.
