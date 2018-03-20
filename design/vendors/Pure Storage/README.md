@@ -12,5 +12,5 @@ Quotes are [here](https://github.com/Pomona-ITS/hpc/tree/master/design/vendors/P
 
 Pure/Presidio offered a POC of a M10 (iSCSI).
 
-Below is the paperwork - the POC agreement and the blank Site Survey document. Will attach the filled out Site Survey shortly.
+Here is the paperwork - the [POC agreement](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Pure%20Storage/Pomona%20College%20Master%20Eval%20Agmt%20Mar%2016%202018-14255.pdf) and the [blank Site Survey document](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Pure%20Storage/Pomona%20College%20FlashArray%20M%20POC%20-%20Pre-Install%20Checklist%20and%20Site%20Survey.docx). Will attach the filled out Site Survey shortly.
 
