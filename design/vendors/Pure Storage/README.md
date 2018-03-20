@@ -9,3 +9,8 @@ The data/spec sheet is [here](https://github.com/Pomona-ITS/hpc/blob/master/desi
 Quotes are [here](https://github.com/Pomona-ITS/hpc/tree/master/design/vendors/Presidio/quotes).
 
 7 blades is minimum as they use a RAID6.
+
+Pure/Presidio offered a POC of a M10 (iSCSI).
+
+Below is the paperwork - the POC agreement and the blank Site Survey document. Will attach the filled out Site Survey shortly.
+
