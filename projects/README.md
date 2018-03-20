@@ -17,3 +17,4 @@
 | AWS Recertification Mar 31 |                              | High     |                   | In progress                    |
 | HPC Slides for Dean's Office |                            | Medium   |                   | Waiting for Nick               |
 | NVIDIA GTC prep       |                                   | High     |                   | Need to schedule talks         |
+| Pure Storage POC      |                                   | High     |                   | Signed the paperwork         |
