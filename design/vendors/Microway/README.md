@@ -1,4 +1,15 @@
 # Microway is used by Bowdoin college and is one of the preferred NVIDIA DGX and DGX-1 vendors
+Update (March 22): remaining quotes from Microway with better pricing!
+
+[Skylake 4 V100s as an option](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Microway/MWYQ23433-01%20Skylake%204%20V100s.pdf)
+
+[Epyc with NVIDIA GPU - not officially supported yet but qualified by Microway](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Microway/MWYQ23434%202U%20Epyc%20with%20GPU.pdf)
+
+[1U NVLINK](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Microway/MWYQ23494%201U%20NVLINK.pdf)
+
+[2700B with cables](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Microway/MWYQ23484%20SN2700B%20with%20cables.pdf)
+
+[Bright licences](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Microway/MWYQ23493-01%20Bright.pdf)
 
 Update (March 12): the latest quotes from Microway
 
