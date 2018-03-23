@@ -19,12 +19,19 @@ Invitation text is [here](https://github.com/Pomona-ITS/hpc/blob/master/training
 
 Attended is [here](https://github.com/Pomona-ITS/hpc/blob/master/training/workshops/tech_workshop/march2018/attended.md).
 
+
 Slides:
 
-GitHub Classroom
-git part1, part2, part3, part4
-HPC in Liberal Arts Colleges
-GPU Technologies
-GPU History
+
+[GitHub Classroom](https://github.com/Pomona-ITS/hpc/blob/master/training/workshops/tech_workshop/march2018/GitHub%20Classroom.pptx)
+
+git [part1](https://github.com/Pomona-ITS/hpc/blob/master/training/workshops/tech_workshop/march2018/git%20part%201.pptx), [part2](https://github.com/Pomona-ITS/hpc/blob/master/training/workshops/tech_workshop/march2018/git%20part%202.pptx), [part3](https://github.com/Pomona-ITS/hpc/blob/master/training/workshops/tech_workshop/march2018/git%20part%203.pptx), [part4](https://github.com/Pomona-ITS/hpc/blob/master/training/workshops/tech_workshop/march2018/git%20part%204.pptx)
+
+[HPC in Liberal Arts Colleges](https://github.com/Pomona-ITS/hpc/blob/master/training/workshops/tech_workshop/march2018/HPC%20in%20Liberal%20Arts%20Colleges.pptx)
+
+[GPU Technologies](https://github.com/Pomona-ITS/hpc/blob/master/training/workshops/tech_workshop/march2018/GPU%20Technologies.pptx)
+
+[GPU History](https://github.com/Pomona-ITS/hpc/blob/master/training/workshops/tech_workshop/march2018/Harris%20A%20Brief%20History%20of%20GPGPU.pdf) and [GPGPU Origins and Hardware Architecture](https://github.com/Pomona-ITS/hpc/blob/master/training/workshops/tech_workshop/march2018/gpgpu-origins-and-gpu-hardware-architecture.pdf)
+
 
 Questions are [here]().
