@@ -1,4 +1,4 @@
-# March 2018 Research Computing Office Hours - tentative date March 21
+# March 2018 Research Computing Office Hours -  March 21
 
 Topics: 
 
@@ -15,7 +15,7 @@ Food: Pomona Catering - A Taste of America (ordered)
 
 Invited people list is [here]().
 
-Invitation text is [here]().
+Invitation text is [here](https://github.com/Pomona-ITS/hpc/blob/master/training/workshops/tech_workshop/march2018/invitation_text.md).
 
 Attended is [here]().
 
