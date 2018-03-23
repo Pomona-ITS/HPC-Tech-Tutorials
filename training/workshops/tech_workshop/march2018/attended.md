@@ -1,4 +1,4 @@
-# Attended
+# Attended (8)
 
 
 Cole Maddox Cole.Maddox@pomona.edu;
