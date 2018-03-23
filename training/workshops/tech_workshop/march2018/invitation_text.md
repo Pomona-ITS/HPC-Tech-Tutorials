@@ -1,4 +1,6 @@
-# Invitation textSlack URL for general announcements and questions: https://pomonaits.slack.com/messages/C8DTZN5GW (If you cannot get in send me an email and I will add you)
+# Invitation text
+
+Slack URL for general announcements and questions: https://pomonaits.slack.com/messages/C8DTZN5GW (If you cannot get in send me an email and I will add you)
 
 Please forward to all that you think should attend or let me know and will include them. So far, I included everyone who I have talked to about this initiative, and I am relying on you to extend the invitation to all who want/can attend. If there is a lot more interest I can find a bigger room or see if we can host another smaller event. We hosted the first one on a Friday and this one is on a Wednesday to accommodate those that cannot make it on Fridays. The slides and follow up materials will be available in Slack HPC channel and on the HPC blog after the meeting.
 
