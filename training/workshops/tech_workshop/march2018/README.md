@@ -13,7 +13,7 @@ Time: 11:30 am - 1:00 pm
 
 Food: Pomona Catering - A Taste of America (ordered)
 
-Invited people list is [here]().
+Invited people list is [here](https://github.com/Pomona-ITS/hpc/blob/master/training/workshops/tech_workshop/march2018/invited.md).
 
 Invitation text is [here](https://github.com/Pomona-ITS/hpc/blob/master/training/workshops/tech_workshop/march2018/invitation_text.md).
 
