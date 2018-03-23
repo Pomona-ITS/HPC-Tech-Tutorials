@@ -22,6 +22,8 @@ Attended is [here](https://github.com/Pomona-ITS/hpc/blob/master/training/worksh
 
 Slides:
 
+Also in [Box](https://pomona.box.com/s/ik6guvasy07udgoafx8lvv665nvylzkv)
+
 
 [GitHub Classroom](https://github.com/Pomona-ITS/hpc/blob/master/training/workshops/tech_workshop/march2018/GitHub%20Classroom.pptx)
 
