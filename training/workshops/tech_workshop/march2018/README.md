@@ -19,6 +19,12 @@ Invitation text is [here](https://github.com/Pomona-ITS/hpc/blob/master/training
 
 Attended is [here](https://github.com/Pomona-ITS/hpc/blob/master/training/workshops/tech_workshop/march2018/attended.md).
 
-Slides are [here]()
+Slides:
+
+GitHub Classroom
+git part1, part2, part3, part4
+HPC in Liberal Arts Colleges
+GPU Technologies
+GPU History
 
 Questions are [here]().
