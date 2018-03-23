@@ -17,8 +17,8 @@ Invited people list is [here](https://github.com/Pomona-ITS/hpc/blob/master/trai
 
 Invitation text is [here](https://github.com/Pomona-ITS/hpc/blob/master/training/workshops/tech_workshop/march2018/invitation_text.md).
 
-Attended is [here]().
+Attended is [here](https://github.com/Pomona-ITS/hpc/blob/master/training/workshops/tech_workshop/march2018/attended.md).
 
-Slides are [here]().
+Slides are [here]()
 
 Questions are [here]().
