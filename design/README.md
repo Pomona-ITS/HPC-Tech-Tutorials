@@ -21,3 +21,7 @@
 Research Computing Charter - [Draft](https://github.com/Pomona-ITS/hpc/blob/master/design/charter_-_rcag_advisory_committee_-_draft.docx)
 
 [Bill of Materials with Microway as the primary vendor and 4 scenarios](https://github.com/Pomona-ITS/hpc/blob/master/design/Bill%20of%20Materials%20Pomona%20HPC.xlsx)
+
+[Final Bill of Materials](https://github.com/Pomona-ITS/hpc/blob/master/design/Bill%20of%20Materials%20Pomona%20HPC%20April%202018%20-%20Final.xlsx)
+
+[Box Location to download Final Bill of Materials and the Quotes together](https://pomona.box.com/s/rn6omxitqwniufjp7yx6ngltqdr1mwlm)
