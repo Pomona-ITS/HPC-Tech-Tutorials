@@ -1,5 +1,49 @@
 # History of Hydrabud build
 
+
+Hi Todd,
+
+Thank you for your prompt reply but I am afraid I am more confused now. 
+
+Are you sure that hydrabud has only 16TB of space? 
+
+Here is an email from you (dated December 11, 2014) when we bought the disks.  Below is the ticket from ITS talking about a 32TB hard drive. 
+
+Thank you for your help Todd!
+
+Cheers,
+
+Daniel
+
+##############
+Hi Daniel, Anthony,
+
+Here is the estimate for a 36TB dedicated server to be installed in the ITS data center which would use rsync to back up hydra.
+
+1 x HP DL180 G6, quad core cpu, and 16GB of RAM @ $1500/ea
+12 x Seagate 3T hard drives @ $125/ea
+Total = $3000
+
+Let me know if this will be okay to order for you.
+
+Best, Todd
+###############
+
+TS Pomona Service Desk - Contact Version
+ 
+Ticket Number:
+42725
+Subject:
+Quote for backup server for Daniel Martinez lab
+ 
+Click here to view Issue in Browser
+ 
+Most Recent Note on this Issue:
+Entered on 12/09/2014 at 14:00:49 PST (GMT-0800) by Todd Shimoda:
+The Martinez lab requests a quote for a server that will be used to backup their Dell 720 server (hydra.pomona.edu). They will have a total of 32 TB hard drive memory in that server when their additional hard drives are installed.
+
+
+
 Dear Asya, Todd, and Pat,
 
 Greetings from Vienna! Hope things are going well for you in Claremont. 
