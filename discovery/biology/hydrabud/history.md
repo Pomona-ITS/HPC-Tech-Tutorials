@@ -1,5 +1,44 @@
 # History of Hydrabud build
 
+Thank you Todd!
+
+ I think I missread your message. Sorry. Here is another question. According to my notes the Dell server for hydra2 is as follows:
+
+hydra2
+PowerEdge R730 Server 
+RAM:  768 GB (24 x 32GB LRDIMM, 2133 MT/s, Quad Rank, x4 Data Width (370-ABUH))
+Storage: 24 TB (8 x 6TB 7.2K RPM NLSAS 6Gbps 512e 3.5in Hot-plug Hard Drive (400-AGEE))
+
+I don’t see the 24TB in hydra2. Am I sure I am missing something. 
+
+Best, 
+
+Daniel
+
+[hygenome@hydra2 ~]$ df -h
+Filesystem            Size  Used Avail Use% Mounted on
+/dev/mapper/VolGroup-lv_root
+                      1.1T  630G  374G  63% /
+tmpfs                 379G  220K  379G   1% /dev/shm
+/dev/sda2             477M  165M  287M  37% /boot
+/dev/sda1             200M  276K  200M   1% /boot/efi
+/dev/mapper/VolGroup-lv_home
+                       16T   15T  676G  96% /home
+
+
+
+From: "Todd A. Shimoda" <Todd.Shimoda@pomona.edu>
+Date: Friday, March 9, 2018 at 9:54 AM
+To: Daniel Martinez <DEM04747@pomona.edu>, Asya Shklyar <Asya.Shklyar@pomona.edu>, Pat Flannery <pat@pomona.edu>
+Subject: Re: Server space
+
+Hi Daniel,
+ 
+Sorry for the confusion. In Hydrabud, the directory Hydra was set up with 16 TB and the directory Hydra2 with 16 TB, for a total of 32TB. Currently the directory Hydra is 67% full, and Hydra2 is 43% full. So there is a total of about 14TB still available across the two directories. Is 14TB enough for what you need?
+ 
+Hope that clarifies it.
+Todd
+
 
 Hi Todd,
 
