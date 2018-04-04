@@ -41,4 +41,16 @@ There is no technology like ClassVR for Higher Ed, maybe something to explore
 
 
 
+## Blockchain
 
+### Reading Materials
+
+
+## Containers
+
+### Reading Materials
+
+
+## Artificial Intelligence - Machine Learning - Deep Learning
+
+### Reading Materials
