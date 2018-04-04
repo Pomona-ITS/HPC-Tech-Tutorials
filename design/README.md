@@ -29,3 +29,5 @@ Research Computing Charter - [Draft](https://github.com/Pomona-ITS/hpc/blob/mast
 [An alternative view of the options](https://github.com/Pomona-ITS/hpc/blob/master/design/Pomona%20HPC%20Configration%20Options%20April%202018.xlsx)
 
 [Cole's Edits/reformatted for William](https://github.com/Pomona-ITS/hpc/blob/master/design/Pomona%20HPC%20Configration%20Options%20April%202018%20Cole's%20Edits.xlsx)
+
+[Server Rack Layout with Quotes](https://github.com/Pomona-ITS/hpc/blob/master/design/Pomona%20HPC.pdf)
