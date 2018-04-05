@@ -94,7 +94,9 @@ There is no technology like ClassVR for Higher Ed, maybe something to explore
 
 [Augmented and Virtual Reality in Education — Part 2: Higher Ed](https://www.iotforall.com/augmented-virtual-reality-higher-education/)
 
+[University of Washington AR/VR Lab $6 million from tech companies](http://www.washington.edu/news/2018/01/08/uw-reality-lab-launches-with-6m-from-tech-companies-to-advance-augmented-and-virtual-reality-research/)
 
+[VR and AR: The Art of Immersive Storytelling and Journalism](https://er.educause.edu/blogs/2018/2/vr-and-ar-the-art-of-immersive-storytelling-and-journalism)
 
 ## Blockchain
 
