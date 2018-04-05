@@ -3,7 +3,7 @@
 ## VR/AR/MR (Virtual/Augmented/Mixed) reality
 
 Why all the hype? The prices are coming down, the competition is growing, there are more developers and creatives and, therefore, a lot more content. It started out as an extension of video games and continues ot be driven by video games
-but had been adoped in K12 and Higher Ed, Architectural Design, Travel and Tour Visualization, Campus Tours, Remote Social Interaction (World War II veterans meeting for anniversaries), Online COmmunites (Rec Room), Treatment of PTSD for the vetarans, Journalism, Movies, Immersive Art (Dali, Van Gogh), Interactive Experiences, Training (KFC), Simulations, Medicine, Empathy Training (Refugee experience, Autism, Sexual Assault Victims), and much more.
+but had been adoped in K12 and Higher Ed, Architectural Design, Travel and Tour Visualization, Campus Tours, Remote Social Interaction (World War II veterans meeting for anniversaries), Online Communites (Rec Room), Treatment of PTSD for the vetarans, Journalism, Movies, Immersive Art (Dali, Van Gogh), Interactive Experiences, Training (KFC), Simulations, Medicine, Empathy Training (Refugee experience, Autism, Sexual Assault Victims), and much more.
 
 Below are some links that give you an idea of what was done so far. This list of far from extensive, mostly curated for Higher Ed, and if you find something that is not on it, please feel free to add. There are also a few definitive books on the subject, one of my favorites even uses AR (point your phone at the designated images and a cartoon of the author springs to life, with audio. 
 
@@ -37,6 +37,8 @@ Some years ago Google had created the concept of a $10 Cardboard VR Viewer that 
 There are now dozens of conferences on the subject including SXSW. Educause topics are increasingly about the use of VR/AR in educational settings. 
 
 The setup at my desk includes an Oculus Rift, an HTC Vive, and a Meta2. I will keep them here for a few months so everyone can experience what VR has ot offer. I also have a Google Cardboard you can borrow if you want to see what it is like before acquiring one yourself. 
+
+I also have a 3DScanner ([Structure by Occipital](https://structure.io/)) that can be used to scan object, people and even rooms. and a 3D Camera ([Lucid](https://www.lucidcam.com/)) that can be used to create an immersive 360 tour of the campus.
 
 ### Reading Materials
 
