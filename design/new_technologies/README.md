@@ -2,6 +2,8 @@
 
 ## VR/AR/MR (Virtual/Augmented/Mixed) reality
 
+[Sign Up Here](https://goo.gl/forms/2UL9DcQy6b040r4I2) (please read this page before signing up)
+
 Why all the hype? The prices are coming down, the competition is growing, there are more developers and creatives and, therefore, a lot more content. It started out as an extension of video games and continues ot be driven by video games
 but had been adoped in K12 and Higher Ed, Architectural Design, Travel and Tour Visualization, Campus Tours, Remote Social Interaction (World War II veterans meeting for anniversaries), Online Communites (Rec Room), Treatment of PTSD for the vetarans, Journalism, Movies, Immersive Art (Dali, Van Gogh), Interactive Experiences, Training (KFC), Simulations, Medicine, Empathy Training (Refugee experience, Autism, Sexual Assault Victims), and much more.
 
@@ -39,6 +41,21 @@ There are now dozens of conferences on the subject including SXSW. Educause topi
 The setup at my desk includes an Oculus Rift, an HTC Vive, and a Meta2. I will keep them here for a few months so everyone can experience what VR has ot offer. I also have a Google Cardboard you can borrow if you want to see what it is like before acquiring one yourself. 
 
 I also have a 3DScanner ([Structure by Occipital](https://structure.io/)) that can be used to scan object, people and even rooms. and a 3D Camera ([Lucid](https://www.lucidcam.com/)) that can be used to create an immersive 360 tour of the campus.
+
+
+For those that want to seriously pursue development in this are there various online and in person courses. Here are just two of the most popular ones: 
+
+[upload.io](https://upload.io/) is a is a co-working space in Venice with 2-3 month courses in Unity (Unreal and Hololens coming soon) for about $3,000.
+
+[Udacity](https://www.udacity.com/course/vr-developer-nanodegree--nd017) has several online courses.
+
+
+Newsletters to idly follow what is happening:
+
+- [Upload VR](https://uploadvr.com/)
+
+- [Road to VR](roadtovr.com)
+
 
 ### Reading Materials
 
