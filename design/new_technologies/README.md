@@ -10,7 +10,7 @@ Below are some links that give you an idea of what was done so far. This list of
 http://finkmetaverse.com/
 
 I found that it is easier to actually read a physcial book because it is harder to point your phone at the kindle or an iPad.
-These kind of interesting experiential dilemmas can be discussed at length!
+These kinds of interesting experiential dilemmas can be discussed at length!
 
 Virtual Reality means fully immersed in a headset (HMD or Head Mounted Display) like an Oculus Rift or an HTC Vive.
 
@@ -18,7 +18,7 @@ Augmented Reality is a combination of a head-mounted display or glasses with the
 
 Both technologies are "tethered" today if you are using an HMD because it requires a high speed connection like USB 3.0 or USB 2.0 and HDMI.
 
-Many are working on untethering the devices and making them wireless and less expensive.
+Many are working on un-tethering the devices and making them wireless and less expensive.
 
 Another very interesting company that does not have a product yet (only for development, in limited quantities) is Magic Leap which does not have a bulky headset but rather a pair of stylish glasses. Another is Kopin, speciliazing in cyclists and runners.
 
