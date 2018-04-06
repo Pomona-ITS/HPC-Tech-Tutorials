@@ -35,3 +35,5 @@ Research Computing Charter - [Draft](https://github.com/Pomona-ITS/hpc/blob/mast
 [Pat's editable LucidChart Pure Storage Network Diagram](https://www.lucidchart.com/invitations/accept/b08f12c0-ff1d-4eaa-bcc6-55d1b8d05a7b)
 
 [Pat's Pure Storage Network Diagram as a pdf](https://github.com/Pomona-ITS/hpc/blob/master/design/HPC%20Pure%20Storage%20Block%20Network%20Diagram.pdf)
+
+[Box folder with all the information for Pure Storage](https://pomona.box.com/s/lj3tviv69hkdnn0hztf18p4bfakz91lt)
