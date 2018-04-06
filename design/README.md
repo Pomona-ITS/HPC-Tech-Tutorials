@@ -31,3 +31,5 @@ Research Computing Charter - [Draft](https://github.com/Pomona-ITS/hpc/blob/mast
 [Cole's Edits/reformatted for William](https://github.com/Pomona-ITS/hpc/blob/master/design/Pomona%20HPC%20Configration%20Options%20April%202018%20Cole's%20Edits.xlsx)
 
 [Server Rack Layout with Quotes](https://github.com/Pomona-ITS/hpc/blob/master/design/Pomona%20HPC.pdf)
+
+[Pat's editable LucidChart Pure Storage Network Diagram](https://www.lucidchart.com/invitations/accept/b08f12c0-ff1d-4eaa-bcc6-55d1b8d05a7b)
