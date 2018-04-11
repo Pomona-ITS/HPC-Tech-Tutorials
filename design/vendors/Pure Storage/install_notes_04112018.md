@@ -25,7 +25,7 @@ Latest Purity (OS) code version installed - 5.0.6
 
 Access to Support Portal enabled post-config. Ken created a username on their SaaS cloud using my email address. Got access after getting an email and confirming the link.
 
-Ken sent the User Guide.
+Ken sent the [User Guide](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Pure%20Storage/PurityFA_5.0.0_FlashArray_User_Guide.pdf).
 
 Call Home/Log management not working yet. We need this for Pure to monitor the health of the system. Port 443 (SSL) from all 3 management IPs.
 
