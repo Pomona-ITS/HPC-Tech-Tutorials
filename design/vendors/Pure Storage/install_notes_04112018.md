@@ -10,3 +10,13 @@ The following IPs/DNS names were provisioned by Chims:
 2) 10.38.0.5 - pom-itb-pure-mgt10 - 2nd controller's eth0 (physical interface, MAC 24:a9:37:01:30:40)
 
 3) 10.38.0.6 - pom-itb-pure-mgtv0 - virtual IP (virtual interface)
+
+Subnet /16 (224)
+
+DNS Subdomain .hpc.pomona.edu
+
+NTP ntp.pomona.edu
+
+SMTP relay.pomona.edu
+
+
