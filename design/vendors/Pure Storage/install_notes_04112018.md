@@ -21,7 +21,7 @@ NTP ntp.pomona.edu
 
 SMTP relay.pomona.edu
 
-Latest Puriry (OS) code version installed - 5.0.6
+Latest Purity (OS) code version installed - 5.0.6
 
 Access to Support Portal enabled post-config. Ken created a username on their SaaS cloud using my email address. Got access after getting an email and confirming the link.
 
