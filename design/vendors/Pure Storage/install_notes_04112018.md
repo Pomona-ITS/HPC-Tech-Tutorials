@@ -34,3 +34,5 @@ Replication IPs not needed yet. They are for multiple arrays.
 Inquiring regarding adding 10 more 1 TB drives.
 
 Still need 4 10 GB connections (iSCSI) to the Cisco switch to start testing with HPC VMs.
+
+When fully-connected and configured will add AD integration for the rest of the users.
