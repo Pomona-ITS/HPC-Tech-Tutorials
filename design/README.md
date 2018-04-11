@@ -37,3 +37,11 @@ Research Computing Charter - [Draft](https://github.com/Pomona-ITS/hpc/blob/mast
 [Pat's Pure Storage Network Diagram as a pdf](https://github.com/Pomona-ITS/hpc/blob/master/design/HPC%20Pure%20Storage%20Block%20Network%20Diagram.pdf)
 
 [Box folder with all the information for Pure Storage](https://pomona.box.com/s/lj3tviv69hkdnn0hztf18p4bfakz91lt)
+
+[Communications with Microway regarding 100 GB vs 10/40 GB pricing](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Microway/Microway%20Final%20Communication%20re%20Pomona%20HPC%20before%20purchasing.pdf)
+
+[Final quote for ordering Pomona HPC Equipment](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Microway/MWYQ23588.pdf)
+
+[100 GB Mellanox Ethernet switch](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Microway/MWYQ23595.pdf)
+
+[EDR/100GB Mellanox Infiniband switch](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Microway/MWYQ23598.pdf)
