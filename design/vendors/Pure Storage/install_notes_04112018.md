@@ -5,8 +5,8 @@ The engineer (Ken Tran) said M10 now supports up tp 20 TB so we could theoretica
 
 The following IPs/DNS names were provisioned by Chims:
 
-1) 10.38.0.4 - pom-itb-pure-mgt00 - 1st controller's eth0 (physical interface, MAC 24:a9:37:01:)
+1) 10.38.0.4 - pom-itb-pure-mgt00 - 1st controller's eth0 (physical interface, MAC 24:a9:37:01:c0:6e)
 
-2) 10.38.0.5 - pom-itb-pure-mgt10 - 2nd controller's eth0 (physical interface, MAC 24:a9:37:01:)
+2) 10.38.0.5 - pom-itb-pure-mgt10 - 2nd controller's eth0 (physical interface, MAC 24:a9:37:01:30:40)
 
 3) 10.38.0.6 - pom-itb-pure-mgtv0 - virtual IP (virtual interface)
