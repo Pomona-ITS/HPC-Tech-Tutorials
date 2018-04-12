@@ -2,7 +2,7 @@
 
 - Todd and Asya met with Richard Lewis on March 8th
 
-- Thursdays non self-study
+- Thursdays noon self-study
 
 - 3 dimensional brain disections
 
