@@ -17,3 +17,5 @@
 - synchronization of signals/between multiple people
 
 - student in graduate school (UCLA) - a resource
+
+http://research.pomona.edu/richard-lewis/research/
