@@ -33,3 +33,5 @@ Of Note:
 - Possibly building a VR Lab over the summer
 - A trip to another VR lab - UC Irvine, USC, UC San Diego, UC Davis, Stanford, Berkely, others? A google form with a questionnaire in the works.
 - Todd had discovered that [Ori Amir](https://oriamir.com/) is a comedian studying the neuroscience of Humor!
+
+[Todd's Notes and the attendee list](https://pomona.box.com/s/vbgrn5azqhlafhf3td9nzg4sk1vj3q54)
