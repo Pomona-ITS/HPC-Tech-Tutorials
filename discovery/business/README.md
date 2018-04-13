@@ -29,8 +29,23 @@ October 3, 2013
 Met: March 8 2018
 
 
-Forward the materials with the details of usign R, help install RStudio, and possibly R
+Forwarded the materials with the details of usign R, helped install RStudio, and R. ~100 time speedup even before GPUs. Have the code, need to spend some time tweaking it for the GPUs.
 
-Web Interface (Shiny) - Andrew's group
+Web Interface (Shiny) - Andrew's group, need to follow up.
 
-Invite to March 21 meeting
+Invited to Research Computing Office Hours.
+
+- using an outsourced consultant
+- Monte Carlo simulations
+- randomized return
+- standard distribution
+- 5 1/2 to 6 % a year
+- 2 randomizers: return and life expectancy
+- efficient rate for different ages
+- 1 individual 1000 times 2 min in Excel
+- 800 whole portfolio
+- web page with ability to model
+- avg life span 18
+- every iteration 1 calc 2 random
+- 100 calc per life
+- 
