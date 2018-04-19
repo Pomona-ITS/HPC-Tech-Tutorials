@@ -38,7 +38,7 @@ Of Note:
 
 Follow up from Richard:
 
-```
+
 Dear Todd and Asya,
 
 Thank you for visiting our department and getting us excited about research possibilities.
@@ -55,4 +55,4 @@ Thanks!!
 
 richard
 
-```
+
