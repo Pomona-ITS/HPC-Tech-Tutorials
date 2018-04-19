@@ -17,3 +17,9 @@ Here is the paperwork - the [POC agreement](https://github.com/Pomona-ITS/hpc/bl
 A [recent article in The Next Platform](https://www.nextplatform.com/2018/03/12/why-cisco-should-and-should-not-acquire-pure-storage/) - a reputable HPC Blog.
 
 [Install Notes for POC](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Pure%20Storage/install_notes_04112018.md)
+
+[User Guide for Purity OS](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Pure%20Storage/PurityFA_5.0.0_FlashArray_User_Guide.pdf)
+
+[Port Assignments for Call Home Firewall Configuration](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Pure%20Storage/FlashArray%20Port%20Assignments.pdf)
+
+[Windows File Services Guide](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Pure%20Storage/Windows%20File%20Services%20on%20Purity%20RUN.pdf) - not supported on M10 because of CPU limitations.
