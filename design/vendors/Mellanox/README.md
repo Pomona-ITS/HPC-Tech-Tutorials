@@ -9,3 +9,5 @@ Founded in 1999, Mellanox Technologies is headquartered in Sunnyvale, California
 The starting page for exploring Ethernet switches at Mellanox is [here](https://www.mellanox.com/page/ethernet_switch_overview?ssn=a42eu4fa3r14q85unlko45m180).
 
 The Ethernet switch brochure is [here](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Mellanox/Ethernet_Switch_Brochure.pdf).
+
+The [Mellanox Support Certificate](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Mellanox/XXM_SUPPORT_CERTIFICATE_1037587.PDF) for 2 switches and 4 100 GB cards with the Serial Numbers
