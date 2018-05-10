@@ -139,7 +139,7 @@ Side note: there is no nvidia-smi for Mac. There is another tools that is a good
 
 ```
 
-Model Name:	MacBook Pro
+  Model Name:	MacBook Pro
   Model Identifier:	MacBookPro14,3
   Processor Name:	Intel Core i7
   Processor Speed:	3.1 GHz
@@ -157,4 +157,18 @@ Model Name:	MacBook Pro
 
 ```
 
+```
+
+  System Version:	macOS 10.13.4 (17E202)
+  Kernel Version:	Darwin 17.5.0
+  Boot Volume:	Macintosh HD
+  Boot Mode:	Normal
+  Computer Name:	asaj2017-mac68
+  User Name:	Asya Shklyar (asaj2017)
+  Secure Virtual Memory:	Enabled
+  System Integrity Protection:	Disabled
+  Time since boot:	4:46
+
+
+```
 
