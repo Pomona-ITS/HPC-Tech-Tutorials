@@ -1,6 +1,6 @@
 # This is a place to describe experimentation with eGPU (external GPU) and R
 
-Using a Bizon eGPU Enclosure with a MacBook Pro:
+## Using a Bizon eGPU Enclosure with a MacBook Pro:
 
 ```
   Model Identifier:	MacBookPro14,3
@@ -69,7 +69,7 @@ NVDAEGPUSupport-v6.pkg (again, there was a NVDAEGPUSupport-v7.pkg available)
 
 ```
 
-CUDA Mac Installatyion Guide is [here](https://docs.nvidia.com/cuda/cuda-installation-guide-mac-os-x/index.html).
+CUDA Mac Installation Guide is [here](https://docs.nvidia.com/cuda/cuda-installation-guide-mac-os-x/index.html).
 
 ```
 AsyaShklyer-mac68:~ asaj2017$ /usr/bin/cc --version
@@ -130,4 +130,31 @@ Result = FAIL
 
 Ended up bricking the Mac because of incompatibilities and High Sierra issues and switched to Windows for now.
 
+
+
 Side note: there is no nvidia-smi for Mac. There is another tools that is a good vizalaization tool called [XRG](http://www.gauchosoft.com/Products/XRG/). Had to be compiled so XCode and command line tools required.
+
+
+## Reboot after the [announcement](https://support.apple.com/en-us/HT208544) that eGPUs are now officially supported on Macs and an OS update:
+
+```
+
+Model Name:	MacBook Pro
+  Model Identifier:	MacBookPro14,3
+  Processor Name:	Intel Core i7
+  Processor Speed:	3.1 GHz
+  Number of Processors:	1
+  Total Number of Cores:	4
+  L2 Cache (per Core):	256 KB
+  L3 Cache:	8 MB
+  Memory:	16 GB
+  Boot ROM Version:	MBP143.0173.B00
+  SMC Version (system):	2.45f0
+  Serial Number (system):	C02V42D2HTD9
+  Hardware UUID:	17DE12D8-014F-5852-A338-BFB7CABCF3C0
+
+
+
+```
+
+
