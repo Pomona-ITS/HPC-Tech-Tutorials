@@ -234,4 +234,6 @@ On to the AMD EGPU:
 
 4/8GB	GDDR5; Up to 5.1	TFLOPS; 256 bit	Memory Bandwidth; 32	Compute Units
 
+https://gaming.radeon.com/en/product/vega/
+
 
