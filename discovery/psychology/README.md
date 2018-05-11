@@ -4,6 +4,8 @@
 
 Richard Lewis had forwarded a copy of his [grant](https://github.com/Pomona-ITS/hpc/blob/master/discovery/psychology/Sontag%20grant%202018.pdf)!
 
+The [prospective memory paper](https://github.com/Pomona-ITS/hpc/blob/master/discovery/psychology/JBBS_2017062115082139.pdf) that was used for inspiring this.
+
 ## March 2018
 
 - Todd and Asya met with Richard Lewis on March 8th
