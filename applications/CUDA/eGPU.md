@@ -172,3 +172,30 @@ Side note: there is no nvidia-smi for Mac. There is another tools that is a good
 
 ```
 
+XCode update
+
+
+
+WebDriver-387.10.10.10.30.107.pkg (Recommended 103 did not work, said not OS compatible)
+Reboot
+
+
+
+
+
+Downloaded ( by guessing ) https://bizon-tech.com/a/nvidia-egpu-v9.zip
+
+
+NVDAEGPUSupport-v9.pkg
+Reboot
+
+
+
+References: 
+
+https://egpu.io/forums/mac-setup/wip-nvidia-egpu-support-for-high-sierra/paged/41/#post-33831
+
+https://egpu.io/forums/mac-setup/wip-nvidia-egpu-support-for-high-sierra/
+
+https://www.tonymacx86.com/threads/nvidia-releases-alternate-graphics-drivers-for-macos-high-sierra-10-13-4-387-10-10-10-30.249039/
+
