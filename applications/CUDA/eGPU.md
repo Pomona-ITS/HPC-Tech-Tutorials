@@ -227,3 +227,8 @@ Giving up. Screenshots below.
 ![After reboot and bricking the OS and a reinstall - 107 not compatible](https://github.com/Pomona-ITS/hpc/blob/master/applications/CUDA/Screen%20Shot%202018-05-11%20at%2011.05.32%20AM.png)
 
 GRRRRRRR
+
+On to the AMD EGPU:
+
+[Sonnet eGFX Breakaway Puck Radeon RX 570 (Mac & Windows Compatible)](https://www.amazon.com/Sonnet-Breakaway-Radeon-Windows-Compatible/dp/B076MHMF3V) $599
+
