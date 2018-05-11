@@ -1,5 +1,11 @@
 # This is a page for all the Psychology department notes
 
+## May 2018
+
+Richard Lewis had forwarded a copy of his [grant](https://github.com/Pomona-ITS/hpc/blob/master/discovery/psychology/Sontag%20grant%202018.pdf)!
+
+## March 2018
+
 - Todd and Asya met with Richard Lewis on March 8th
 
 - Thursdays noon self-study
