@@ -210,4 +210,4 @@ http://www.nvidia.com/object/macosx-cuda-9.0.214-driver.html
 
 Giving up. Screenshots below.
 
-
+![BizonBox software refusing to detect the eGPU](hpc/applications/CUDA/Screen Shot 2018-05-10 at 5.34.09 PM.png)
