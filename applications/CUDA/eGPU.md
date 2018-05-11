@@ -189,7 +189,8 @@ Downloaded ( by guessing ) https://bizon-tech.com/a/nvidia-egpu-v9.zip
 NVDAEGPUSupport-v9.pkg
 Reboot
 
-
+Download http://bizon-tech.com/bizonboxmac.zip
+May 2017
 
 References: 
 
@@ -198,4 +199,7 @@ https://egpu.io/forums/mac-setup/wip-nvidia-egpu-support-for-high-sierra/paged/4
 https://egpu.io/forums/mac-setup/wip-nvidia-egpu-support-for-high-sierra/
 
 https://www.tonymacx86.com/threads/nvidia-releases-alternate-graphics-drivers-for-macos-high-sierra-10-13-4-387-10-10-10-30.249039/
+
+
+
 
