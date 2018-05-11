@@ -202,4 +202,12 @@ https://www.tonymacx86.com/threads/nvidia-releases-alternate-graphics-drivers-fo
 
 
 
+https://raw.githubusercontent.com/learex/macOS-eGPU/master/macOS-eGPU.sh
+
+http://www.nvidia.com/object/macosx-cuda-9.0.214-driver.html
+
+
+
+Giving up. Screenshots below.
+
 
