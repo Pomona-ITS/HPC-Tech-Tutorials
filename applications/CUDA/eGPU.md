@@ -232,3 +232,6 @@ On to the AMD EGPU:
 
 [Sonnet eGFX Breakaway Puck Radeon RX 570 (Mac & Windows Compatible)](https://www.amazon.com/Sonnet-Breakaway-Radeon-Windows-Compatible/dp/B076MHMF3V) $599; $259 for just the card, without the enclosure.
 
+4/8GB	GDDR5; Up to 5.1	TFLOPS; 256 bit	Memory Bandwidth; 32	Compute Units
+
+
