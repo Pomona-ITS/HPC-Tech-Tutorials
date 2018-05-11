@@ -236,4 +236,4 @@ On to the AMD EGPU:
 
 https://gaming.radeon.com/en/product/vega/
 
-
+![Specs for two Vegas](https://github.com/Pomona-ITS/hpc/blob/master/applications/CUDA/Screen%20Shot%202018-05-11%20at%2012.00.09%20PM.png)
