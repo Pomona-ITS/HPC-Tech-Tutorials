@@ -6,6 +6,16 @@ Richard Lewis had forwarded a copy of his [grant](https://github.com/Pomona-ITS/
 
 The [prospective memory paper](https://github.com/Pomona-ITS/hpc/blob/master/discovery/psychology/JBBS_2017062115082139.pdf) that was used for inspiring this.
 
+Some of the Leap Motion papers:
+
+[A novel semi-immersive virtual reality visuomotor task activates ventrolateral prefrontal cortex: a functional near-infrared spectroscopy study](https://github.com/Pomona-ITS/hpc/blob/master/discovery/psychology/jne_2016.pdf)
+
+[Prefrontal Cortex Activation Upon a Demanding Virtual Hand-Controlled Task: A New Frontier for Neuroergonomics](https://github.com/Pomona-ITS/hpc/blob/master/discovery/psychology/fnhum-10-00053.pdf)
+
+[A virtual ball task driven by forearm movememts for neuro-rehabilitation](https://github.com/Pomona-ITS/hpc/blob/master/discovery/psychology/07358600.pdf)
+
+[Prefrontal cortex activation upon a demanding virtual hand-controlled task](https://www.artinis.com/case-studies/2018/5/9/prefrontal-cortex-activation-upon-a-demanding-virtual-hand-controlled-task)
+
 ## March and April 2018
 
 - Todd and Asya met with Richard Lewis on March 8th
