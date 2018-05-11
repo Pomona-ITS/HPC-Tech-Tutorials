@@ -10,6 +10,12 @@ that can be applied right away (SELinux, iptables etc) on the host and/or conver
 This is SDN (Software Defined Networking). Super-integrated with HyperFlex. Licensing both per agent and yearly. 
 Impressive visualization.
 
+Courses in Irvine:
+
+[Network Visibility and Operations](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Cisco/slides/Cisco_DC_TA-TD-NW_Datasheet.pdf)
+
+[Security and Policy Enforcement](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Cisco/slides/Cisco_DC_TA-TD-SEC_Datasheet.pdf)
+
 2) [HyperFlex](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Cisco/slides/Hyperflex-Tech%20Day_2.18%20.pptx)
 
 3) AppDynamics - waiting for slides
