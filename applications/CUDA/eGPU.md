@@ -211,3 +211,19 @@ http://www.nvidia.com/object/macosx-cuda-9.0.214-driver.html
 Giving up. Screenshots below.
 
 ![BizonBox software refusing to detect the eGPU](https://github.com/Pomona-ITS/hpc/blob/master/applications/CUDA/Screen%20Shot%202018-05-10%20at%205.34.09%20PM.png)
+
+![The latest NVIDIA Web driver Install Successful](https://github.com/Pomona-ITS/hpc/blob/master/applications/CUDA/Screen%20Shot%202018-05-10%20at%205.44.35%20PM.png)
+
+![NVIDIA EGPU Support driver Install Successful](https://github.com/Pomona-ITS/hpc/blob/master/applications/CUDA/Screen%20Shot%202018-05-10%20at%205.50.15%20PM.png)
+
+![The version of the BizonBox Device Manager](https://github.com/Pomona-ITS/hpc/blob/master/applications/CUDA/Screen%20Shot%202018-05-10%20at%206.05.03%20PM.png)
+
+![macOS eGPU script that sorta worked but no cigar 1](https://github.com/Pomona-ITS/hpc/blob/master/applications/CUDA/Screen%20Shot%202018-05-10%20at%206.20.13%20PM.png)
+
+![macOS eGPU script that sorta worked but no cigar 2](https://github.com/Pomona-ITS/hpc/blob/master/applications/CUDA/Screen%20Shot%202018-05-10%20at%206.20.41%20PM.png)
+
+![macOS eGPU script that sorta worked but no cigar 3](https://github.com/Pomona-ITS/hpc/blob/master/applications/CUDA/Screen%20Shot%202018-05-10%20at%206.23.37%20PM.png)
+
+![After reboot and bricking the OS and a reinstall - 107 not compatible](https://github.com/Pomona-ITS/hpc/blob/master/applications/CUDA/Screen%20Shot%202018-05-11%20at%2011.05.32%20AM.png)
+
+GRRRRRRR
