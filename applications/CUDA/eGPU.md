@@ -241,3 +241,5 @@ https://gaming.radeon.com/en/product/vega/
 [Rx Vega 64 plus Sonnet Box](https://www.sonnetstore.com/collections/egpu-expansion-systems/products/egfx-breakaway-box-650-bundle) $1299
 
 
+[Radeon Pro WX 9100](https://www.newegg.com/Product/Product.aspx?Item=N82E16814105087)
+
