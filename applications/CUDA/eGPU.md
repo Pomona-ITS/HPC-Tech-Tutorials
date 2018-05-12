@@ -243,3 +243,6 @@ https://gaming.radeon.com/en/product/vega/
 
 [Radeon Pro WX 9100](https://www.newegg.com/Product/Product.aspx?Item=N82E16814105087)
 
+[Liquid cooled Vega 64 w/out an enclosure](https://www.amazon.com/XFX-Radeon-Liquid-Graphic-RX-VEGMXWFXW/dp/B074DKPNXS)
+
+Sonnet 650 W is sold out
