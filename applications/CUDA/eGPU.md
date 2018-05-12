@@ -237,3 +237,7 @@ On to the AMD EGPU:
 https://gaming.radeon.com/en/product/vega/
 
 ![Specs for two Vegas](https://github.com/Pomona-ITS/hpc/blob/master/applications/CUDA/Screen%20Shot%202018-05-11%20at%2012.00.09%20PM.png)
+
+[Rx Vega 64 plus Sonnet Box](https://www.sonnetstore.com/collections/egpu-expansion-systems/products/egfx-breakaway-box-650-bundle) $1299
+
+
