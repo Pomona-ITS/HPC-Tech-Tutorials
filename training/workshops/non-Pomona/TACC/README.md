@@ -10,6 +10,6 @@ based on Intel's Many Integrated Core (MIC) architecture —and 1,736 Intel Xeon
 
 TACC is actively involved in HPC education via numerous workshops, most of them very inexpensive.
 
-The slide deck describing the current and near future workshops (most are $500) is here.
+The slide deck describing the current and near future workshops (most are $500) is [here](https://github.com/Pomona-ITS/hpc/blob/master/training/workshops/non-Pomona/TACC/HPC%20Courses%20%40%20TACC.key).
 
 https://www.tacc.utexas.edu/home
