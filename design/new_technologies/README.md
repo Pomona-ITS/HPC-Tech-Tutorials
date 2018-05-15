@@ -24,7 +24,7 @@ Many are working on un-tethering the devices and making them wireless and less e
 
 Another very interesting company that does not have a product yet (only for development, in limited quantities) is Magic Leap which does not have a bulky headset but rather a pair of stylish glasses. Another is Kopin, speciliazing in cyclists and runners.
 
-Most tetherred setups use an area 0f 5x7 or 7x7 feet which technically requires a dedicted room without any furniture.
+Most tetherred setups use an area of 5x7 or 7x7 feet which technically requires a dedicted room without any furniture.
 
 Most also use controllers that you have to use to operate within the virtual reality. There is a company called Leap Motion that has a camera (mounted on the front of the HMD) that can regonize hand gestures without any controllers but so far this is a work in progress.
 
