@@ -16,7 +16,7 @@ These kinds of interesting experiential dilemmas can be discussed at length!
 
 Virtual Reality means fully immersed in a headset (HMD or Head Mounted Display) like an Oculus Rift or an HTC Vive.
 
-Augmented Reality is a combination of a head-mounted display or glasses with the actual real world, overlayed on top of it. Examples are Meta2, Microsoft HoloLens and many others. Or just you phone (Pokemon Go is one of the earlier examples).
+Augmented Reality is a combination of a head-mounted display or glasses with the actual real world, overlayed on top of it. Examples are Meta2, Microsoft HoloLens and many others. Or just your phone (Pokemon Go is one of the earlier examples).
 
 Both technologies are "tethered" today if you are using an HMD because it requires a high speed connection like USB 3.0 or USB 2.0 and HDMI.
 
