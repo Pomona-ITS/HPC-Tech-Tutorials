@@ -1,5 +1,10 @@
 # This is a page for documenting the progress of discovering the needs of the Chemistry department
 
+For fun:
+https://blogs.nvidia.com/blog/2012/07/25/exploring-the-science-of-ice-cream-with-a-supercomputer/
+The link in the above is broken, this one works: https://www.cray.com/sites/default/files/resources/XK6-Ludwig-0212.pdf
+
+
 ## The follow up meeting May 15 2018
 
 Clarifications:
