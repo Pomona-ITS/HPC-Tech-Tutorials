@@ -253,3 +253,6 @@ Aquired the bundle above using the Hahn grant.
 The product support page:
 
 https://www.sonnettech.com/product/egfx-breakaway-box.html
+
+60W adapter was not enough, got a 90W
+
