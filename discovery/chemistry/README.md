@@ -1,6 +1,6 @@
 # This is a page for documenting the progress of discovering the needs of the Chemistry department
 
-##The follow up meeting May 15 2018
+## The follow up meeting May 15 2018
 
 Clarifications:
 
@@ -19,7 +19,7 @@ The links for more information are below.
 
 - None of the software ever gets patched. "If it works we leave it alone".
 
-##The first meeting with Dan and Maduka were at the end of January 2018.
+## The first meeting with Dan and Maduka were at the end of January 2018.
 
 We learned that Maduka was shortly leaving for a full time position.
 
