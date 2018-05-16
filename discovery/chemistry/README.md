@@ -19,6 +19,22 @@ The links for more information are below.
 
 - None of the software ever gets patched. "If it works we leave it alone".
 
+### The rough plan of action:
+
+- Asya will build 2 VMs on existing Enterprise infrastructure, one for student(s), one for research (DAN).
+These are meant to replace pauling and urey. The data will have to be migrated. The accounts will be created using AD. The ownership/permissions will need to be fixed.
+- The new research student will test the environment (pauling and urey are the backup)
+- Maduka and Dan will provide access to the installables for all the software, with the primary focus on Gaussian.
+- Dan will make an intro to Bob and Robert at Harvey Mudd
+- Asya and Todd will meet with Bob and Robert to discuss the HPC arrangement
+- Maduka will continue collaborating with Dan after he leaves on June 30th so his account in AD will remain (sponsored) and he could continue using the HPC environment
+- HPC environment will have both 09 and 16 and Asya will teach them how to choose
+- We will benchmark with Maduka's examples and identify the ideal number of cores for each job
+- We will need to procure Lynda for multi-node jobs (not currently used)
+
+
+
+
 ## The first meeting with Dan and Maduka were at the end of January 2018.
 
 We learned that Maduka was shortly leaving for a full time position.
