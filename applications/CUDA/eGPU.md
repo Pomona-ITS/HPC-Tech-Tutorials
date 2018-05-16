@@ -238,7 +238,7 @@ https://gaming.radeon.com/en/product/vega/
 
 ![Specs for two Vegas](https://github.com/Pomona-ITS/hpc/blob/master/applications/CUDA/Screen%20Shot%202018-05-11%20at%2012.00.09%20PM.png)
 
-[Rx Vega 64 plus Sonnet Box](https://www.sonnetstore.com/collections/egpu-expansion-systems/products/egfx-breakaway-box-650-bundle) $1299
+>>>> [Rx Vega 64 plus Sonnet Box](https://www.sonnetstore.com/collections/egpu-expansion-systems/products/egfx-breakaway-box-650-bundle) $1299
 
 
 [Radeon Pro WX 9100](https://www.newegg.com/Product/Product.aspx?Item=N82E16814105087)
@@ -246,3 +246,10 @@ https://gaming.radeon.com/en/product/vega/
 [Liquid cooled Vega 64 w/out an enclosure](https://www.amazon.com/XFX-Radeon-Liquid-Graphic-RX-VEGMXWFXW/dp/B074DKPNXS)
 
 Sonnet 650 W is sold out
+
+
+Aquired the bundle above using the Hahn grant.
+
+The product support page:
+
+https://www.sonnettech.com/product/egfx-breakaway-box.html
