@@ -245,14 +245,20 @@ https://gaming.radeon.com/en/product/vega/
 
 [Liquid cooled Vega 64 w/out an enclosure](https://www.amazon.com/XFX-Radeon-Liquid-Graphic-RX-VEGMXWFXW/dp/B074DKPNXS)
 
-Sonnet 650 W is sold out
 
 
-Aquired the bundle above using the Hahn grant.
+Sonnet 650 W on its own is sold out.
+
+
+Acquired the bundle above using the Hahn grant.
+
+
 
 The product support page:
 
 https://www.sonnettech.com/product/egfx-breakaway-box.html
 
-60W adapter was not enough, got a 90W
+
+
+60W adapter was not enough, got a 90W.
 
