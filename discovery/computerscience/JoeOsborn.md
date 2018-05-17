@@ -22,6 +22,9 @@ Asya To Do:
 - Add to the calendar invite for next Research Computing Office Hours; could be an invited speaker at the next one (DGX, AI, workflow)
 
 
+- Info on account management in a game (or a VR) lab
+
+
 Discussed:
 
 - Collaborators at UC Santa Cruz and Cal Poly
@@ -43,6 +46,15 @@ Discussed:
 
 
 - Interested in having students use the HPC environment
+
+
+- [Expressive Intelligence Studio at UC Santa Cruz](https://games.soe.ucsc.edu/eis)
+
+
+- Interested in building a game lab for playing and making games; will be acquiring consoles, will need assistance with the MAC address registration; interested in streaming (Open CourseWare, first CS, then Pomona, then 5c/7c then outside); Mary had mentioned the library and the tools [OneButtonStudio](https://onebutton.psu.edu/) and [Omeka](https://omeka.org/). Would need a green screen setup. DRM/Account - need to sort that out.
+
+
+- A colleague (Kevin?) has an interest in VR (point of view)
 
 
 - 
