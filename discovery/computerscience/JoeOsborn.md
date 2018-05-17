@@ -4,10 +4,10 @@ https://users.soe.ucsc.edu/~jcosborn/
 
 Asya To Do:
 
-- add Joe to Slack HPC channel
+- add Joe to Slack HPC channel - done!
 
 
-- add Joe to ITS GitHub repo
+- add Joe to ITS GitHub repo - done!
 
 
 - verify that Slurm has functionality similar to HTCondor
@@ -16,7 +16,7 @@ Asya To Do:
 - Send the link to the Handshake job posting
 
 
-- Send the Hahn grant link
+- Send the Hahn grant link - done!
 
 
 - Add to the calendar invite for next Research Computing Office Hours; could be an invited speaker at the next one (DGX, AI, workflow)
