@@ -11,6 +11,8 @@ The version that is currently used at Pomona is Gaussian 09 and GaussView 5 (vis
 
 The latest version is Gaussian 12 and GaussView 6.
 
+We discussed using both  versions the old one and the new one in the HPC environment. In order to get them up and running quickly we will use 09/5. We will also install 12/6 as it supports GPUs and I suspect we could greatly accelerate whatever they are running but it may take some work (and will take longer).
+
 The following is a description for the software management as it is right now:
 
 1) Manage vendor relationship (CUC? HMC?)
