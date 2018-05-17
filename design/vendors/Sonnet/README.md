@@ -21,3 +21,11 @@ It did just work with a couple of gotchas:
 - I acquired a 90 W adapter instaed of the default 60 W
 
 ![https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Sonnet/Screen%20Shot%202018-05-16%20at%204.56.04%20PM.png](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Sonnet/Screen%20Shot%202018-05-16%20at%204.56.04%20PM.png)
+
+![https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Sonnet/Screen%20Shot%202018-05-16%20at%204.56.39%20PM.png](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Sonnet/Screen%20Shot%202018-05-16%20at%204.56.39%20PM.png)
+
+![https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Sonnet/Screen%20Shot%202018-05-16%20at%204.56.54%20PM.png](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Sonnet/Screen%20Shot%202018-05-16%20at%204.56.54%20PM.png)
+
+![https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Sonnet/Screen%20Shot%202018-05-16%20at%204.57.02%20PM.png](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Sonnet/Screen%20Shot%202018-05-16%20at%204.57.02%20PM.png)
+
+![https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Sonnet/Screen%20Shot%202018-05-16%20at%204.57.11%20PM.png](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Sonnet/Screen%20Shot%202018-05-16%20at%204.57.11%20PM.png)
