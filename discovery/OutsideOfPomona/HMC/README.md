@@ -16,17 +16,21 @@ The following is an abstraction for the software management as it is right now:
 1) Manage vendor relationship (CUC? HMC?)
 
   a) purchase new
+  
   b) renew/support
   
 2) Manage licenses (HMC, Robert Kingston)
 
   a) issue one time static code
+  
   b) host a network license server that "gives out" licenses to users temporarily while they use the software aka "tokens"
   
 3) Manage software distribution
 
   a) Download new/latest version/patch (HMC)
+  
   b) Test new/latest version/patch (Pomona ITS/Chemistry/Maduka?)
+  
   c) provision to production (Pomona ITS)
   
 4) Manage User Support
