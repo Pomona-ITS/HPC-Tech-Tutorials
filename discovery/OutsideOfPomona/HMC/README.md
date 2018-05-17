@@ -11,7 +11,7 @@ The version that is currently used at Pomona is Gaussian 09 and GaussView 5 (vis
 
 The latest version is Gaussian 12 and GaussView 6.
 
-The following is an abstraction for the software management as it is right now:
+The following is a description for the software management as it is right now:
 
 1) Manage vendor relationship (CUC? HMC?)
 
@@ -36,5 +36,11 @@ The following is an abstraction for the software management as it is right now:
 4) Manage User Support
 
   a) Level 1/2/3 (ITS/Asya/Todd)
+  
+  
+How is request for software handled if it is coming from a new user?
+
+
+We should add the software to the catalog and make license provisioning more seamless.
   
   
