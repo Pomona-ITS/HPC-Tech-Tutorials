@@ -250,7 +250,7 @@ https://gaming.radeon.com/en/product/vega/
 Sonnet 650 W on its own is sold out.
 
 
-Acquired the bundle above using the Hahn grant.
+Acquired the bundle above on Amazon using the Hahn grant. $1,400.
 
 
 
@@ -261,4 +261,6 @@ https://www.sonnettech.com/product/egfx-breakaway-box.html
 
 
 60W adapter was not enough, got a 90W.
+
+Moving the documentation for this into [vendors/Sonnet](https://github.com/Pomona-ITS/hpc/tree/master/design/vendors/Sonnet)
 
