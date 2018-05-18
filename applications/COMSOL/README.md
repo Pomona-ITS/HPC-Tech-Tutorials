@@ -1,13 +1,27 @@
-# This is the page describing COMSOL-related activities
+# This is the page for COMSOL-related information
+
+[COMSOL Multiphysics](https://www.comsol.com/) is a cross-platform finite element analysis, solver and multiphysics simulation software. It allows conventional physics-based user interfaces and coupled systems of partial differential equations.
+
+*from Wikipedia
 
 
-So far COMSOL is only known to be used in Geology ([Eric Grosfils](http://research.pomona.edu/eric-grosfils/publications/)).
+License: Proprietary EULA
 
 
-This is the history of our communications and the notes from testing and research that was done:
+Developer(s): COMSOL Inc
 
 
-Eric sent the following files to us on January 3rd 2018:
+Stable release: 5.3a / December 14, 2017; 4 months ago
+
+
+## So far COMSOL is only known to be used in Geology ([Eric Grosfils](http://research.pomona.edu/eric-grosfils/publications/)).
+
+
+### This is the history of our communications and the notes from testing and research that was done:
+
+
+#### Eric sent the following files to us on January 3rd 2018:
+
 
 "Todd and Asya,
  
@@ -28,3 +42,18 @@ Cheers!
 Eric
 "
 
+
+
+## It seems COMSOL still does not support GPUs or CUDA in a any way except for OpenGL
+
+
+The official position as of 2016 (CEO Littmark) is the following:
+
+
+From: http://www.digitaleng.news/de/comsol-conference-2016-performance-is-paramount/
+
+
+"From a hardware standpoint, the audience was curious about GPU-based simulation. “We haven’t seen that we can do very much. We’ve been looking at it on and off for the last 10 years,” said Littmarck. However, he did add that Multiphysics is multi-threaded for simulation applications and that even non-GPU technology is rapidly advancing. “The hardware always gets better. If you can’t change your methods, just wait,” he said."
+
+
+There was nothing about GPUs in the [2017 COMSOL conference](https://www.comsol.com/2017-user-presentations/multiphysics).
