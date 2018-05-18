@@ -1,7 +1,7 @@
 # This is the page describing COMSOL-related activities
 
 
-So far COMSOL is only known to be used in Geology (Eric Grosfils).
+So far COMSOL is only known to be used in Geology ([Eric Grosfils](http://research.pomona.edu/eric-grosfils/publications/)).
 
 
 This is the history of our communications and the notes from testing and research that was done:
