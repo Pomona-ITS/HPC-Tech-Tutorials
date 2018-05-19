@@ -144,3 +144,9 @@ GPUs
 
 
 General-purpose computing on graphics processing units (also referred to as GPGPU) or the Intel Phi Co-processor is currently not supported by COMSOL."
+
+
+[Stanford's Sherlock cluster instructions](http://sherlock.stanford.edu/mediawiki/index.php/COMSOL) for using COMSOL. We will probably do something similar.
+
+
+[NX or No Machine](https://www.nomachine.com/) can be used for remote viz.
