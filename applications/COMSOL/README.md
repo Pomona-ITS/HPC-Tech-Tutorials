@@ -132,3 +132,15 @@ To solve Parametric Sweeps in parallel on a cluster, use the Cluster Sweep funct
 
 
 Always consider if you can avoid large sweeps by using the Optimization Module."
+
+
+"Graphics
+
+
+We recommend modern AMD FirePro or NVIDIA based dedicated graphics cards. A list of tested graphics cards can be found on the system requirements page. The larger the memory in the graphics card, the more complex models can be visualized. Note that just because a models require large amounts of RAM memory to solve does not necessarily mean it will require a large video card to display, and vice-versa. When using the FNL it is also advantageous to use Client-Server mode.
+
+
+GPUs
+
+
+General-purpose computing on graphics processing units (also referred to as GPGPU) or the Intel Phi Co-processor is currently not supported by COMSOL."
