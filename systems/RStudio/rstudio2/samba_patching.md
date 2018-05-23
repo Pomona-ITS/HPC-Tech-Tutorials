@@ -1,6 +1,4 @@
-# This page is for tracking system changes on rstudio2
-
-## March 13 2018 update: Samba version check and patching according to https://thehackernews.com/2018/03/samba-server-vulnerability.html
+# March 13 2018 update: Samba version check and patching according to https://thehackernews.com/2018/03/samba-server-vulnerability.html
 
 ```
 samba-common-4.4.4-14.el7_3.noarch
