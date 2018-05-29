@@ -1,4 +1,7 @@
 # Microway is used by Bowdoin college and is one of the preferred NVIDIA DGX and DGX-1 vendors
+
+Update (May 29): [Virtual GPU for remote CAD/GRID license pricing](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Microway/MWYQ23849.pdf).
+
 Update (March 22): remaining quotes from Microway with better pricing!
 
 [Skylake 4 V100s as an option](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Microway/MWYQ23433-01%20Skylake%204%20V100s.pdf)
