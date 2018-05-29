@@ -37,3 +37,5 @@ The slides from the techincal call are [here](https://github.com/Pomona-ITS/hpc/
 The equipment we requested to be quoted is here []().
 
 The technical documentation (specifications, architecture) is [here]().
+
+M10 array is getting retired and replaced with X10. This is the [updated quote](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Presidio/quotes/Pomona%20College%20Pure%20Storage%20FlashArray%20X10R2-ETH-9.6TB-9.6%20Quote%202003218803563-01%2005-25-18.pdf) from Pure/Presidio.
