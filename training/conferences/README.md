@@ -28,8 +28,7 @@
 | SciPy                   | Scientific Python   | July 9-15 2018      | https://goo.gl/H3Lt9F |                     | Austin, TX              |
 | JupyterCon              | Jupyter             | Aug 21-24 2018      | https://goo.gl/i8mzXp |                     | NY, NY                   |
 | LISA                    | Linux SysAdmins     | Oct 28 - Nov 2 2018 | https://goo.gl/qpKdYt |                     | Nashville       |
-| AWS Re:Invent           | AWS                 | Nov 26-30 2018      | http://bit.ly/PureAccelerate2018Keynote     | SF                    |                         |
-| SXSW                    | Culture             | May 22-24 2018      |                       |                     |                         |
-| Pure Accelerate | Vendor: Storage             |                     |                       |                     |                         |
+| AWS Re:Invent           | AWS                 | Nov 26-30 2018      |                       |                     |                         |
+| SXSW                    | Culture             |                     |                       |                     |                         |
+| Pure Accelerate | Vendor: Storage             |  May 22-24 2018     |   http://bit.ly/PureAccelerate2018Keynote   |                           |                   
 
-http://bit.ly/PureAccelerate2018Keynote
