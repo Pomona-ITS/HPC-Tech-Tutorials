@@ -30,5 +30,5 @@
 | LISA                    | Linux SysAdmins     | Oct 28 - Nov 2 2018 | https://goo.gl/qpKdYt |                     | Nashville       |
 | AWS Re:Invent           | AWS                 | Nov 26-30 2018      |                       |                     |                         |
 | SXSW                    | Culture             |                     |                       |                     |                         |
-| Pure Accelerate | Vendor: Storage             |  May 22-24 2018     |   http://bit.ly/PureAccelerate2018Keynote   |                           |                   
+| Pure Accelerate | Vendor: Storage             |  May 22-24 2018     |   http://bit.ly/PureAccelerate2018Keynote   | SF                          |                   
 
