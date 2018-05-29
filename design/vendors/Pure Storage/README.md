@@ -25,3 +25,5 @@ A [recent article in The Next Platform](https://www.nextplatform.com/2018/03/12/
 [Windows File Services Guide](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Pure%20Storage/Windows%20File%20Services%20on%20Purity%20RUN.pdf) - not supported on M10 because of CPU limitations.
 
 [The quote to add 10 more 1 TB drives to the M10R2](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Presidio/quotes/Pomona%20College%20Pure%20Storage%20FlashArray%20m%20Chassis%20Datapack%2010TB%20Quote%202003218802735-01%2004-20-18.pdf)
+
+M2R2 is being replaced with X10R2. The quote is in Presidio folder. Here is the [data sheet](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Pure%20Storage/ps_ds_flasharray_03.pdf).
