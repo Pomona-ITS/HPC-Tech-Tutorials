@@ -152,4 +152,3 @@ General-purpose computing on graphics processing units (also referred to as GPGP
 [NX or No Machine](https://www.nomachine.com/) can be used for remote viz.
 
 
-[Meeting Notes from meeting at Harvey Mudd](https://github.com/Pomona-ITS/hpc/blob/master/applications/COMSOL/harvey_mudd_gaussian.md)
