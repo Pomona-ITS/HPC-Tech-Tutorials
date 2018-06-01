@@ -19,5 +19,7 @@ Here are the pictures of the front and back when it first arrived, and the seria
 
 ![Front](https://github.com/Pomona-ITS/hpc/blob/master/systems/POM-ITB-DGX01/DGX-front.jpg)
 
+![Back](https://github.com/Pomona-ITS/hpc/blob/master/systems/POM-ITB-DGX01/DGX-back.jpg)
 
+![Serial Number/Model](https://github.com/Pomona-ITS/hpc/blob/master/systems/POM-ITB-DGX01/DGX-serialnumber.jpg)
 
