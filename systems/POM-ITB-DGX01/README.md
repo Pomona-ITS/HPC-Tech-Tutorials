@@ -47,8 +47,12 @@ Screenshots of the inital setup post-power-on (it is super-quiet):
 ![Keyboard](https://github.com/Pomona-ITS/hpc/blob/master/systems/POM-ITB-DGX01/keyboard.jpg)
 
 
+
 All the documentation is online at https://docs.nvidia.com/dgx/ (Very green of NVIDIA).
 
 ![Quick-Start Guide](https://github.com/Pomona-ITS/hpc/blob/master/systems/POM-ITB-DGX01/quick-start.jpg)
 
 ![First Page](https://github.com/Pomona-ITS/hpc/blob/master/systems/POM-ITB-DGX01/first-page.jpg)
+
+
+[User Guide](https://docs.nvidia.com/dgx/dgx-station-user-guide/index.html)
