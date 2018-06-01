@@ -38,6 +38,13 @@ The workstation came with 3 display-to-hdmi adapters:
 
 Screenshots of the inital setup post-power-on (it is super-quiet):
 
+![Agreement](https://github.com/Pomona-ITS/hpc/blob/master/systems/POM-ITB-DGX01/agreement.jpg)
+
+![Language](https://github.com/Pomona-ITS/hpc/blob/master/systems/POM-ITB-DGX01/language.jpg)
+
+![TimeZone](https://github.com/Pomona-ITS/hpc/blob/master/systems/POM-ITB-DGX01/timezone.jpg)
+
+![Keyboard](https://github.com/Pomona-ITS/hpc/blob/master/systems/POM-ITB-DGX01/keyboard.jpg)
 
 
 All the documentation is online at https://docs.nvidia.com/dgx/ (Very green of NVIDIA).
