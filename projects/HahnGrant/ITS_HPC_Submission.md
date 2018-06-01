@@ -1,16 +1,20 @@
 hahn-proposal 
+
 Visualizing Software Performance
  
 hahn-budget    
+
 $10,000
  
-hahn-description            
+hahn-description        
+
 In the world of software and research computing, in general, there are multitudes of tools for measuring software performance.
 There isn't a single definitive guide that summarizes performance results across a sampling of different architectures, 
 old and new, different operating systems, configuration options, optimization techniques in a straightforward, 
 user-friendly manner. Not an easy task but we should be trying to make all software run more efficiently.
  
 hahn-teaching  
+
 In the process of designing, building and running the research infrastructure at Pomona College there will be a 
 number of interesting use cases across at least 10 departments where we have an opportunity to optimize and speed up 
 some of the software that is used today in teaching and research. There is an opportunity to answer questions like 
