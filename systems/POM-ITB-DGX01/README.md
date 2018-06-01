@@ -4,9 +4,13 @@ It is a standalone NVIDIA-made PROPRIETARY workstation with 4 V100 (Volta) cards
 
 NVIDIA also makes a DGX-1 and a DGX-2 and has a number of storage vendor partnerships including Pure Storage and Cisco to scale beyond a single physical system.
 
-More information about our DGX is here.
 
-More information about DGX-1 and DGX2 is here.
+
+More information about our DGX is [here](https://www.nvidia.com/en-us/data-center/dgx-station/). The datasheet with the specs is [here](https://www.nvidia.com/content/dam/en-zz/Solutions/Data-Center/dgx-station/dgx-station-print-explorer-datasheet-letter-final-web.pdf).
+
+More information about DGX-1 and DGX2 is [here](https://www.nvidia.com/en-us/data-center/dgx-1/) and [here](https://www.nvidia.com/en-us/data-center/dgx-2/).
+
+DGX in general is [here](https://www.nvidia.com/en-us/data-center/dgx-systems/).
 
 More information about the NVIDIA-CISCO-PURE partnership and the solution that combines compute, storage, and networking is here.
 
