@@ -29,6 +29,8 @@ Stephen Hurtado helped out with the temporary monitor and keyboard/mouse. I will
 
 The workstation came with 3 display-to-hdmi adapters:
 
+
+
 Screenshots of the inital setup post-power-on (it is super-quiet):
 
 All the documentation is online at https://docs.nvidia.com/dgx/ (Very green of NVIDIA).
