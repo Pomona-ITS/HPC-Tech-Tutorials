@@ -29,3 +29,8 @@ It did just work with a couple of gotchas:
 ![https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Sonnet/Screen%20Shot%202018-05-16%20at%204.57.02%20PM.png](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Sonnet/Screen%20Shot%202018-05-16%20at%204.57.02%20PM.png)
 
 ![https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Sonnet/Screen%20Shot%202018-05-16%20at%204.57.11%20PM.png](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Sonnet/Screen%20Shot%202018-05-16%20at%204.57.11%20PM.png)
+
+
+* Add info about AMD Vega
+
+** Add info about CUDA and OpenCl differences
