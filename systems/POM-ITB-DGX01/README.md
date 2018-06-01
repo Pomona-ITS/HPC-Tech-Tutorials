@@ -23,3 +23,12 @@ Here are the pictures of the front and back when it first arrived, and the seria
 
 ![Serial Number/Model](https://github.com/Pomona-ITS/hpc/blob/master/systems/POM-ITB-DGX01/DGX-serialnumber.jpg)
 
+
+Stephen Hurtado helped out with the temporary monitor and keyboard/mouse. I will have to acuire something more permanent once we find the space for this monster in the data center.
+
+
+The workstation came with 3 display-to-hdmi adapters:
+
+Screenshots of the inital setup post-power-on (it is super-quiet):
+
+All the documentation is online at https://docs.nvidia.com/dgx/ (Very green of NVIDIA).
