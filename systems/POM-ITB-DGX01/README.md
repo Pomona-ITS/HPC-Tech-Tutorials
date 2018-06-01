@@ -29,8 +29,19 @@ Stephen Hurtado helped out with the temporary monitor and keyboard/mouse. I will
 
 The workstation came with 3 display-to-hdmi adapters:
 
+![3 Cables](https://github.com/Pomona-ITS/hpc/blob/master/systems/POM-ITB-DGX01/3cables.jpg)
+
+![Display End](https://github.com/Pomona-ITS/hpc/blob/master/systems/POM-ITB-DGX01/display-end.jpg)
+
+![HDMI End](https://github.com/Pomona-ITS/hpc/blob/master/systems/POM-ITB-DGX01/hdmi-end.jpg)
 
 
 Screenshots of the inital setup post-power-on (it is super-quiet):
 
+
+
 All the documentation is online at https://docs.nvidia.com/dgx/ (Very green of NVIDIA).
+
+![Quick-Start Guide](https://github.com/Pomona-ITS/hpc/blob/master/systems/POM-ITB-DGX01/quick-start.jpg)
+
+![First Page](https://github.com/Pomona-ITS/hpc/blob/master/systems/POM-ITB-DGX01/first-page.jpg)
