@@ -1,6 +1,8 @@
  # Active Projects in HPC/Research Computing
  
- ## March 19 2018
+ ## Created March 19 2018
+ 
+ ## Updated June 1 2018
  
 | Project               | Description                      | Urgency | GitHub Page          | Status                      |
 | --------------------  | ------------------               | ------- | ----------------     | -----------                 |
@@ -18,3 +20,4 @@
 | HPC Slides for Dean's Office |                            | Medium   |                   | Waiting for Nick               |
 | NVIDIA GTC prep       |                                   | High     |                   | Need to schedule talks         |
 | Pure Storage POC      |                                   | High     |                   | Signed the paperwork         |
+| Hahn Grant            |                                   | High     | http://bit.ly/hahngrant    | Approved and partially implemented      |
