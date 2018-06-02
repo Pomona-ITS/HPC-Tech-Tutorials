@@ -24,6 +24,12 @@ Here are the pictures of the front and back when it first arrived, and the seria
 ![Serial Number/Model](https://github.com/Pomona-ITS/hpc/blob/master/systems/POM-ITB-DGX01/DGX-serialnumber.jpg)
 
 
+Had to remove some packaging from inside, there was a sticker on the power button.
+
+
+There is a power button next to the power cable before the front button can be used.
+
+
 Stephen Hurtado helped out with the temporary monitor and keyboard/mouse. I will have to acuire something more permanent once we find the space for this monster in the data center.
 
 
@@ -66,3 +72,16 @@ All the documentation is online at https://docs.nvidia.com/dgx/ (Very green of N
 
 
 [User Guide](https://docs.nvidia.com/dgx/dgx-station-user-guide/index.html)
+
+
+Summary of important info:
+
+- 90 pounds (49 kg)
+
+- has wheels!
+
+- needs 5 inches of clearance behind and on the sides for airflow
+
+- keep upright, do not lay on its side
+
+- 
