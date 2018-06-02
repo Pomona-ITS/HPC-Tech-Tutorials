@@ -52,6 +52,9 @@ Screenshots of the inital setup post-power-on (it is super-quiet):
 
 ![its-admin](https://github.com/Pomona-ITS/hpc/blob/master/systems/POM-ITB-DGX01/its-admin.jpg)
 
+
+* password saved in lastPass
+
 ![Finishing](https://github.com/Pomona-ITS/hpc/blob/master/systems/POM-ITB-DGX01/finishing.jpg)
 
 
