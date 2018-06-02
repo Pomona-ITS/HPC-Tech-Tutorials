@@ -71,7 +71,9 @@ All the documentation is online at https://docs.nvidia.com/dgx/ (Very green of N
 ![First Page](https://github.com/Pomona-ITS/hpc/blob/master/systems/POM-ITB-DGX01/first-page.jpg)
 
 
-[User Guide](https://docs.nvidia.com/dgx/dgx-station-user-guide/index.html)
+[User Guide (HTML)](https://docs.nvidia.com/dgx/dgx-station-user-guide/index.html)
+
+[User Guide (PDF)](https://docs.nvidia.com/dgx/pdf/DGX-Station-User-Guide.pdf)
 
 
 Summary of important info:
@@ -84,4 +86,3 @@ Summary of important info:
 
 - keep upright, do not lay on its side
 
-- 
