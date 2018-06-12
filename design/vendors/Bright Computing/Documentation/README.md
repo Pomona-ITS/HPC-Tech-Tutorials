@@ -7,3 +7,5 @@
 - Login Node installation and configuration
 
 - Manuals
+
+- Downloaded ISOs
