@@ -29,3 +29,5 @@ Once you are logged in you can use a Virtual Agent or a Chat:
 ![Virtual Agent](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Mellanox/Screen%20Shot%202018-06-19%20at%202.29.05%20PM.png)
 
 ![Chat](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Mellanox/Screen%20Shot%202018-06-19%20at%202.30.55%20PM.png)
+
+[SN2700 Manual](https://www.mellanox.com/related-docs/user_manuals/1U_HW_UM_SN2000_Switch_Family.pdf)
