@@ -19,3 +19,6 @@ The following emails were sent by support in order to create a support account. 
 ![Mellanox User Name Email](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Mellanox/Screen%20Shot%202018-06-19%20at%202.18.55%20PM.png)
 
 ![Mellanox Registration Email](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Mellanox/Screen%20Shot%202018-06-19%20at%202.21.37%20PM.png)
+
+Support Portal is accessible from https://www.mellanox.com/ or https://mymellanox.force.com/support/SupportLogin
+
