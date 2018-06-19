@@ -22,3 +22,10 @@ The following emails were sent by support in order to create a support account. 
 
 Support Portal is accessible from https://www.mellanox.com/ or https://mymellanox.force.com/support/SupportLogin
 
+![Mellanox Support Portal](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Mellanox/Screen%20Shot%202018-06-19%20at%202.28.08%20PM.png)
+
+Once you are logged in you can use a Virtual Agent or a Chat:
+
+![Virtual Agent](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Mellanox/Screen%20Shot%202018-06-19%20at%202.29.05%20PM.png)
+
+![Chat](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Mellanox/Screen%20Shot%202018-06-19%20at%202.30.55%20PM.png)
