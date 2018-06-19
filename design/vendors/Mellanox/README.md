@@ -11,3 +11,8 @@ The starting page for exploring Ethernet switches at Mellanox is [here](https://
 The Ethernet switch brochure is [here](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Mellanox/Ethernet_Switch_Brochure.pdf).
 
 The [Mellanox Support Certificate](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Mellanox/XXM_SUPPORT_CERTIFICATE_1037587.PDF) for 2 switches and 4 100 GB cards with the Serial Numbers
+
+The [Mellanox Support Manual](https://www.mellanox.com/pdf/user_manuals/Mellanox_Support_and_Services_User_Guide.pdf)
+
+The following emails were sent by support in order to create a support account. The account info is in LastPass (ask Asya or Cole).
+
