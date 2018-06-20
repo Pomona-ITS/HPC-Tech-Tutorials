@@ -41,3 +41,5 @@ Now both switches are accessible via ssh and web at https://itb-mellanox-1.hpc.p
 User ADMIN
 
 Password in LastPass
+
+![OS Version](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Mellanox/Screen%20Shot%202018-06-19%20at%206.13.23%20PM.png)
