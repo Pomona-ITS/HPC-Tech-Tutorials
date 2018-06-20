@@ -1,4 +1,4 @@
-# This is the page summarizing the options available from Mellanox - the leading Infiniband and Ethernet vendor
+# This is the page summarizing the info about  Mellanox - the leading Infiniband and Ethernet vendor and the switch we chose for HPC (ToR or Top of the Rack)
 
 [SN2700](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Mellanox/PB_SN2700.pdf) is a 32-port 40 GB switch quoted by Presidio at $12K
 
@@ -32,6 +32,12 @@ Once you are logged in you can use a Virtual Agent or a Chat:
 
 [SN2700 Manual](https://www.mellanox.com/related-docs/user_manuals/1U_HW_UM_SN2000_Switch_Family.pdf)
 
-[MLNX-OS Manual]()
+[MLNX-OS Manual](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Mellanox/Onyx_ETH_v3_6_6000_UM.PDF)
 
-[Management Interface Configuration]()
+[Management Interface Configuration](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Mellanox/Mellanox%20Switch%20Management%20Interface%20Setup.pdf)
+
+Now both switches are accessible via ssh and web at https://itb-mellanox-1.hpc.pomona.edu/ and https://itb-mellanox-2.hpc.pomona.edu/
+
+User ADMIN
+
+Password in LastPass
