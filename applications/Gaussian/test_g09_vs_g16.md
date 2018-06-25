@@ -18,3 +18,6 @@ at the top of the input file (*.gjf), you’ll see where you can adjust the numb
  
 Title Card Required```
 
+
+
+[Input File](https://github.com/Pomona-ITS/hpc/blob/master/applications/Gaussian/SFG_4_endo_b3lyp631plusgdp_1_nqcc.gjf)
