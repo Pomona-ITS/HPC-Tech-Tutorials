@@ -3,7 +3,8 @@
 
 
  
-```The Gaussian command line for starting a job would be:
+```
+The Gaussian command line for starting a job would be:
  
 g09 SFG_4_endo_b3lyp631plusgdp_1_nqcc.gjf SFG_4_endo_b3lyp631plusgdp_1_nqcc.log &
  
@@ -16,7 +17,8 @@ at the top of the input file (*.gjf), you’ll see where you can adjust the numb
 %chk=SFG_4_endo_b3lyp631plusgdp_1_nqcc.chk
 # nmr=(giao,spinspin) rb3lyp/6-31g(df,3p) output=pickett
  
-Title Card Required```
+Title Card Required
+```
 
 
 
