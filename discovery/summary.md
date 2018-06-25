@@ -14,7 +14,7 @@
  
 [Physics] We have attended the department meeting and as a result are starting a project with Dwight Whitaker to test moving from ANSYS Fluent to OpenFOAM. The ANSYS license is expensive, OpenFOAM is a good open source/free alternative. We may end up running both but at least a free/open-source alternative is considered. https://www.pomona.edu/directory/people/dwight-l-whitaker
  
-[Computer Science] The recent hire in CS Joe Osborn will be teaching an AI course in 2018/2019 and is very enthusiastic about the DGX workstation we have acquired. There is also strong interest in VR/AR, game design research, and VR/AR applications in higher ed https://users.soe.ucsc.edu/~jcosborn/. We are helping Joe with CI/CD (Continuous Development/Continuous Integration) and self-hosted experimental web sites.
+[Computer Science] The recent hire in CS Joe Osborn will be teaching an AI course in 2018/2019 and is very enthusiastic about the DGX workstation we have acquired. There is also strong interest in VR/AR, game design research, and VR/AR applications in higher ed https://users.soe.ucsc.edu/~jcosborn/. We are helping Joe with CI/CD (Continuous Development/Continuous Integration) and self-hosted experimental web sites. We have also had a disccussion with David Kauchak regarding various aspects of CS infrastructure support.
  
 [Economics] Manisha Goel and Kyle Wilson were the most enthusiastic about the HPC environment. We helped Kyle procure a powerful VM he can use in the meantime. Manisha creates models requiring a lot of RAM. The more the better. https://www.pomona.edu/directory/people/manisha-goel
               https://www.pomona.edu/directory/people/kyle-wilson
