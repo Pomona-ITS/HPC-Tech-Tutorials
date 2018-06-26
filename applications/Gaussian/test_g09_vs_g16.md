@@ -23,3 +23,7 @@ Title Card Required
 
 
 [Input File](https://github.com/Pomona-ITS/hpc/blob/master/applications/Gaussian/SFG_4_endo_b3lyp631plusgdp_1_nqcc.gjf)
+
+Ran about an hour and a half. This is g09, 24 cores, 40 GB RAM, local VM disk, /tmp scratch
+
+Log is [here](https://github.com/Pomona-ITS/hpc/blob/master/applications/Gaussian/SFG_4_endo_b3lyp631plusgdp_1_nqcc.log).
