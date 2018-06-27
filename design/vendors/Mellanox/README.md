@@ -34,7 +34,7 @@ Once you are logged in you can use a Virtual Agent or a Chat:
 
 [MLNX-OS Manual](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Mellanox/Onyx_ETH_v3_6_6000_UM.PDF)
 
-[Management Interface Configuration](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Mellanox/Mellanox%20Switch%20Management%20Interface%20Setup.pdf)
+[Management Interface Configuration](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Mellanox/Mellanox%20Switch%20Management%20Interface%20Setup%20June%2026%202018.pdf)
 
 Now both switches are accessible via ssh and web at https://itb-mellanox-1.hpc.pomona.edu/ and https://itb-mellanox-2.hpc.pomona.edu/
 
