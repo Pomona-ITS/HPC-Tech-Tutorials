@@ -50,6 +50,8 @@ Largest pro: designed from scratch to support any and all environment or file sy
 Largest con: not cheap, closed source, small-ish company (associated with Cambridge Computing)
 
 
+* Doing a POC with StarFish as of June 2018 - more information [here](https://github.com/Pomona-ITS/hpc/blob/master/design/data_management/StarFish_POC.md).
+
 
 [iRODS](https://irods.org/)
 
