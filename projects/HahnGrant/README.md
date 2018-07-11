@@ -12,6 +12,8 @@ It was approved and so far:
 
 - the third candidate is not available till late August-September at which point I am hoping that candidate can start helping out with the documentation and project management side of things
 
+- Interviewed two additional candidates from Pomona (Economics and Math), available as of September
+
 - The Hahn grant is for a year (so till May of 2019); or if the money os spent!
 
 - The HPC Setup project (details in LiquidMapper) and the research-related tickets are going to be the focus of the project
