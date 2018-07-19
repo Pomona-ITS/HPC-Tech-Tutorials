@@ -6,7 +6,29 @@ This [White Paper](https://github.com/Pomona-ITS/hpc/blob/master/design/data_man
 
 Had a call with the vendor, waiting for the VM setup and a quote for 30 TB.
 
-Targeting primarily CS data discovery but can expand as necessary (pricing per TB).
+Targeting primarily CS data discovery but can expand as necessary.
+
+## Pricing Discussion (No official quote yet):
+
+2 factors: capacity and functionality
+
+report - base module
+
+file movement add-on
+
+whole thing or reporter
+
+start at 1 PB
+
+annual - reporter - 1 PB - $53K
+
+full blown - $130K
+
+
+Discussed with COO, $10-15K is a possibility because we are small and they are interested in us as a customer.
+
+Limited at 50-60 TB
+
 
 ## Instructions for POC Setup:
 
