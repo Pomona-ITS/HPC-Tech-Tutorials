@@ -26,3 +26,7 @@ May 5, 2018
 April 18, 2018:
 
 [Microsoft Announces a Linux Operating System for the First Time Ever](https://www.extremetech.com/computing/267741-microsoft-announces-a-linux-operating-system-for-the-first-time-ever)
+
+ April 17, 2018:
+
+[For the first time, Microsoft has released its own Linux kernel in a new Linux-based product: Azure Sphere](https://www.zdnet.com/article/microsoft-releases-its-first-linux-product/)
