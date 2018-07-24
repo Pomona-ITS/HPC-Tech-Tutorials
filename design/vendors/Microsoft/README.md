@@ -34,3 +34,7 @@ April 18, 2018:
 11/21/2017:
 
 [Linux on distributions endorsed by Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/endorsed-distros)
+
+March 8, 2016 :
+
+[Microsoft, as well as its partners, Canonical and Red Hat, are in earnest with bringing SQL Server to Ubuntu and Red Hat Enterprise Linux](https://www.zdnet.com/article/why-has-sql-server-come-to-linux-windows-only-cloud-makes-no-sense/)
