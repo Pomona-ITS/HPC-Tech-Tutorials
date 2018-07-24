@@ -30,3 +30,7 @@ April 18, 2018:
  April 17, 2018:
 
 [For the first time, Microsoft has released its own Linux kernel in a new Linux-based product: Azure Sphere](https://www.zdnet.com/article/microsoft-releases-its-first-linux-product/)
+
+11/21/2017:
+
+[Linux on distributions endorsed by Azure](https://docs.microsoft.com/en-us/azure/virtual-machines/linux/endorsed-distros)
