@@ -1,4 +1,4 @@
-# This is a placxe to park all Microsoft-related tidbits
+# This is a place to park all Microsoft-related tidbits
 
 ## Microsoft and Linux:
 
