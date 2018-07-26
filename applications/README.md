@@ -27,3 +27,5 @@ Matlab
 Gaussian
 
 [Schroedinger](https://github.com/Pomona-ITS/hpc/tree/master/applications/shcroedinger)
+
+Mathematica
