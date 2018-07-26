@@ -9,6 +9,10 @@ and Students eventually.
 
 The work in progress of Topics and Dates lives [here](https://github.com/Pomona-ITS/hpc/tree/master/training/workshops).
 
+[Video: FlipGrid](https://flipgrid.com/32c162) (exploration for now)
+
+Audio/Podcast: Anchor (exploration for now)
+
 ## Online materials
 
 ### Free
