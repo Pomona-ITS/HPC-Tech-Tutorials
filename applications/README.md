@@ -4,9 +4,9 @@ This is the place for all the software that will be running in the HPC environme
 
 [R](https://github.com/Pomona-ITS/hpc/tree/master/applications/R)
   
-Shiny
+[Shiny](https://github.com/Pomona-ITS/hpc/tree/master/applications/Shiny)
 
-Tableau
+[Tableau](https://github.com/Pomona-ITS/hpc/tree/master/applications/tableau)
 
 Jupyter
 
@@ -26,5 +26,4 @@ Matlab
 
 Gaussian
 
-Schroedinger
-
+[Schroedinger](https://github.com/Pomona-ITS/hpc/tree/master/applications/shcroedinger)
