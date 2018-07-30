@@ -24,3 +24,6 @@ There are also blade versions of both and vGPU/Remote Desktop/App/Visualization 
 Jon Saposhnik sent a [Forrester report](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/NVIDIA/DGX-1-%20The%20Total%20Economic%20Impact%20of%20NVIDIA.pdf) on why DGX may be better tham building in-house.
 
 The [NVIDIA Entitlements](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/NVIDIA/Entitlements.PDF) for Enterprise Support
+
+The NVIDIA GRID subscription [PO and Sales Order number](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/NVIDIA/NVIDIA%20GRID%20Entitlement%20email.pdf). [Entitlement PAK ID](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/NVIDIA/Entitlements.PDF).
+
