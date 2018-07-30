@@ -3,19 +3,23 @@
 Daziah's Research on Engage had turned up the information that allows us to pursue a collaboration!
 
 
-##Pomona Virtual and Augmented Reality Club
+## Pomona Virtual and Augmented Reality Club
 
 Smith Campus Center 170 E. 6th Street
+
 Claremont, Ca 91711
 
 
 Contact Email E: Cef02013@mymail.pomona.edu
 
+
 Phone Number P: 818-645-8809
+
 
 The faculty advisor is Mark Andrejevic and his email is Mark.Andrejevic@pomona.edu
 
-##The initial email from Daziah:
+
+## The initial email from Daziah:
 
 
 Hi Prof. Andrejevic,
