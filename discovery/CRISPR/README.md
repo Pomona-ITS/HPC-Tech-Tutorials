@@ -13,10 +13,10 @@ PoC ~150K
 
 NOT A CENTER
 
-City of Hope is interested in participating
+[City of Hope](https://www.cityofhope.org/about-city-of-hope/locations) is interested in participating
 
 Bioartists/Lab in Montreal
-Visualization of bacteria
+Visualization of bacteria (shake a thousand hands project)
 
 Asya to send info on
 
