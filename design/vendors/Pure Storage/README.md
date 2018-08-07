@@ -28,4 +28,4 @@ A [recent article in The Next Platform](https://www.nextplatform.com/2018/03/12/
 
 M2R2 is being replaced with X10R2. The quote is in Presidio folder. Here is the [data sheet](https://github.com/Pomona-ITS/hpc/blob/master/design/vendors/Pure%20Storage/ps_ds_flasharray_03.pdf).
 
-A Gartner report (guess who is winning).
+A [Gartner report](https://www.gartner.com/doc/reprints?id=1-468QQKP&ct=170714&st=sb) (guess who is winning).
