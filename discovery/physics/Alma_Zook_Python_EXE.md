@@ -17,3 +17,13 @@ Used:
 7) Added qt.conf to dist folder to fix the Qt path error
 8) Added wav file to dist folder
 9) Zipped dist folder and saved to Box
+
+Alma asked for the same process on Mac:
+
+1) Anaconda
+2) Virtual environment with Python 3.6 (there is a problem with 2.7 on Macs)
+3) numpy was already installed automatically with 3.6, added matplotlib
+4) pip install pyinstaller
+5) upgraded pip (because why not)
+6) Added wav file to dist
+7) zipped and uploaded to Box
