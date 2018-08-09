@@ -21,9 +21,9 @@ Visualization of bacteria (shake a thousand hands project)
 Asya to send info on
 
 - NVIDIA DGX (and the same materials I sent to Martina)
-- Chem/AR grant
-- Tanja grant
-- Scripps
+- Chem/AR grant - forwarded info
+- Tanja grant - forwarded info
+- Scripps - forwarded info
 - Portals
 - Thingyverse
 - Add to SLack HPC - DONE
