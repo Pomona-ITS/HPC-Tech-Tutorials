@@ -26,8 +26,8 @@ Asya to send info on
 - Scripps
 - Portals
 - Thingyverse
-- Add to SLack HPC
-- Add to Sept 12
-- Add to Digital Humanities meeting
+- Add to SLack HPC - DONE
+- Add to Sept 12 - DONE
+- Add to Digital Humanities meeting - DONE
 
 
