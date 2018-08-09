@@ -1,8 +1,8 @@
 # This page is for documenting the process of making and independent Python executable that can run on Windows without having to install Python (requested by Alma Zook)
 
-The source code is [here](https://github.com/Pomona-ITS/hpc/blob/master/discovery/physics/ClarF4_Edit.wav).
+The source code is [here](https://github.com/Pomona-ITS/hpc/blob/master/discovery/physics/Phys3fft_NoPulldowns_CleanedUp.py).
 
-The wav file is [here](https://github.com/Pomona-ITS/hpc/blob/master/discovery/physics/Phys3fft_NoPulldowns_CleanedUp.py)
+The wav file is [here](https://github.com/Pomona-ITS/hpc/blob/master/discovery/physics/ClarF4_Edit.wav)
 
 The final result (zipped folder with the executable and the source wav file) is [here](https://pomona.box.com/s/m9d894gcyd88xw3183vdsxm61yd45nw5).
 
