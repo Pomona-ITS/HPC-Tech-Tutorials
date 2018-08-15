@@ -4,7 +4,7 @@
 
 - Joe tickets
    - VM created, test access, adjust settings, install software
-   - 
+   - DGX access (local ssh for now, add to NVIDIA Registry)
    
 - IIS/AISO GoCD instance
 - Travis CI slides
