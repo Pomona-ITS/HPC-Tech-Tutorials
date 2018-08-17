@@ -33,7 +33,7 @@
    
 - Fall - GitHub, GitLab experimentation only 
 
-- Daziah - MindMap of the project
+- Daziah - MindMap of the project - @dcta2017
 
 
 
