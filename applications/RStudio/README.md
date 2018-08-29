@@ -2,7 +2,7 @@
 
 https://www.rstudio.com/ is the offical web site.
 
-RStudio is basically a GUI (Installable on Mac/Windows/Linux) version of [R](https://www.r-project.org/about.html) which is a comman-line version.
+RStudio is basically a GUI (Installable on Mac/Windows/Linux) version of [R](https://www.r-project.org/about.html) which is a command-line version.
 
 Generally anything you can do in R you can do in RStudio and vice versa except the command line version of R may be better
 (more performant) for really large datasets. Rstudio makes the package management, visualization and debugging easier, it also 
