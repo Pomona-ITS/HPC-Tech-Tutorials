@@ -1,4 +1,4 @@
-# The list of those that were invited
+# The list of those that were invited (52)
 
 William Morse <William.Morse@pomona.edu>; 
 
