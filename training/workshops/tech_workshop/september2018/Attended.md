@@ -1,4 +1,4 @@
-# The list of those that attended
+# The list of those that attended (12)
 
 Mary McMahon Mary.McMahon@pomona.edu;
 
