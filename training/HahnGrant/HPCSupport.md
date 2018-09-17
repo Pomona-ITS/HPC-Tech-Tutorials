@@ -60,3 +60,6 @@ The questions about the HPC Support positoin from the September 5 Student Job Fa
 19) How much learning do I do by myself?
 
 
+20) How do we communicate?
+
+
