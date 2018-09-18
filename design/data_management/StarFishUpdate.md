@@ -152,3 +152,26 @@ Total download size: 33 k
 Is this ok [y/d/N]: 
 
 ```
+
+```
+Total                                               44 kB/s |  33 kB  00:00     
+Running transaction check
+Running transaction test
+Transaction test succeeded
+Running transaction
+  Installing : starfish-release-1.0-1.x86_64                                1/3 
+  Updating   : 1:sf-core-v4-4.0.4785+1ecfb86-1.x86_64                       2/3 
+  Cleanup    : 1:sf-core-v4-4.0.4686+342f264-1.x86_64                       3/3 
+  Verifying  : starfish-release-1.0-1.x86_64                                1/3 
+  Verifying  : 1:sf-core-v4-4.0.4785+1ecfb86-1.x86_64                       2/3 
+  Verifying  : 1:sf-core-v4-4.0.4686+342f264-1.x86_64                       3/3 
+
+Dependency Installed:
+  starfish-release.x86_64 0:1.0-1                                               
+
+Updated:
+  sf-core-v4.x86_64 1:4.0.4785+1ecfb86-1                                        
+
+Complete!
+
+```
