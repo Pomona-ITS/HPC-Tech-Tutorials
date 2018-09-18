@@ -100,3 +100,17 @@ Total download size: 264 M
 Is this ok [y/d/N]: 
 
 ```
+
+```
+
+Updated:
+  starfish.x86_64 1:4.0.4785+8dd2dd4-1                                          
+
+Dependency Updated:
+  sf-agent.x86_64 1:4.0.4785+8dd2dd4-1       sf-cli.x86_64 1:4.0.4785+8dd2dd4-1
+  sf-gui.x86_64 1:4.0.4785+2d298a7+gui_637-1 sf-nginx.x86_64 0:1.12.2-18       
+  sf-redash.x86_64 1:4.0.4785+8dd2dd4-1     
+
+Complete!
+
+```
