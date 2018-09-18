@@ -15,3 +15,88 @@ sudo sf scan pending
 
 ```
 
+No jobs running, proceed:
+
+```
+
+sudo yum upgrade starfish
+
+[sudo] password for asyashklyar: 
+
+Loaded plugins: fastestmirror, langpacks
+Repodata is over 2 weeks old. Install yum-cron? Or run: yum makecache fast
+Starfish                                                 | 1.3 kB     00:00     
+base                                                     | 3.6 kB     00:00     
+epel/x86_64/metalink                                     |  18 kB     00:00     
+epel                                                     | 3.2 kB     00:00     
+extras                                                   | 3.4 kB     00:00     
+pgdg96                                                   | 4.1 kB     00:00     
+starfish-supervisor                                      | 1.3 kB     00:00     
+updates                                                  | 3.4 kB     00:00     
+epel/x86_64/primary            FAILED                                          
+http://mirror.es.its.nyu.edu/epel/7/x86_64/repodata/8f6a06c432b0ff2c438a465c03c7ab18e493de3381187494ec45be95ceb50f05-primary.xml.gz: [Errno 14] HTTP Error 404 - Not Found
+Trying other mirror.
+To address this issue please refer to the below knowledge base article 
+
+https://access.redhat.com/articles/1320623
+
+If above article doesn't help to resolve this issue please create a bug on https://bugs.centos.org/
+
+(1/6): pgdg96/7/x86_64/primary_db                          | 198 kB   00:00     
+(2/6): updates/7/x86_64/primary_db                         | 5.2 MB   00:00     
+(3/6): extras/7/x86_64/primary_db                          | 187 kB   00:00     
+(4/6): Starfish/primary                                    |  22 kB   00:00     
+(5/6): epel/x86_64/updateinfo                              | 945 kB   00:03     
+(6/6): epel/x86_64/primary                                 | 3.6 MB   00:04     
+Determining fastest mirrors
+ * base: mirror.hostduplex.com
+ * epel: mirrors.kernel.org
+ * extras: mirror.hostduplex.com
+ * updates: mirror.sfo12.us.leaseweb.net
+Starfish                                                                176/176
+epel                                                                12685/12685
+Resolving Dependencies
+--> Running transaction check
+---> Package starfish.x86_64 1:4.0.4686+6453d1b-1 will be updated
+---> Package starfish.x86_64 1:4.0.4785+8dd2dd4-1 will be an update
+--> Processing Dependency: sf-gui = 1:4.0.4785+2d298a7+gui_637-1 for package: 1:starfish-4.0.4785+8dd2dd4-1.x86_64
+--> Processing Dependency: sf-nginx = 1.12.2-18 for package: 1:starfish-4.0.4785+8dd2dd4-1.x86_64
+--> Processing Dependency: sf-redash = 1:4.0.4785+8dd2dd4-1 for package: 1:starfish-4.0.4785+8dd2dd4-1.x86_64
+--> Processing Dependency: sf-cli = 1:4.0.4785+8dd2dd4-1 for package: 1:starfish-4.0.4785+8dd2dd4-1.x86_64
+--> Running transaction check
+---> Package sf-cli.x86_64 1:4.0.4686+6453d1b-1 will be updated
+--> Processing Dependency: sf-cli = 1:4.0.4686+6453d1b-1 for package: 1:sf-agent-4.0.4686+6453d1b-1.x86_64
+---> Package sf-cli.x86_64 1:4.0.4785+8dd2dd4-1 will be an update
+---> Package sf-gui.x86_64 1:4.0.4686+fcd6939+gui_583-1 will be updated
+---> Package sf-gui.x86_64 1:4.0.4785+2d298a7+gui_637-1 will be an update
+---> Package sf-nginx.x86_64 0:1.12.2-17 will be updated
+---> Package sf-nginx.x86_64 0:1.12.2-18 will be an update
+---> Package sf-redash.x86_64 1:4.0.4686+6453d1b-1 will be updated
+---> Package sf-redash.x86_64 1:4.0.4785+8dd2dd4-1 will be an update
+--> Running transaction check
+---> Package sf-agent.x86_64 1:4.0.4686+6453d1b-1 will be updated
+---> Package sf-agent.x86_64 1:4.0.4785+8dd2dd4-1 will be an update
+--> Finished Dependency Resolution
+
+Dependencies Resolved
+
+================================================================================
+ Package       Arch       Version                            Repository    Size
+================================================================================
+Updating:
+ starfish      x86_64     1:4.0.4785+8dd2dd4-1               Starfish      93 M
+Updating for dependencies:
+ sf-agent      x86_64     1:4.0.4785+8dd2dd4-1               Starfish      89 M
+ sf-cli        x86_64     1:4.0.4785+8dd2dd4-1               Starfish      50 M
+ sf-gui        x86_64     1:4.0.4785+2d298a7+gui_637-1       Starfish     6.6 M
+ sf-nginx      x86_64     1.12.2-18                          Starfish     4.0 M
+ sf-redash     x86_64     1:4.0.4785+8dd2dd4-1               Starfish      21 M
+
+Transaction Summary
+================================================================================
+Upgrade  1 Package (+5 Dependent packages)
+
+Total download size: 264 M
+Is this ok [y/d/N]: 
+
+```
