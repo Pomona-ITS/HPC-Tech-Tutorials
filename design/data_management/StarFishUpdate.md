@@ -114,3 +114,41 @@ Dependency Updated:
 Complete!
 
 ```
+
+```
+sudo yum upgrade sf-agent sf-core-v4 sf-cli
+[sudo] password for asyashklyar: 
+Loaded plugins: fastestmirror, langpacks
+Loading mirror speeds from cached hostfile
+ * base: mirror.hostduplex.com
+ * epel: mirrors.kernel.org
+ * extras: mirror.hostduplex.com
+ * updates: mirror.sfo12.us.leaseweb.net
+Resolving Dependencies
+--> Running transaction check
+---> Package sf-core-v4.x86_64 1:4.0.4686+342f264-1 will be updated
+---> Package sf-core-v4.x86_64 1:4.0.4785+1ecfb86-1 will be an update
+--> Processing Dependency: starfish-release = 1.0 for package: 1:sf-core-v4-4.0.4785+1ecfb86-1.x86_64
+--> Running transaction check
+---> Package starfish-release.x86_64 0:1.0-1 will be installed
+--> Finished Dependency Resolution
+
+Dependencies Resolved
+
+================================================================================
+ Package              Arch       Version                     Repository    Size
+================================================================================
+Updating:
+ sf-core-v4           x86_64     1:4.0.4785+1ecfb86-1        Starfish      29 k
+Installing for dependencies:
+ starfish-release     x86_64     1.0-1                       Starfish     4.0 k
+
+Transaction Summary
+================================================================================
+Install             ( 1 Dependent package)
+Upgrade  1 Package
+
+Total download size: 33 k
+Is this ok [y/d/N]: 
+
+```
