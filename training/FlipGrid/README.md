@@ -8,10 +8,10 @@
 
 This can and should be done on smartphones and iPads (as opposed to a computer). Although some aspects of the administration are easier on the computer.
 
-So far there is one classroom and two topics: 
+So far there is one classroom and two topics: Class Intros and HPC Tutorials.
 
 
-To access the classroom you need to enter the following code in your freshly downloaded FlipGrod app: 32c162. The classroom is also password-protected, you will get the password from Adeline or Asya. This is the URL that can be used on a computer: https://flipgrid.com/32c162 
+To access the classroom you need to enter the following code in your freshly downloaded FlipGrid app: 32c162. The classroom is also password-protected, you will get the password from Adeline or Asya. This is the URL that can be used on a computer: https://flipgrid.com/32c162 
 
 
 Adeline will reach out to those that are interested in participating and assign tasks. As a minimum, everyone should record an 90 second intro describing themselves to an audience of Pomona faculty, students, and staff in your position of an HPC Support specialist. This will make it much easier to connect with your audience and with each other. There are almost 20 of us and I would like for all of you to meet each other during the course of your engagement with HPC. I hope that this introductory video recording and your participation in making HPC terminology more accessible for a larger audience will enable more research and ideas.
