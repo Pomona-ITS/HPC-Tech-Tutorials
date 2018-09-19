@@ -13,4 +13,4 @@ Joined two mailing lists: campuschampions and region02champions
 and the Slack channel: campuschampions.slack.com.
 
 
-XSEDE is not the only "scientific cloud". There are others like [Aristotle Cloud Federation ](https://www.cac.cornell.edu/about/news/aristotle.aspx).
+XSEDE is not the only "scientific cloud". There are others like [Aristotle Cloud Federation ](https://www.cac.cornell.edu/about/news/aristotle.aspx). More [here](https://federatedcloud.org).
