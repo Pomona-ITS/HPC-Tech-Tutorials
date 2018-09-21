@@ -14,3 +14,7 @@ and the Slack channel: campuschampions.slack.com.
 
 
 XSEDE is not the only "scientific cloud". There are others like [Aristotle Cloud Federation ](https://www.cac.cornell.edu/about/news/aristotle.aspx), [Open Science Grid](https://opensciencegrid.org/) and the [European EGI](https://www.egi.eu/). More about Aristotle Cloud [here](https://federatedcloud.org).
+
+## One of the "duties" of an XSEDE champion is attending the monthly call
+
+The slides from the latest call are [here](https://colbrydi.github.io/cyberambassadors/images/20180917-CC-CyberAmbassador-intro.pdf). The focus was on communication skills when working with our customers - researchers.
