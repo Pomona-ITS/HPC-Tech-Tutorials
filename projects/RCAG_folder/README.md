@@ -1,6 +1,10 @@
-# This page is to summarize the RCAG (Research Committee Advisory Group) activities
+# This page is to summarize the RCAG (Research Computing Advisory Group) or RCAC (Research Computing Advisory Committee)  activities
 
 RCAG is a group comprised of Faculty, Staff and Students and focuses on the overal strategy for Research including HPC
+
+The relevant documents live in [Box](https://pomona.box.com/s/gz1eg1uiez7akyq36otnyy5tjpw2cy99).
+
+Draft Charter is [here](https://pomona.box.com/s/79zrb42p022sgr42mclz95iq0g1z0c0z).
 
 
 ## Members from 2017-2018:
