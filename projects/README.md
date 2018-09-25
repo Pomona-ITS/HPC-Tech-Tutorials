@@ -6,16 +6,16 @@
 | --------------------  | ------------------               | ------- | ----------------     | -----------                 |
 | Samba Patching        | Linux, Nessus Pro Scan           | Medium  | https://goo.gl/yvRcSh | Completed  |  
 | Add VMs to check_mk   | or What's Up Gold when available | Low      |                   | Completed                        | 
-| DNS for POM-ITB-BIOL1 |                                   | Low      |                   | Completed              | 
-| POM-ITB-ECON1         |                                   | Low      |                   | Completed             |
-| POM-ITB-HPC1          |                                   | Low      |                   | Completed        |
-| POM-ITB-LING1         |                                   | Low      | http://bit.ly/2DriR3R                  | Investigating AWS setup        |
-| Microway Quotes       |                                   | High     |                   | Completed         |
-| Eye-Tracking Workstation for CS |                         | Low      |                   | Completed           |
-| Dan Martinez Docker   |                                   | Low      |                   | Completed           |
-| Office Hours (21) prep |                                  | High     |                   | Completed                    |
+| DNS for POM-ITB-BIOL1 | Create Dns entry (Infra Group)                                  | Low      |                   | Completed              | 
+| POM-ITB-ECON1         | Create Dns entry (Infra Group)                                  | Low      |                   | Completed             |
+| POM-ITB-HPC1          | Create Dns entry (Infra Group)                                  | Low      |                   | Completed        |
+| POM-ITB-LING1         | Create Dns entry (Infra Group)                                  | Low      | http://bit.ly/2DriR3R                  | Investigating AWS setup        |
+| Microway Quotes       | Request quotes from vendor                                  | High     |                   | Completed         |
+| Eye-Tracking Workstation for CS | Quote, order, install                        | Low      |                   | Completed           |
+| Dan Martinez Docker   | Configure, test, document bedtools                                  | Low      |                   | Completed           |
+| Office Hours (21) prep | RCOH prep                                 | High     |                   | Completed                    |
 | AWS Recertification Mar 31 |                              | High     |                   | Completed                    |
 | HPC Slides for Dean's Office |                            | Medium   |                   | Completed               |
-| NVIDIA GTC prep       |                                   | High     |                   | Completed         |
-| Pure Storage POC      |                                   | High     |                   | Completed         |
-| Hahn Grant            |                                   | High     | http://bit.ly/hahngrant    | Ongoing till May 2019      |
+| NVIDIA GTC prep       |          Renew certification                         | High     |                   | Completed         |
+| Pure Storage POC      | Test Pure                                  | High     |                   | Completed         |
+| Hahn Grant            | Submit grant, track spending                                  | High     | http://bit.ly/hahngrant    | Ongoing till May 2019      |
