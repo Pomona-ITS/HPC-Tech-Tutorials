@@ -1,5 +1,11 @@
 # This page is for summarizing work/progress on IXPUG Conference
 
+## Attend next year?
+
+## Watch Live Stream
+
+## Study the topics/slides/videos available post-cnference
+
 ```
 All,  (apologies if you receive this message more than once)
  
