@@ -1,12 +1,10 @@
  # Active Projects in HPC/Research Computing
  
- ## Created March 19 2018
- 
- ## Updated June 1 2018
+ ## Updated September 25 2018
  
 | Project               | Description                      | Urgency | GitHub Page          | Status                      |
 | --------------------  | ------------------               | ------- | ----------------     | -----------                 |
-| Samba Patching        | Linux, Nessus Pro Scan           | Medium  | https://goo.gl/yvRcSh | Started, need RFC approval  |  
+| Samba Patching        | Linux, Nessus Pro Scan           | Medium  | https://goo.gl/yvRcSh | Completed  |  
 | Add VMs to check_mk   | or What's Up Gold when available | Low      |                   | Started                        | 
 | DNS for POM-ITB-BIOL1 |                                   | Low      |                   | Assigned to Chims              | 
 | POM-ITB-ECON1         |                                   | Low      |                   | Handed off to Kyle             |
