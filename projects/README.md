@@ -9,7 +9,7 @@
 | DNS for POM-ITB-BIOL1 |                                   | Low      |                   | Completed              | 
 | POM-ITB-ECON1         |                                   | Low      |                   | Completed             |
 | POM-ITB-HPC1          |                                   | Low      |                   | Completed        |
-| POM-ITB-LING1         |                                   | Low      |                   | Investigating AWS setup        |
+| POM-ITB-LING1         |                                   | Low      | http://bit.ly/2DriR3R                  | Investigating AWS setup        |
 | Microway Quotes       |                                   | High     |                   | Completed         |
 | Eye-Tracking Workstation for CS |                         | Low      |                   | Completed           |
 | Dan Martinez Docker   |                                   | Low      |                   | Completed           |
