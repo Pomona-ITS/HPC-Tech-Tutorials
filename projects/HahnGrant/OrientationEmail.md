@@ -39,6 +39,8 @@ We will be experimenting with FlipGrid for video education. I shared the Classro
 
 You are all now a part of Footprints - the ticketing system ITS uses. And should be getting tickets assigned to HPCSUpport group. If anything looks interesting, and you are available and IN KRONOS, and want to work on it, ping me on Slack. If you are working a ticket - post in hpc-helpdesk (when started and when done). And remember to update the Footprints ticket (and the user via email if necessary). Document what you do (a temporary text document is fine), then prettify and post in GitHub. If it turns into a beast of a project create a GitHub project, use Issues in GitHub. The difference between Footprints and GitHub: Footprints is for summaries (user/management facing). GitHub is for technical details (us). Box is for large files (link to GitHub).
 
+If you are interested in attending conferences (in person or virtually), let's talk. A partial list is [here](https://github.com/Pomona-ITS/hpc/tree/addf73d189aebe42c10adf60be1af8b06c1ca110/training/conferences).
+
 Next Friday is THE TOUR OF THE DATA CENTER!
  
 I am probably forgetting something so if during your interview/orientation I said any other useful things please remind me so I can add to this orientation document I am ALWAYS working on. Or just add them.
