@@ -58,3 +58,5 @@ To Figure out:
 - SpaceX Tour?
 
 - VR Lab at annother nearby college tour?
+
+- Thursday 9:30 am Staff Meetings - attend/present
