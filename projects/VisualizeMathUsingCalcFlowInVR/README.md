@@ -21,8 +21,5 @@ Other potential projects - Nanome  - Molecular Exploration:
 Matrix - decentralized research:
 
 
-![Matrix1](https://github.com/Pomona-ITS/hpc/blob/master/projects/VisualizeMathUsingCalcFlowInVR/Screen%20Shot%202018-09-28%20at%206.46.41%20PM.png)
-
-![Matrix2](https://github.com/Pomona-ITS/hpc/blob/master/projects/VisualizeMathUsingCalcFlowInVR/Screen%20Shot%202018-09-28%20at%206.45.51%20PM.png)
 
 
