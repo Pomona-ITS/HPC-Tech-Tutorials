@@ -25,7 +25,7 @@ So far we had 3 meetings, 3DPrinting, VR, and Project Assignment. Those of you t
  
 When you learned something new please train others, encourage ideas and exploration.
  
-Fridays at 2 pm I have a weekly Blog Writing session. This one is mostly for me (discipline), but you are welcome to join as writing buddies. I am hoping that each of you will contribute to the blog that can be found via http://hpc.pomona.edu. By the way, the web site is still a work in progress. It is based on Drupal and if you are interested in helping out with updating the web site content let me know. The blog is WordPress.
+Fridays at 2 pm I have a weekly Blog Writing session. This one is mostly for me (discipline), but you are welcome to join as writing buddies. I am hoping that each of you will contribute to the blog that can be found via http://hpc.pomona.edu. By the way, the web site is still a work in progress. It is based on Drupal and if you are interested in helping out with updating the web site content let me know. The blog is WordPress. If you have a research project that will result in using HPC and publishing a paper - even better.
  
 I have compiled a list of potential projects in https://github.com/Pomona-ITS/hpc/tree/master/projects - let's review and  figure out who wants to do what.  If you see something that sounds interesting – let me know. If you need more details - let me know. If possible work in teams.
  
