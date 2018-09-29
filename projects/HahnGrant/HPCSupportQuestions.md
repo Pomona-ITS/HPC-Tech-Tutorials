@@ -9,7 +9,7 @@ Yes, We use WhenIWork to indicate when we are not available and when our preferr
 
 I am your main point of contact. If you can't find me and Slack/Email failed - Angelina Quevedo can help route you in the right direction. She is our Buisiness Manager and can help with a wide range of issues included but not limited to: HR, Payroll, Purchasing, Software Access, Org Chart... Also asking in #hpc-helpdesk Slack channel is visible to the majority of the ITS team.
 
-3) What if I have no CS experince or skills?
+3) What if I have no CS experience or skills?
 
 Not a problem. I will inundate you with information. You will be running the CS department in no time.
 
