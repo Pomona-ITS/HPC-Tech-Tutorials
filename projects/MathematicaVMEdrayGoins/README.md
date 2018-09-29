@@ -1,4 +1,4 @@
-# This is a project I have discussed wuth professor (Edray Goins)[https://www.pomona.edu/directory/people/edray-goins]
+# This is a project I have discussed wuth professor [Edray Goins](https://www.pomona.edu/directory/people/edray-goins)
 
 The VM is already provisioned (CentOS 7). Need to install Mathematica and make sure it works for him.
 
