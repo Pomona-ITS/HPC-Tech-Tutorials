@@ -1,6 +1,6 @@
 # This is the page for tracking everything that has to do with the Hahn Grant "Teaching Through Technology"
 
-The official description of what Hanhn grant is [here](https://www.pomona.edu/administration/academic-dean/funding/teaching-and-learning).
+The official Pomona description of what Hahn grant is [here](https://www.pomona.edu/administration/academic-dean/funding/teaching-and-learning).
 
 Mary and William had suggested I apply and I did. The submisison text is [here](https://github.com/Pomona-ITS/hpc/blob/master/projects/HahnGrant/ITS_HPC_Submission.md). 
 
