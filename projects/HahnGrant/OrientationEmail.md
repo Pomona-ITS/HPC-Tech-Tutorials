@@ -53,4 +53,4 @@ To Figure out:
 
 - badge access to ITS area (data center?)
 
-- 
+- Develop the idea of a study group (topics like Python, Data Science, use MeetUp?)
