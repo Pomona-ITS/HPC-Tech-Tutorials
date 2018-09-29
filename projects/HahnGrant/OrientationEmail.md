@@ -7,6 +7,7 @@ This is a summary of all the things every one of you needs to know. Please add i
 Seeking Help: If I am not available and you need a question answered, and I am not responsive, and noone is responding on Slack, you can try asking Angelina (angelina.quevedo@pomona.edu), she will be able to answer your question or find someone who can. Or tell you to wait till I become available. Always try to CC us both on important group things if you are sending an email.
  
 We had 23 applicants (!) and 20  have been hired or are in the process. Everyone who is reading this should have already sent their information to Angelina and been entered/is in the process of being entered into Workday/Kronos which you will use to track your time and get paid. Some of you are international students in the process of getting their SSN and that might take a little longer. I will be double-checking.
+To learn more about Hahn Grant go [here](https://github.com/Pomona-ITS/hpc/blob/addf73d189aebe42c10adf60be1af8b06c1ca110/projects/HahnGrant/README.md)
  
 Those of you who are not done with the HR (Human Resources) process yet, cannot officially work. Only watch, and learn, and ask questions.
  
