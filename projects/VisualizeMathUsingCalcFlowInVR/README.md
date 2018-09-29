@@ -10,3 +10,7 @@ https://nanome.ai/
 
 
 *Potential research collaboration
+
+** Other potenatial projects - Nanome  - Molecular Exploration
+
+
