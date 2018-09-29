@@ -9,13 +9,17 @@
 https://nanome.ai/
 
 
-* Potential research collaboration
+Potential research collaboration (Reached out)
 
-** Other potential projects - Nanome  - Molecular Exploration
+ 
+Other potential projects - Nanome  - Molecular Exploration:
+
 
 ![Nanome](https://github.com/Pomona-ITS/hpc/blob/master/projects/VisualizeMathUsingCalcFlowInVR/Screen%20Shot%202018-09-28%20at%206.45.28%20PM.png)
 
-*** Matrix - decentralized research
+
+Matrix - decentralized research:
+
 
 ![Matrix1](https://github.com/Pomona-ITS/hpc/blob/master/projects/VisualizeMathUsingCalcFlowInVR/Screen%20Shot%202018-09-28%20at%206.46.41%20PM.png)
 
