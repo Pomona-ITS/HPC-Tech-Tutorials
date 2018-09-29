@@ -8,6 +8,8 @@ Cole asked to delay this 2 weeks when Summit is ready and the security student w
 
 ![Email and Contact Info](https://github.com/Pomona-ITS/hpc/blob/master/projects/CoreLightVM/Screen%20Shot%202018-09-28%20at%207.11.38%20PM.png)
 
+Previous discovery was recorded [here](https://github.com/Pomona-ITS/hpc/tree/93d8fc712fa40432e46031f5a282e68667704b65/design/vendors/Corelight).
+
 
 
 
