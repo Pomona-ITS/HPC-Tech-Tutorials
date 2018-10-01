@@ -3,3 +3,6 @@
 The template: https://ehs.ucr.edu/laboratory/3d_printing_sop.html
 
 Lindsey is reviewing the template and will upload a draft of the Pomona-specific document.
+
+Lindsey can get David, Jack, Chris involved (or just send a Slack message to the channel to request help).
+
