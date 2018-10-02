@@ -15,7 +15,7 @@ Michelle Zemel <michelle.zemel@gmail.com>; 
 
 Jorge G. Moreno Soto <Jorge.MorenoSoto@pomona.edu>; 
 
-Manisha Goel <Manisha.Goel@pomona.edu>; 
+Manisha Goel <Manisha.Goel@pomona.edu>; (Manisha told me she was opting out)
 
 Daniel J. O'Leary <Daniel.O'Leary@pomona.edu>; 
 
@@ -35,10 +35,12 @@ Rolondo Rene Talbott <Rolondo.Talbott@pomona.edu>; 
 
 Todd Shimoda <Todd.Shimoda@pomona.edu>; 
 
+Siddharth  Dasgupta <sdab2018@pomona.edu> (added in 2018)
+
 
 ## The schedule for 2018 so far:
 
-Friday Sept. 28 1:00-2:00
+Friday Sept. 28 1:00-2:00 (attended: Siddharth, Michelle, Todd, Jorge, Asya, and Mary; main topic: state of HPC and outreach)
 
 Friday Oct. 26 1:00-2:00
 
