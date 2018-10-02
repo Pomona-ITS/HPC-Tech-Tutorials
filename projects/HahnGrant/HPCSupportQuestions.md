@@ -98,4 +98,8 @@ As much as you like and feel comfortable with. Your college studies are always m
 
 Fast/Short - Slack, Longer - Email, Really Long - GitHub. When you reach GitHub's limit - Box (and tell GitHUb where you put stuff in Box). Also, verbally. D'uh.
 
+21) How is my performance evaluated?
+
+As a minimum I ask that you write a blog entry for our research blog because this is funded by a grant called Teaching Through Technology. Beyond that, it is up to you. If you own and complete at least one project, whether assigned or chosen, you have already contributed. Most importantly, I would like to see that you found something you enjoy doing, so initiative is definitely rewarded. And be responsive. If you are not communicating you cannot participate effectively. Also you get paid!
+
 
