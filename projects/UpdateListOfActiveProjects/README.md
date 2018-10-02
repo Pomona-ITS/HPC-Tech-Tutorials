@@ -1,0 +1,3 @@
+# Need to update the list below with the descriptions of each individual folder, to have them all in one list, with status, owner, descriptions. 
+
+Maybe convert this to an Excel spreadsheet...
