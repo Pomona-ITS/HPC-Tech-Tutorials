@@ -16,8 +16,9 @@ After talking to Katherine:
 - Water station should be outside the room (too many outlets)
 - Don't chain power strips (longer cable)
 - Cover the cables when possible
-- We get access to Sakai web site with more educational materials
+- We get access to Sakai web site with more educational materials (TEST)
 - Intros to Chem and Physics 3dprinting peoples
+- Docs from Katherine (REVIEW AND ADAPT): [3DPrinting](https://github.com/Pomona-ITS/hpc/blob/master/projects/HealthAndSafetyManualAndProcedures/3DPrinting.docx) and [Laboratory Injury Reporting](https://github.com/Pomona-ITS/hpc/blob/master/projects/HealthAndSafetyManualAndProcedures/Laboratory%20Injury%20Reporting.docx)
 
 Katherine Rose Muller
 Environmental Health & Safety Officer
