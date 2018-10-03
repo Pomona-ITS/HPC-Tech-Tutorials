@@ -1,0 +1,1 @@
+# This is a placeholder for a project that will summarize what GitHub does, most important terminology and how we use it. Will start here, maybe also in video form on FlipGrid and possisbly as a Blog entry.
